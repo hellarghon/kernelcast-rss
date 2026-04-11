@@ -49,13 +49,25 @@ def obtener_detalle(url, headers):
         r = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # Imagen de cabecera
+        # Imagen: buscar og:image primero, luego primera imagen del contenido
         imagen = None
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
             imagen = og_image["content"]
+        if not imagen:
+            for img in soup.find_all("img", src=True):
+                src = img["src"]
+                if "jwwb.nl" in src or "primary." in src:
+                    imagen = src
+                    break
+        if not imagen:
+            for img in soup.find_all("img", src=True):
+                src = img["src"]
+                if src.startswith("http") and not "logo" in src.lower():
+                    imagen = src
+                    break
 
-        # Descripción / resumen
+        # Descripción: og:description, meta description, o primer párrafo
         descripcion = None
         og_desc = soup.find("meta", property="og:description")
         if og_desc and og_desc.get("content"):
@@ -64,6 +76,12 @@ def obtener_detalle(url, headers):
             meta_desc = soup.find("meta", attrs={"name": "description"})
             if meta_desc and meta_desc.get("content"):
                 descripcion = meta_desc["content"]
+        if not descripcion:
+            for p in soup.find_all("p"):
+                texto = p.get_text(strip=True)
+                if len(texto) > 80:
+                    descripcion = texto[:300]
+                    break
 
         return imagen, descripcion
     except Exception as e:

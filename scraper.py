@@ -52,6 +52,7 @@ def obtener_detalle(url, headers):
         # Imagen: buscar twitter:image, og:image o cualquier imagen jwwb
         imagen = None
         twitter_image = soup.find("meta", property="twitter:image")
+        print(f"twitter_image tag: {twitter_image}")
         if twitter_image and twitter_image.get("content"):
             imagen = twitter_image["content"]
         if not imagen:

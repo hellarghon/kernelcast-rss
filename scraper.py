@@ -49,7 +49,6 @@ def obtener_detalle(url, headers):
         r = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # Imagen: buscar og:image primero, luego primera imagen del contenido
         imagen = None
         og_image = soup.find("meta", property="og:image")
         if og_image and og_image.get("content"):
@@ -63,11 +62,10 @@ def obtener_detalle(url, headers):
         if not imagen:
             for img in soup.find_all("img", src=True):
                 src = img["src"]
-                if src.startswith("http") and not "logo" in src.lower():
+                if src.startswith("http") and "logo" not in src.lower():
                     imagen = src
                     break
 
-        # Descripción: og:description, meta description, o primer párrafo
         descripcion = None
         og_desc = soup.find("meta", property="og:description")
         if og_desc and og_desc.get("content"):
@@ -105,23 +103,4 @@ def generar_rss(articulos):
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = art["titulo"]
         ET.SubElement(item, "link").text = art["url"]
-        ET.SubElement(item, "guid").text = art["url"]
-        ET.SubElement(item, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
-
-        if descripcion:
-            ET.SubElement(item, "description").text = descripcion
-
-        if imagen:
-            media = ET.SubElement(item, "media:content")
-            media.set("url", imagen)
-            media.set("medium", "image")
-
-    tree = ET.ElementTree(rss)
-    ET.indent(tree, space="  ")
-    tree.write(RSS_FILE, encoding="unicode", xml_declaration=True)
-    print(f"RSS generado con {len(articulos[:30])} artículos.")
-
-if __name__ == "__main__":
-    articulos = obtener_articulos()
-    generar_rss(articulos)
-    print("Hecho.")
+        ET.SubElement(item, "guid").text

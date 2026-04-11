@@ -49,22 +49,19 @@ def obtener_detalle(url, headers):
         r = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # Imagen: buscar twitter:image, og:image o cualquier imagen jwwb
         imagen = None
         twitter_image = soup.find("meta", property="twitter:image")
-        print(f"twitter_image tag: {twitter_image}")
         if twitter_image and twitter_image.get("content"):
-            imagen = twitter_image["content"]
+            imagen = twitter_image["content"].replace("&amp;", "&")
         if not imagen:
             og_image = soup.find("meta", property="og:image")
             if og_image and og_image.get("content"):
-                imagen = og_image["content"]
+                imagen = og_image["content"].replace("&amp;", "&")
         if not imagen:
             meta_twitter = soup.find("meta", attrs={"name": "twitter:image"})
             if meta_twitter and meta_twitter.get("content"):
-                imagen = meta_twitter["content"]
+                imagen = meta_twitter["content"].replace("&amp;", "&")
 
-        # Descripción: twitter:description, og:description o meta description
         descripcion = None
         twitter_desc = soup.find("meta", property="twitter:description")
         if twitter_desc and twitter_desc.get("content"):
@@ -100,35 +97,4 @@ def generar_rss(articulos):
     ET.SubElement(channel, "language").text = "es"
 
     for art in articulos[:30]:
-        imagen, descripcion = obtener_detalle(art["url"], headers)
-        time.sleep(1)
-
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = art["titulo"]
-        ET.SubElement(item, "link").text = art["url"]
-        ET.SubElement(item, "guid").text = art["url"]
-        ET.SubElement(item, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
-
-        contenido_html = ""
-        if imagen:
-            contenido_html += f'<img src="{imagen}" style="max-width:100%" /><br/>'
-        if descripcion:
-            contenido_html += f'<p>{descripcion}</p>'
-        if contenido_html:
-            desc_elem = ET.SubElement(item, "description")
-            desc_elem.text = contenido_html
-
-        if imagen:
-            media = ET.SubElement(item, "media:content")
-            media.set("url", imagen)
-            media.set("medium", "image")
-
-    tree = ET.ElementTree(rss)
-    ET.indent(tree, space="  ")
-    tree.write(RSS_FILE, encoding="unicode", xml_declaration=True)
-    print(f"RSS generado con {len(articulos[:30])} artículos.")
-
-if __name__ == "__main__":
-    articulos = obtener_articulos()
-    generar_rss(articulos)
-    print("Hecho.")
+        imagen, descripcion = obtener_

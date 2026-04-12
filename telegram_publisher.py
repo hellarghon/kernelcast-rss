@@ -46,13 +46,13 @@ def main():
         if link and link not in published:
             entries_to_send.append(entry)
 
-    # Publicar en orden cronológico (más antiguo primero)
-    for entry in reversed(entries_to_send):
+    # Publicar solo el artículo más reciente
+    entries_to_send = entries_to_send[:1]
+
+    for entry in entries_to_send:
         title = entry.get("title", "Sin título")
         link = entry.get("link", "")
         description = entry.get("summary", "")
-        # Limpiar HTML básico de la descripción si lo hubiera
-        import re
         description = re.sub(r"<[^>]+>", "", description)
         # Truncar si es muy larga
         if len(description) > 300:

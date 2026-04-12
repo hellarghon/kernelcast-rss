@@ -1,8 +1,8 @@
 import os
 import json
+import re
 import feedparser
 import requests
-from datetime import datetime
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]

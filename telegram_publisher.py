@@ -32,6 +32,8 @@ def send_to_telegram(title, link, description):
         "disable_web_page_preview": False,
     }
     response = requests.post(url, json=payload)
+    print(f"  Status: {response.status_code}")
+    print(f"  Respuesta: {response.text}")
     return response.ok
 
 
@@ -54,7 +56,6 @@ def main():
         link = entry.get("link", "")
         description = entry.get("summary", "")
         description = re.sub(r"<[^>]+>", "", description)
-        # Truncar si es muy larga
         if len(description) > 300:
             description = description[:300].rsplit(" ", 1)[0] + "…"
 

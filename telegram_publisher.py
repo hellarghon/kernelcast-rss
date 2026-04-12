@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import time
 import feedparser
 import requests
 
@@ -40,13 +41,20 @@ def send_to_telegram(title, link, description):
 def main():
     feed = feedparser.parse(FEED_URL)
     published = load_published()
+    published_set = set(published)
     new_published = list(published)
     entries_to_send = []
 
     for entry in feed.entries:
         link = entry.get("link", "")
-        if link and link not in published:
-            entries_to_send.append(entry)
+        if not link or link in published_set:
+            continue
+        pub = entry.get("published_parsed")
+        if pub:
+            age_hours = (time.time() - time.mktime(pub)) / 3600
+            if age_hours > 6:
+                continue
+        entries_to_send.append(entry)
 
     # Publicar solo el artículo más reciente
     entries_to_send = entries_to_send[:1]

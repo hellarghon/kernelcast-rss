@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Apr 2026 20:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:48:17 +0000</lastBuildDate>
     <item>
       <title>Francia le da la espalda a Windows: Linux entra en los despachos del Gobierno. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3117016_francia-le-da-la-espalda-a-windows-linux-entra-en-los-despachos-del-gobierno</link>
       <guid>https://www.kernelcast.es/noticias/3117016_francia-le-da-la-espalda-a-windows-linux-entra-en-los-despachos-del-gobierno</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:37 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:18 +0000</pubDate>
       <description>Europa lleva meses hablando de independencia tecnológica, pero Francia acaba de pasar de las palabras a los hechos. El Gobierno francés ha anunciado que migrará parte de sus sistemas a Linux, el sistema operativo de código abierto, en lo que supone uno de los movimientos más concretos que ha dado un gran país europeo para reducir su dependencia de la tecnología estadounidense. La decisión no llega de la nada. Desde que las tensiones entre la administración Trump y la Unión Europea se han ido acumulando, son cada vez más las voces políticas europeas que cuestionan si tiene sentido seguir confiando la infraestructura pública a empresas como Microsoft o Google, cuyos servidores, normas y precios escapan por completo al control de los gobiernos que las usan.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-wuzuzd.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>KDE Frameworks 6.25: más detalles, mejor experiencia y una unidad de medida muy poco común. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3117007_kde-frameworks-6-25-mas-detalles-mejor-experiencia-y-una-unidad-de-medida-muy-poco-comun</link>
       <guid>https://www.kernelcast.es/noticias/3117007_kde-frameworks-6-25-mas-detalles-mejor-experiencia-y-una-unidad-de-medida-muy-poco-comun</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:38 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:19 +0000</pubDate>
       <description>Si usas KDE Plasma como escritorio de Linux, hay buenas noticias este mes. El Proyecto KDE acaba de publicar KDE Frameworks 6.25, la actualización mensual de las bibliotecas que hacen funcionar todo ese ecosistema de aplicaciones y herramientas. Y aunque a primera vista pueda sonar a mantenimiento rutinario, esta versión trae algunos cambios que vale la pena conocer.Antes de entrar en materia, un poco de contexto. KDE Frameworks es una colección de más de 80 bibliotecas que actúan como la fontanería interna del escritorio KDE Plasma y de todo el conjunto de aplicaciones KDE Gear. Sin ellas, nada funciona: desde el buscador integrado hasta los iconos que ves cada día. Cada mes se publica una nueva versión con correcciones, mejoras y, a veces, alguna novedad inesperada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-raemfg.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Valve está reescribiendo las reglas de la VRAM en Linux antes de que llegue la Steam Machine. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3115459_valve-esta-reescribiendo-las-reglas-de-la-vram-en-linux-antes-de-que-llegue-la-steam-machine</link>
       <guid>https://www.kernelcast.es/noticias/3115459_valve-esta-reescribiendo-las-reglas-de-la-vram-en-linux-antes-de-que-llegue-la-steam-machine</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:39 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:20 +0000</pubDate>
       <description>Antes de que su nueva consola de sobremesa llegue a las tiendas, Valve ya está trabajando en silencio para que funcione mejor que nadie. Y lo está haciendo donde menos lo esperarías: en el corazón del kernel de Linux. Cuando juegas en Linux con una tarjeta gráfica de 8 GB de VRAM la memoria dedicada que usa la GPU para procesar texturas, imágenes y todo lo visual, llega un momento en que esa memoria se llena. En ese punto, el sistema tiene que mover algunos datos a la RAM convencional del ordenador, que es bastante más lenta. Eso se llama desalojo, y en sí mismo no es un problema. El problema era cómo lo gestionaba Linux hasta ahora. El sistema operativo no distinguía entre los datos del juego que estás jugando en ese momento y los de una pestaña de Chrome que dejaste abierta hace dos horas. Para Linux, todo era igual de importante. El resultado: podía desalojar texturas críticas de tu juego para mantener en memoria aplicaciones que ni siquiera estás usando. De ahí venían esos tirones inexplicables, esas bajadas de framerate de fluidez de imagen que aparecían sin motivo aparente.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-j2w1qb.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>KDE Frameworks 6.25.0 llega con cientos de mejoras que no verás, pero sí notarás. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3115451_kde-frameworks-6-25-0-llega-con-cientos-de-mejoras-que-no-veras-pero-si-notaras</link>
       <guid>https://www.kernelcast.es/noticias/3115451_kde-frameworks-6-25-0-llega-con-cientos-de-mejoras-que-no-veras-pero-si-notaras</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:40 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:21 +0000</pubDate>
       <description>Cada mes, el equipo de KDE cumple puntualmente con su cita: una nueva versión de Frameworks, la base sobre la que se construyen el escritorio Plasma y miles de aplicaciones de Linux. Esta vez toca la 6.25.0, y aunque no vas a encontrar ninguna función espectacular que te cambie la vida, lo que hay dentro importa más de lo que parece. Cuando la gente habla de actualizaciones emocionantes, suele pensar en nuevas interfaces, en funciones llamativas, en ese botón que llevaba tiempo pidiendo. Pero la salud real de un proyecto de software se mide también —y sobre todo— en lo que no se ve: corrección de bugs, limpieza de código, mejoras de rendimiento y estabilidad. KDE Frameworks 6.25.0 es exactamente ese tipo de lanzamiento. Aburrido para el titular, fundamental para el sistema. Esta versión toca prácticamente todos los rincones del ecosistema KDE, desde el motor de búsqueda de archivos hasta los iconos, pasando por el portapapeles, el sistema de archivos, los wallets de contraseñas o los diálogos del escritorio. Una revisión amplia que suma muchas piezas pequeñas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-o7txhe.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>iOS 26.4.1: Apple lanza un parche urgente para solucionar el caos silencioso de iCloud. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3114051_ios-26-4-1-apple-lanza-un-parche-urgente-para-solucionar-el-caos-silencioso-de-icloud</link>
       <guid>https://www.kernelcast.es/noticias/3114051_ios-26-4-1-apple-lanza-un-parche-urgente-para-solucionar-el-caos-silencioso-de-icloud</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:41 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:22 +0000</pubDate>
       <description>Si tienes un iPhone o iPad y en los últimos días has notado que tus apps tardaban más de la cuenta en sincronizarse, o que los cambios que hacías en un dispositivo no aparecían donde debían, no estabas imaginándotelo. Había un fallo real en iOS 26.4, y Apple acaba de publicar la solución. La versión iOS 26.4.1 ha llegado con un único propósito claro: corregir un problema serio en la forma en que el iPhone y el iPad se comunicaban con iCloud. No era un fallo espectacular ni uno que apagara la pantalla o bloqueara el dispositivo, sino algo más sutil y, por eso mismo, más frustrante: la sincronización entre dispositivos dejaba de funcionar correctamente sin que el sistema te avisara de ello. Lo que ocurría en iOS 26.4 era que el sistema dejaba de recibir correctamente las notificaciones internas de iCloud, ese mecanismo invisible que avisa a las apps cuando algo ha cambiado en la nube y que provoca que los datos se actualicen casi al instante. Sin esas notificaciones, la sincronización se quedaba congelada hasta que tú mismo abrías la aplicación y la forzabas a actualizarse. Pequeño en apariencia, enorme en el día a día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-xa4ev3.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Microsoft empieza a limpiar Windows 11: adiós a Copilot en el Bloc de notas y en Recortes. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3114050_microsoft-empieza-a-limpiar-windows-11-adios-a-copilot-en-el-bloc-de-notas-y-en-recortes</link>
       <guid>https://www.kernelcast.es/noticias/3114050_microsoft-empieza-a-limpiar-windows-11-adios-a-copilot-en-el-bloc-de-notas-y-en-recortes</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:43 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:23 +0000</pubDate>
       <description>Hace unos meses, muchos usuarios de Windows 11 tenían la sensación de que Copilot se había colado en absolutamente todo, incluso donde nadie lo había pedido. Microsoft ha escuchado esas quejas y ahora, por fin, está empezando a dar marcha atrás de verdad. La semana pasada se conoció que Microsoft está distribuyendo entre los usuarios del programa Windows Insider, el grupo de personas que prueba versiones anticipadas de Windows antes de que lleguen al gran público, una actualización del Bloc de notas que elimina por completo la presencia visible de Copilot en la aplicación. Nada de icono del asistente, nada de referencias explícitas a la inteligencia artificial en los menús. En su lugar, aparece una sección llamada "Herramientas de escritura" con un discreto icono de lápiz. Puede sonar a cambio cosmético, y en cierta medida lo es, pero el simbolismo importa. Durante meses, la crítica más repetida hacia Microsoft no era que la IA fuera mala en sí misma, sino que la empresa la había incrustado en cada rincón del sistema operativo de forma forzada, como si poner el logo de Copilot en una aplicación para tomar notas de texto fuera a convencer a alguien de que la inteligencia artificial era imprescindible en su vida. Spoiler: no funcionó.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-gkz23c.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Firefox vs Chrome en Linux: ¿sigue siendo Firefox una opción competitiva en 2026? / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3114048_firefox-vs-chrome-en-linux-sigue-siendo-firefox-una-opcion-competitiva-en-2026</link>
       <guid>https://www.kernelcast.es/noticias/3114048_firefox-vs-chrome-en-linux-sigue-siendo-firefox-una-opcion-competitiva-en-2026</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:44 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:24 +0000</pubDate>
       <description>Si usas Linux en el escritorio, es muy probable que tu navegador sea Firefox o Chrome. Son los dos grandes, los que se reparten la inmensa mayoría del tráfico web en este sistema operativo, y llevan años enfrentándose en cada comparativa de rendimiento que aparece por internet. Pero hacía tiempo que no se realizaba una prueba seria y actualizada. La espera ha terminado: tenemos datos frescos, hardware moderno y, sobre todo, un nuevo instrumento de medida que cambia bastante las reglas del juego.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-jzhcew.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Linux supera el 5% en Steam: ¿está cambiando por fin el panorama del gaming en Linux?. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3112637_linux-supera-el-5-en-steam-esta-cambiando-por-fin-el-panorama-del-gaming-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3112637_linux-supera-el-5-en-steam-esta-cambiando-por-fin-el-panorama-del-gaming-en-linux</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:25 +0000</pubDate>
       <description>Hace unos años, decirle a alguien que jugabas a videojuegos en Linux era casi una declaración de fe. Hoy, esa misma frase empieza a sonar a algo más parecido a una opción real. Por primera vez en la historia de las encuestas de Steam, Linux ha superado el umbral del 5% de cuota de mercado, y eso merece que le dediquemos un momento de atención. Seamos honestos: un 5,33% no es un número que quite el sueño a Microsoft. Pero para entender por qué este dato importa, hay que ponerlo en perspectiva. En febrero de 2026, Linux representaba apenas el 2,20% de los usuarios de Steam que respondieron a la encuesta mensual de hardware y software de Valve. En diciembre del año anterior, la cifra era del 3,50%. En un solo mes, ese porcentaje se ha disparado hasta superar el 5% por primera vez en la historia de estas encuestas. Históricamente, Linux nunca había cruzado esa barrera, ni siquiera en sus mejores momentos. Para que te hagas una idea de lo que significa ese techo histórico: llevamos años viendo cómo Linux se quedaba a las puertas, como un equipo que lleva temporadas rozando el ascenso sin acabar de conseguirlo. Que ahora lo haya logrado, aunque sea con matices, es una señal que la comunidad llevaba tiempo esperando.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-fh9z5f.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>PipeWire 1.6.3: la actualización silenciosa que hace que tu audio en Linux funcione mejor. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3112624_pipewire-1-6-3-la-actualizacion-silenciosa-que-hace-que-tu-audio-en-linux-funcione-mejor</link>
       <guid>https://www.kernelcast.es/noticias/3112624_pipewire-1-6-3-la-actualizacion-silenciosa-que-hace-que-tu-audio-en-linux-funcione-mejor</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:46 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:26 +0000</pubDate>
       <description>Hay actualizaciones que no hacen ruido pero que se notan. PipeWire 1.6.3 es exactamente ese tipo de lanzamiento: sin grandes titulares, pero con un buen puñado de correcciones que mejoran la estabilidad del sonido y el vídeo en tu sistema Linux. Si alguna vez has tenido problemas reproduciendo audio en un altavoz inalámbrico o has notado fallos inexplicables en las transmisiones, esta versión va por ti.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-1yc32f.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>KDE Connect y Plasma: tu móvil y tu ordenador, por fin más unidos que nunca. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3112621_kde-connect-y-plasma-tu-movil-y-tu-ordenador-por-fin-mas-unidos-que-nunca</link>
       <guid>https://www.kernelcast.es/noticias/3112621_kde-connect-y-plasma-tu-movil-y-tu-ordenador-por-fin-mas-unidos-que-nunca</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:47 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:27 +0000</pubDate>
       <description>Si alguna vez has copiado un texto en el ordenador y has deseado poder pegarlo directamente en el móvil sin complicaciones, ya conoces la magia de KDE Connect. Pero lo que viene ahora va mucho más allá de ese truco: el escritorio Plasma está a punto de integrarse con tu teléfono de una forma que no habías visto antes. Un desarrollador ha estado trabajando durante semanas en una integración más profunda entre KDE Connect y Plasma, y los resultados son de esos que hacen que te preguntes cómo has podido vivir sin ellos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-pe1oid.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>La IA que busca tus vulnerabilidades antes que los hackers. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3110997_la-ia-que-busca-tus-vulnerabilidades-antes-que-los-hackers</link>
       <guid>https://www.kernelcast.es/noticias/3110997_la-ia-que-busca-tus-vulnerabilidades-antes-que-los-hackers</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:48 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:28 +0000</pubDate>
       <description>Hay una carrera silenciosa en marcha. Por un lado, los atacantes usan cada vez más inteligencia artificial para encontrar fallos en los sistemas. Por el otro, las grandes tecnológicas empiezan a responder con sus propias herramientas. Y Anthropic acaba de dar un paso importante en ese segundo frente. Anthropic presentó hace unos días el Proyecto Glasswing, una iniciativa pensada para poner la inteligencia artificial al servicio de la ciberseguridad. El corazón de este proyecto es Mythos Preview, un modelo diseñado específicamente para detectar y corregir vulnerabilidades en sistemas operativos y navegadores web antes de que alguien malintencionado pueda explotarlas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-4ob8ke.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Little Snitch llega a Linux: vigila qué hace tu sistema en secreto. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3110930_little-snitch-llega-a-linux-vigila-que-hace-tu-sistema-en-secreto</link>
       <guid>https://www.kernelcast.es/noticias/3110930_little-snitch-llega-a-linux-vigila-que-hace-tu-sistema-en-secreto</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:49 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:29 +0000</pubDate>
       <description>Si alguna vez te has preguntado qué programas de tu ordenador están mandando datos a internet sin que tú lo hayas pedido, existe una herramienta que lleva años dando respuestas en Mac. Ahora también está disponible para Linux. Little Snitch es una de esas aplicaciones que, una vez que la pruebas, no entiendes cómo has vivido sin ella. Su premisa es sencilla: te muestra qué procesos de tu sistema están haciendo conexiones de red y te deja decidir si quieres permitirlas o cortarlas. Lleva más de dos décadas siendo una referencia en macOS, y su creador acaba de lanzar una versión para Linux.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-hfryc5.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:50 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:30 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:51 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:31 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:53 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:32 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:54 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:33 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:55 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:34 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:56 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:35 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:57 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:35 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:58 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:36 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Mon, 13 Apr 2026 20:54:59 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:37 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Mon, 13 Apr 2026 20:55:00 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:38 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title> ¡Ojo Archers! La última actualización de linux-firmware necesita una ayudita manual. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</link>
       <guid>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</guid>
-      <pubDate>Mon, 13 Apr 2026 20:55:01 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:39 +0000</pubDate>
       <description>¿Has intentado actualizar tu Arch y de repente te has topado con un mensaje de error relacionado con linux-firmware? Tranquilo, no es culpa tuya ni del universo. Esta vez, simplemente necesitas dar un pequeño paso extra para que todo vuelva a fluir como de costumbre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-22-2025-13-46-58-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo hacer que GRUB detecte Windows en distribuciones basadas en Arch / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</link>
       <guid>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</guid>
-      <pubDate>Mon, 13 Apr 2026 20:55:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 21:48:40 +0000</pubDate>
       <description>Cuando tienes más de un sistema operativo instalado y GRUB no los detecta automáticamente, puedessolucionarlo siguiendo estos pasos. Este proceso es útil para sistemas basados en Arch Linux o derivados.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-08-2025-09-33-49-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>

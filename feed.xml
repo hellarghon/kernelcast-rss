@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Apr 2026 16:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:56:44 +0000</lastBuildDate>
     <item>
       <title>Shelly 2.1: el gestor que convierte el caos de AppImage en algo manejable. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3127973_shelly-2-1-el-gestor-que-convierte-el-caos-de-appimage-en-algo-manejable</link>
       <guid>https://www.kernelcast.es/noticias/3127973_shelly-2-1-el-gestor-que-convierte-el-caos-de-appimage-en-algo-manejable</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:07 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:45 +0000</pubDate>
       <description>Si usas Arch Linux y alguna vez has tenido que lidiar con un puñado de AppImages repartidos por tu sistema sin ningún orden, sabes exactamente de qué va esto. Shelly 2.1 acaba de llegar con una promesa concreta: hacer que gestionar este tipo de aplicaciones deje de ser un dolor de cabeza.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-xuafpi.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>GIMP 3.2.4 ya está aquí: más preciso, más estable y con mejoras que notarás desde el primer clic / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3127970_gimp-3-2-4-ya-esta-aqui-mas-preciso-mas-estable-y-con-mejoras-que-notaras-desde-el-primer-clic</link>
       <guid>https://www.kernelcast.es/noticias/3127970_gimp-3-2-4-ya-esta-aqui-mas-preciso-mas-estable-y-con-mejoras-que-notaras-desde-el-primer-clic</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:08 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:46 +0000</pubDate>
       <description>Si usas GIMP con cierta regularidad, sabes que esos pequeños fallos que aparecen en momentos concretos pueden ser increíblemente molestos. El texto que se descoloca al girar el lienzo, las líneas parpadeantes que ralentizan el rendimiento, los archivos que no se importan bien... Pues bien, la versión 3.2.4 viene a atacar precisamente ese tipo de problemas. No es una actualización revolucionaria, pero es exactamente el tipo de versión que hace que el programa se sienta más sólido y confiable en el día a día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-is3vej.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Google Gemini llega al Mac: rápido, práctico y con ganas de plantarle cara a Apple. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3126607_google-gemini-llega-al-mac-rapido-practico-y-con-ganas-de-plantarle-cara-a-apple</link>
       <guid>https://www.kernelcast.es/noticias/3126607_google-gemini-llega-al-mac-rapido-practico-y-con-ganas-de-plantarle-cara-a-apple</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:09 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:47 +0000</pubDate>
       <description>Google acaba de lanzar una aplicación nativa de Gemini para macOS, y la propuesta es clara desde el primer momento: estar ahí cuando la necesitas, sin que tengas que ir a buscarla. Si trabajas en un Mac y te preguntas si esto va a cambiar tu forma de usar el ordenador, la respuesta corta es: depende de cómo trabajes. La respuesta larga, la tienes aquí. Lo primero que llama la atención de Gemini para Mac no es lo que hace, sino cómo funciona. No es una aplicación que abres desde el Dock y que luego dejas abierta en segundo plano mientras acumulas pestañas. Es una ventana ligera que aparece al instante con un atajo de teclado, lista para que empieces a escribir.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-notpfc.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>KDE Gear 26.04: las aplicaciones de Linux que usas cada día acaban de mejorar mucho. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3126605_kde-gear-26-04-las-aplicaciones-de-linux-que-usas-cada-dia-acaban-de-mejorar-mucho</link>
       <guid>https://www.kernelcast.es/noticias/3126605_kde-gear-26-04-las-aplicaciones-de-linux-que-usas-cada-dia-acaban-de-mejorar-mucho</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:10 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:48 +0000</pubDate>
       <description>Si usas Linux con el escritorio KDE Plasma, esta semana tienes un buen motivo para actualizar tu sistema. El Proyecto KDE ha lanzado KDE Gear 26.04, una actualización colectiva de decenas de aplicaciones que toca casi todo: desde cómo ves fotos hasta cómo editas vídeos, pasando por tu cliente de chat o tu lector de documentos. Y aunque los cambios no siempre hacen titulares, en el día a día se notan, y mucho. KDE Gear no es una sola aplicación, sino un paquete que agrupa todas las herramientas del ecosistema KDE y que se actualiza de forma coordinada varias veces al año. Piensa en él como una "puesta a punto general" del software que acompaña al escritorio KDE Plasma. Esta versión en concreto llega con un guiño especial: el Proyecto KDE cumple 30 años en octubre, y esta actualización forma parte de la celebración.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-1grrqi.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Fedora Linux 44 RC-1.3: cómo ayudar a mejorar el sistema operativo que usa medio internet. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3125778_fedora-linux-44-rc-1-3-como-ayudar-a-mejorar-el-sistema-operativo-que-usa-medio-internet</link>
       <guid>https://www.kernelcast.es/noticias/3125778_fedora-linux-44-rc-1-3-como-ayudar-a-mejorar-el-sistema-operativo-que-usa-medio-internet</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:11 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:49 +0000</pubDate>
       <description>Hay una nueva versión de Fedora Linux en camino, y antes de llegar al público general necesita pasar por algo fundamental: que la gente real la pruebe y diga qué falla. Si alguna vez te has preguntado cómo se construye un sistema operativo sin que salga lleno de errores, esta es exactamente la respuesta. El equipo detrás de Fedora Linux acaba de liberar la tercera versión candidata del que será Fedora 44, identificada como RC-1.3. Esto no es la versión definitiva, sino una instantánea del sistema casi terminado que se pone en manos de la comunidad para detectar problemas antes de que lleguen a los usuarios habituales. Y tú puedes ser parte de ese proceso.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-b3g4ex.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Arch Linux da el salto definitivo: adiós a X.Org en su instalador. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3125434_arch-linux-da-el-salto-definitivo-adios-a-x-org-en-su-instalador</link>
       <guid>https://www.kernelcast.es/noticias/3125434_arch-linux-da-el-salto-definitivo-adios-a-x-org-en-su-instalador</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:12 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:50 +0000</pubDate>
       <description>Si llevas tiempo siguiendo el mundo de Linux, ya sabes que el debate entre Wayland y X.Org ha sido uno de esos temas recurrentes que parecían no tener fin. Pues bien, el instalador oficial de Arch Linux acaba de tomar partido de forma clara: con la llegada de Archinstall 4.2, Wayland se convierte en el centro de la experiencia de instalación y X.Org pasa a un segundo plano. No es un cambio menor. Es una señal de que la transición que llevaba años gestándose está llegando a su punto de madurez.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-u9lk1k.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>SSDs Samsung falsos están llegando a Europa: así puedes evitar que te timen. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3123899_ssds-samsung-falsos-estan-llegando-a-europa-asi-puedes-evitar-que-te-timen</link>
       <guid>https://www.kernelcast.es/noticias/3123899_ssds-samsung-falsos-estan-llegando-a-europa-asi-puedes-evitar-que-te-timen</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:13 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:51 +0000</pubDate>
       <description>Si creías que los productos tecnológicos falsificados eran un problema exclusivo de mercados lejanos, esta noticia te va a hacer reflexionar. Hay unidades SSD Samsung 990 Pro falsas circulando por Europa, y el embalaje es tan convincente que a simple vista resulta casi imposible distinguirlas de las originales. El caso saltó a la luz cuando un comprador austriaco encargó dos unidades Samsung 990 Pro de 1 TB a un distribuidor local. Al recibirlas, el paquete tenía todo el aspecto de ser legítimo: sello, marcas, presentación cuidada. Pero algo no cuadraba.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-jz2a00.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>KDE cumple 30 años y lo celebra con una gran actualización de sus aplicaciones. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3123893_kde-cumple-30-anos-y-lo-celebra-con-una-gran-actualizacion-de-sus-aplicaciones</link>
       <guid>https://www.kernelcast.es/noticias/3123893_kde-cumple-30-anos-y-lo-celebra-con-una-gran-actualizacion-de-sus-aplicaciones</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:14 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:52 +0000</pubDate>
       <description>Tres décadas de software libre, comunidad activa y aplicaciones que siguen mejorando con cada versión. KDE Gear 26.04 llega cargado de novedades para el escritorio Linux, y hay motivos de sobra para prestarle atención. El pasado 16 de abril, KDE lanzó la edición 26.04 de su suite de aplicaciones, bautizada internamente como "KDE a los 30" en honor al trigésimo aniversario del proyecto. Pero más allá del número redondo, lo que de verdad importa es lo que trae esta versión: mejoras concretas en aplicaciones que ya usas a diario, y señales de que la comunidad tiene mucha energía por delante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-b1zcza.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Mesa 26.0.5: la actualización silenciosa que mantiene tus gráficos en forma. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3122195_mesa-26-0-5-la-actualizacion-silenciosa-que-mantiene-tus-graficos-en-forma</link>
       <guid>https://www.kernelcast.es/noticias/3122195_mesa-26-0-5-la-actualizacion-silenciosa-que-mantiene-tus-graficos-en-forma</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:15 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:53 +0000</pubDate>
       <description>Hay actualizaciones que traen titulares y hay actualizaciones que simplemente hacen que todo funcione mejor. Mesa 26.0.5 pertenece claramente al segundo grupo, y aunque no verás su nombre en ningún anuncio espectacular, si usas Linux con gráficos AMD o Intel notarás la diferencia donde más importa: en la estabilidad del día a día. Antes de entrar en materia, un apunte rápido para quien no esté familiarizado con el término. Mesa es la capa de software que hace de puente entre tu sistema operativo Linux y la tarjeta gráfica. Es, en esencia, lo que permite que los controladores de código abierto de AMD, Intel y ARM hablen correctamente con el hardware. Sin Mesa funcionando bien, los juegos fallan, los vídeos parpadean y las aplicaciones que usan aceleración gráfica se comportan de forma impredecible. Esta versión 26.0.5 no introduce funciones nuevas. Su objetivo es uno solo: corregir errores que los usuarios más avanzados llevaban tiempo reportando desde la última actualización importante. Y lo hace con bastante precisión quirúrgica.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-6go4ak.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>Zorin OS 18.1: más fácil que nunca dejar Windows atrás. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3122186_zorin-os-18-1-mas-facil-que-nunca-dejar-windows-atras</link>
       <guid>https://www.kernelcast.es/noticias/3122186_zorin-os-18-1-mas-facil-que-nunca-dejar-windows-atras</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:16 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:54 +0000</pubDate>
       <description>Si alguna vez te has planteado dar el salto a Linux pero te ha frenado la idea de quedarte sin tus aplicaciones habituales, Zorin OS tiene algo que decirte. Su nueva versión 18.1 acaba de aterrizar con una propuesta clara: hacer que la transición desde Windows sea lo más indolora posible, y esta vez lo dice en serio. Zorin OS lleva años labrándose un hueco entre las distribuciones Linux más amigables para quienes vienen del mundo Windows. No es solo una cuestión de estética, aunque también cuida mucho ese aspecto. Su verdadero valor añadido está en cómo te acompaña durante el proceso de adaptación, especialmente cuando te topas con un programa de Windows que no tiene versión para Linux. Esta versión 18.1 llega seis meses después de su predecesora y se asienta sobre Ubuntu 24.04.4 LTS, una base sólida y con soporte garantizado hasta 2029. Bajo el capó monta el kernel Linux 6.17 HWE, la pila gráfica Mesa 25.2 y la suite ofimática LibreOffice 26.2, todo actualizado y listo para el día a día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-77m37u.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Apple reorganiza iWork para Mac y algunas funciones ya no son del todo gratis. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3120510_apple-reorganiza-iwork-para-mac-y-algunas-funciones-ya-no-son-del-todo-gratis</link>
       <guid>https://www.kernelcast.es/noticias/3120510_apple-reorganiza-iwork-para-mac-y-algunas-funciones-ya-no-son-del-todo-gratis</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:17 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:56 +0000</pubDate>
       <description>Si usas Pages, Keynote o Numbers en tu Mac, hay algo que debes saber. Apple acaba de reorganizar estas apps de forma silenciosa y, aunque siguen siendo gratuitas, el modelo con el que las conocías ha cambiado de una forma que merece una explicación.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-519fx9.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Ubuntu 26.04 llega con una mejora gráfica que va a sorprender a los usuarios de AMD. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3120499_ubuntu-26-04-llega-con-una-mejora-grafica-que-va-a-sorprender-a-los-usuarios-de-amd</link>
       <guid>https://www.kernelcast.es/noticias/3120499_ubuntu-26-04-llega-con-una-mejora-grafica-que-va-a-sorprender-a-los-usuarios-de-amd</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:18 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:57 +0000</pubDate>
       <description>Si tienes un portátil con procesador AMD Ryzen AI de la serie 300 o 400, tienes motivos para estar atento al próximo lanzamiento de Ubuntu 26.04. Las pruebas realizadas antes de su lanzamiento oficial apuntan a mejoras de rendimiento muy notables, especialmente en el apartado gráfico, y el salto respecto a Ubuntu 24.04 es más grande de lo que podrías esperar.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-5bwxlq.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:19 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:58 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:20 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:56:59 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:21 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:00 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:22 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:01 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:23 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:02 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:24 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:03 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:25 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:04 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:25 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:05 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:26 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:06 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:27 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:07 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title> ¡Ojo Archers! La última actualización de linux-firmware necesita una ayudita manual. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</link>
       <guid>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:28 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:08 +0000</pubDate>
       <description>¿Has intentado actualizar tu Arch y de repente te has topado con un mensaje de error relacionado con linux-firmware? Tranquilo, no es culpa tuya ni del universo. Esta vez, simplemente necesitas dar un pequeño paso extra para que todo vuelva a fluir como de costumbre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-22-2025-13-46-58-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo hacer que GRUB detecte Windows en distribuciones basadas en Arch / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</link>
       <guid>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</guid>
-      <pubDate>Mon, 20 Apr 2026 16:08:29 +0000</pubDate>
+      <pubDate>Mon, 20 Apr 2026 17:57:09 +0000</pubDate>
       <description>Cuando tienes más de un sistema operativo instalado y GRUB no los detecta automáticamente, puedessolucionarlo siguiendo estos pasos. Este proceso es útil para sistemas basados en Arch Linux o derivados.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-08-2025-09-33-49-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>

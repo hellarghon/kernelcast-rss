@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Sat, 02 May 2026 10:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:43:34 +0000</lastBuildDate>
     <item>
       <title>GitHub se está cayendo a pedazos y los desarrolladores están hartos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3146781_github-se-esta-cayendo-a-pedazos-y-los-desarrolladores-estan-hartos</link>
       <guid>https://www.kernelcast.es/noticias/3146781_github-se-esta-cayendo-a-pedazos-y-los-desarrolladores-estan-hartos</guid>
-      <pubDate>Sat, 02 May 2026 10:50:56 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:35 +0000</pubDate>
       <description>Durante años, GitHub fue el lugar donde vivía internet por dentro. El sitio donde los programadores guardaban su trabajo, colaboraban con otros y construían cosas increíbles juntos. Pero algo ha cambiado, y no en la dirección correcta. Cada vez más voces conocidas están diciendo adiós, y los motivos son tan concretos como preocupantes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-uxk8pz.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>D7VK 1.8: la herramienta que resucita tus juegos clásicos en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3145280_d7vk-1-8-la-herramienta-que-resucita-tus-juegos-clasicos-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3145280_d7vk-1-8-la-herramienta-que-resucita-tus-juegos-clasicos-en-linux</guid>
-      <pubDate>Sat, 02 May 2026 10:50:59 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:36 +0000</pubDate>
       <description>Imagina poder volver a jugar a los títulos que marcaron tu infancia sin sufrir pantallas rotas, personajes deformados ni menús que simplemente no aparecen. Eso es exactamente lo que acaba de hacer posible D7VK 1.8, una actualización que convierte décadas de incompatibilidades en historia pasada. Antes de entrar en materia, conviene que sepas de qué hablamos. D7VK es una capa de compatibilidad que traduce las instrucciones gráficas antiguas de DirectX 7, el estándar que usaban la mayoría de los juegos de finales de los noventa y principios de los dos mil, al lenguaje moderno Vulkan, que es el que entienden las tarjetas gráficas actuales. En otras palabras, hace de intérprete entre el pasado y el presente. El problema de fondo es que aquellos juegos fueron diseñados para un hardware muy específico que ya no existe, y que tenía formas de hacer las cosas bastante peculiares. Cuando intentas ejecutarlos en un sistema moderno, especialmente en Linux, el resultado suele ser una mezcla de geometría corrupta, colores incorrectos, menús invisibles y cierres inesperados. D7VK lleva tiempo intentando resolver eso, y con esta versión 1.8 da un salto importante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-8arq4u.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Kdenlive 26.04: el editor de vídeo libre que no para de crecer. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3145274_kdenlive-26-04-el-editor-de-video-libre-que-no-para-de-crecer</link>
       <guid>https://www.kernelcast.es/noticias/3145274_kdenlive-26-04-el-editor-de-video-libre-que-no-para-de-crecer</guid>
-      <pubDate>Sat, 02 May 2026 10:51:01 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:38 +0000</pubDate>
       <description>Si editas vídeo en Linux, o simplemente te importa el software libre, tienes razones de sobra para prestar atención a lo que acaba de llegar. El equipo de Kdenlive acaba de publicar su primera versión importante de 2026, y viene cargada de novedades que hacen el programa más cómodo, más potente y más fácil de usar para todo tipo de creadores. La versión 26.04.0 no es una actualización menor de mantenimiento. Es el resultado de un ciclo de desarrollo centrado en tres pilares: estabilidad, interfaz y usabilidad. Y, según el propio equipo, es la primera vez en la historia del proyecto en la que tantos colaboradores distintos han aportado código. La comunidad está creciendo, y se nota.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-mvfbph.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Las gafas de Apple que te escuchan, te ven y obedecen tus gestos llegarán en 2027. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3143382_las-gafas-de-apple-que-te-escuchan-te-ven-y-obedecen-tus-gestos-llegaran-en-2027</link>
       <guid>https://www.kernelcast.es/noticias/3143382_las-gafas-de-apple-que-te-escuchan-te-ven-y-obedecen-tus-gestos-llegaran-en-2027</guid>
-      <pubDate>Sat, 02 May 2026 10:51:04 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:39 +0000</pubDate>
       <description>Imagina caminar por la calle, señalar algo con la mano y pedirle a Siri que te explique lo que estás mirando, sin sacar el móvil del bolsillo ni tocar ningún botón. Eso es exactamente lo que Apple está construyendo. Y según los últimos informes, el proyecto avanza más deprisa de lo que muchos esperaban. Las próximas gafas inteligentes de Apple se perfilan como uno de los productos más ambiciosos de la compañía en años, y los detalles técnicos que van filtrándose dibujan un dispositivo que, aunque sencillo en apariencia, esconde una filosofía de uso bastante diferente a todo lo que Apple ha lanzado hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-nc8yom.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Rust no es sinónimo de seguridad: Ubuntu frena su migración tras descubrir 113 fallos en su reemplazo de herramientas GNU. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3143377_rust-no-es-sinonimo-de-seguridad-ubuntu-frena-su-migracion-tras-descubrir-113-fallos-en-su-reemplazo-de-herramientas-gnu</link>
       <guid>https://www.kernelcast.es/noticias/3143377_rust-no-es-sinonimo-de-seguridad-ubuntu-frena-su-migracion-tras-descubrir-113-fallos-en-su-reemplazo-de-herramientas-gnu</guid>
-      <pubDate>Sat, 02 May 2026 10:51:07 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:40 +0000</pubDate>
       <description>Si usas Linux, probablemente ni te hayas fijado en ellas, pero hay un conjunto de pequeñas herramientas que mueven los engranajes de tu sistema cada vez que copias un archivo, cambias permisos o eliminas una carpeta. Canonical, la empresa detrás de Ubuntu, quería modernizarlas por completo. El resultado de ese intento ha sido una auditoria de seguridad que ha sacudido a la comunidad. El plan era ambicioso: sustituir las veteranas GNU Coreutils por una versión reescrita en Rust, el lenguaje de programación que promete eliminar errores de memoria y ofrecer un código más robusto por diseño. El proyecto se llama uutils coreutils, y parecía una apuesta ganadora. Hasta que llegó la auditoría.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-0dp2o3.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Fedora Linux 44 ya está aquí: todo lo que cambia en la nueva versión del sistema operativo libre más emocionante. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3141748_fedora-linux-44-ya-esta-aqui-todo-lo-que-cambia-en-la-nueva-version-del-sistema-operativo-libre-mas-emocionante</link>
       <guid>https://www.kernelcast.es/noticias/3141748_fedora-linux-44-ya-esta-aqui-todo-lo-que-cambia-en-la-nueva-version-del-sistema-operativo-libre-mas-emocionante</guid>
-      <pubDate>Sat, 02 May 2026 10:51:09 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:41 +0000</pubDate>
       <description>Si nunca has oído hablar de Fedora Linux, piensa en él como uno de esos sistemas operativos alternativos a Windows o macOS que cada año sorprende con ideas que luego adopta el resto del mundo tecnológico. Acaba de llegar su versión 44, y aunque desde fuera pueda parecer "otra actualización más", hay cambios que merecen que le eches un vistazo aunque no seas un experto en informática. La edición más popular de Fedora, la llamada Workstation, viene ahora con GNOME 50. GNOME es el entorno de escritorio, es decir, todo lo que ves en pantalla cuando enciendes el ordenador: el menú, las ventanas, los iconos, la barra de tareas. Esta versión cincuenta —que ya solo el número dice algo sobre lo madura que está la plataforma— trae mejoras en accesibilidad, en la gestión del color de pantalla y en el escritorio remoto, algo muy útil si alguna vez necesitas conectarte a tu equipo desde otro lugar. Además, muchas de las aplicaciones que vienen instaladas por defecto han recibido actualizaciones: el visor de documentos, el administrador de archivos y el calendario, entre otras. No son cambios que te vayan a dejar sin palabras, pero sí hacen que el día a día sea más fluido y menos frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-dljeu4.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Kdenlive 26.04 llega con duplicación de pantalla y novedades que cambian cómo editas vídeo en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3139989_kdenlive-26-04-llega-con-duplicacion-de-pantalla-y-novedades-que-cambian-como-editas-video-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3139989_kdenlive-26-04-llega-con-duplicacion-de-pantalla-y-novedades-que-cambian-como-editas-video-en-linux</guid>
-      <pubDate>Sat, 02 May 2026 10:51:12 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:42 +0000</pubDate>
       <description>Si editas vídeo en Linux, o tienes curiosidad por hacerlo, esta semana hay una actualización que merece tu atención. Kdenlive, el editor de vídeo libre y de código abierto más popular del ecosistema KDE, acaba de publicar su versión 26.04, y la lista de novedades es más generosa de lo que el número de versión sugiere. Kdenlive es uno de esos programas que lleva años madurando en silencio. No tiene el marketing de Premiere ni el ecosistema de DaVinci Resolve, pero para quien edita en Linux representa una opción seria, estable y completamente gratuita. Con cada nueva versión, el equipo de desarrollo tira de pragmatismo: identifican qué cosas ralentizan el trabajo real de los usuarios y las arreglan. Esta versión 26.04 sigue esa misma lógica. El titular más llamativo de esta actualización es la duplicación de monitores en modo pantalla completa. Si trabajas con dos pantallas —algo muy común en configuraciones de edición— ahora puedes replicar cualquier monitor mientras editas a pantalla completa. Parece un detalle menor, pero si alguna vez has tenido que saltar entre ventanas para revisar cómo queda tu metraje en un monitor secundario, sabes exactamente lo frustrante que era no tener esto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-ksodjm.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Ubuntu no quiere ser el próximo sistema operativo "de IA". Quiere ser algo mejor.. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3139987_ubuntu-no-quiere-ser-el-proximo-sistema-operativo-de-ia-quiere-ser-algo-mejor</link>
       <guid>https://www.kernelcast.es/noticias/3139987_ubuntu-no-quiere-ser-el-proximo-sistema-operativo-de-ia-quiere-ser-algo-mejor</guid>
-      <pubDate>Sat, 02 May 2026 10:51:14 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:43 +0000</pubDate>
       <description>Hay una tendencia en el mundo del software que ya conoces bien: poner el sello de "con inteligencia artificial" a todo lo que se mueva, aunque sea para cambiar el nombre de una función que ya existía. Canonical, la empresa detrás de Ubuntu, ha decidido ir en sentido contrario. Su plan para integrar IA en el sistema operativo más popular de Linux es, cuanto menos, sorprendentemente sensato. Jon Seager, vicepresidente de ingeniería de Ubuntu en Canonical, publicó recientemente un documento en el foro oficial de la comunidad que deja bastante claro el rumbo que van a tomar. Y la palabra clave no es "IA". La palabra clave es "responsabilidad". Canonical no va a lanzar una versión de Ubuntu anunciada a bombo y platillo como "el sistema operativo de la IA". En su lugar, las funciones relacionadas con inteligencia artificial se irán incorporando de forma gradual, solo cuando los ingenieros de la compañía consideren que están suficientemente maduras y que encajan con los valores históricos del proyecto: seguridad, privacidad, calidad y código abierto. Eso significa que si una función de IA no cumple esos estándares, sencillamente no llega. Sin prisas. Sin marketing vacío.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9pi9ms.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>La VPN gratuita de Firefox ya te deja elegir el servidor: esto es lo que cambia. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3138431_la-vpn-gratuita-de-firefox-ya-te-deja-elegir-el-servidor-esto-es-lo-que-cambia</link>
       <guid>https://www.kernelcast.es/noticias/3138431_la-vpn-gratuita-de-firefox-ya-te-deja-elegir-el-servidor-esto-es-lo-que-cambia</guid>
-      <pubDate>Sat, 02 May 2026 10:51:16 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:44 +0000</pubDate>
       <description>Firefox lleva semanas dando que hablar con su VPN integrada y completamente gratuita, pero le faltaba algo que cualquier usuario avanzado echaba en cara desde el primer día. Con Firefox 151, eso está a punto de cambiar. Desde Firefox 149, Mozilla incorporó una VPN directamente dentro del navegador para usuarios en Estados Unidos, Reino Unido, Francia y Alemania. Con Firefox 150 se sumó Canadá. La propuesta es sencilla: cuando la activas, tu dirección IP real queda oculta y tu tráfico pasa por un servidor seguro gestionado por Fastly, una empresa de infraestructura de red. Todo ello sin instalar nada adicional y con un límite de uso de 50 GB al mes, lo que para la mayoría de personas es más que suficiente para un uso cotidiano.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-t1v8sh.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>CachyOS se renueva en abril: huella dactilar para sudo, DNS privado y un instalador más inteligente, / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3138427_cachyos-se-renueva-en-abril-huella-dactilar-para-sudo-dns-privado-y-un-instalador-mas-inteligente</link>
       <guid>https://www.kernelcast.es/noticias/3138427_cachyos-se-renueva-en-abril-huella-dactilar-para-sudo-dns-privado-y-un-instalador-mas-inteligente</guid>
-      <pubDate>Sat, 02 May 2026 10:51:19 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:46 +0000</pubDate>
       <description>Si usas CachyOS o llevas tiempo pensando en probarlo, abril de 2026 trae razones de sobra para prestar atención. La distribución basada en Arch acaba de publicar su tercera versión del año, y esta vez las novedades no son solo cosméticas: tocan la seguridad, la privacidad y la experiencia de instalación desde la raíz. Uno de los cambios más visibles es la sustitución de Octopi por Shelly como gestor de paquetes con interfaz gráfica. Si nunca has usado ninguno de los dos, piénsalo así: es la tienda de aplicaciones de tu sistema, solo que con más potencia y pensada para usuarios que quieren control sin renunciar a la comodidad. Shelly llega como opción predeterminada porque ofrece una experiencia más moderna y limpia. Pero hay algo que quizás te pase desapercibido y que en realidad es muy práctico: justo al terminar la instalación, el sistema crea automáticamente una instantánea permanente de tu sistema recién instalado. Eso significa que tienes un punto de restauración desde el primer momento, sin tener que configurar nada. Si algo se tuerce más adelante, puedes volver a ese estado inicial sin dramas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-gkv0pd.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Olvidaste la contraseña de tu iPhone: tienes 72 horas para salvarte sin perder nada. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3137181_olvidaste-la-contrasena-de-tu-iphone-tienes-72-horas-para-salvarte-sin-perder-nada</link>
       <guid>https://www.kernelcast.es/noticias/3137181_olvidaste-la-contrasena-de-tu-iphone-tienes-72-horas-para-salvarte-sin-perder-nada</guid>
-      <pubDate>Sat, 02 May 2026 10:51:21 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:47 +0000</pubDate>
       <description>Cambias la contraseña del iPhone, te quedas en blanco a los cinco minutos y sientes que acabas de cometer un error del que no hay vuelta atrás. La buena noticia es que Apple lo vio venir, y desde iOS 17 existe una salvavidas que muy poca gente conoce. Cuando cambias el código de acceso de tu iPhone, el sistema no elimina el anterior de inmediato. Lo conserva en silencio durante 72 horas, como una red de seguridad invisible. Si durante ese tiempo te das cuenta de que no recuerdas la nueva combinación, el propio iPhone te dará la opción de recuperar el acceso usando la contraseña que tenías antes, sin borrar nada, sin restauraciones dramáticas y sin perder un solo dato.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-bekonv.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>BleachBit 6.BleachBit 6.0: el limpiador de Linux que ahora también cuida tus cookies. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3137178_bleachbit-6-bleachbit-6-0-el-limpiador-de-linux-que-ahora-tambien-cuida-tus-cookies</link>
       <guid>https://www.kernelcast.es/noticias/3137178_bleachbit-6-bleachbit-6-0-el-limpiador-de-linux-que-ahora-tambien-cuida-tus-cookies</guid>
-      <pubDate>Sat, 02 May 2026 10:51:23 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:48 +0000</pubDate>
       <description>Si alguna vez has sentido que tu navegador arrastra demasiado peso invisible, esa sensación tiene nombre: caché acumulada, rastros de sesiones antiguas, permisos olvidados y miles de cookies que llevan meses ahí sin que nadie las haya invitado. BleachBit, una de las herramientas de limpieza más queridas del ecosistema Linux, acaba de lanzar su versión 6.0, y esta vez viene con novedades que van más allá del borrado masivo habitual.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-0z6tqu.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Sat, 02 May 2026 10:51:24 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:49 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Sat, 02 May 2026 10:51:26 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:50 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Sat, 02 May 2026 10:51:28 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:51 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Sat, 02 May 2026 10:51:29 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:52 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Sat, 02 May 2026 10:51:31 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:53 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Sat, 02 May 2026 10:51:33 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:54 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Sat, 02 May 2026 10:51:34 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:55 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Sat, 02 May 2026 10:51:36 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:57 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Sat, 02 May 2026 10:51:37 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:58 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Sat, 02 May 2026 10:51:38 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:43:59 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title> ¡Ojo Archers! La última actualización de linux-firmware necesita una ayudita manual. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</link>
       <guid>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</guid>
-      <pubDate>Sat, 02 May 2026 10:51:39 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:44:00 +0000</pubDate>
       <description>¿Has intentado actualizar tu Arch y de repente te has topado con un mensaje de error relacionado con linux-firmware? Tranquilo, no es culpa tuya ni del universo. Esta vez, simplemente necesitas dar un pequeño paso extra para que todo vuelva a fluir como de costumbre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-22-2025-13-46-58-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo hacer que GRUB detecte Windows en distribuciones basadas en Arch / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</link>
       <guid>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</guid>
-      <pubDate>Sat, 02 May 2026 10:51:42 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 11:44:01 +0000</pubDate>
       <description>Cuando tienes más de un sistema operativo instalado y GRUB no los detecta automáticamente, puedessolucionarlo siguiendo estos pasos. Este proceso es útil para sistemas basados en Arch Linux o derivados.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-08-2025-09-33-49-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>

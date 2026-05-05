@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Tue, 05 May 2026 08:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:45:08 +0000</lastBuildDate>
     <item>
       <title>CachyOS turboalimenta Python: hasta un 15% más rápido con su nuevo intérprete. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3151860_cachyos-turboalimenta-python-hasta-un-15-mas-rapido-con-su-nuevo-interprete</link>
       <guid>https://www.kernelcast.es/noticias/3151860_cachyos-turboalimenta-python-hasta-un-15-mas-rapido-con-su-nuevo-interprete</guid>
-      <pubDate>Tue, 05 May 2026 08:07:37 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:09 +0000</pubDate>
       <description>Si usas Python en tu día a día y además te importa el rendimiento de tu sistema, esta noticia te va a interesar. CachyOS, una de las distribuciones de Linux más orientadas a la velocidad, acaba de dar un paso más en su obsesión por exprimir cada ciclo de CPU al máximo. Para entender de qué va todo esto, necesitas saber una cosa básica: Python es un lenguaje interpretado. Eso significa que cuando ejecutas un script, hay un programa en medio —el intérprete— que va leyendo tu código y traduciéndolo al lenguaje que entiende el procesador. Ese intermediario es el que CachyOS acaba de mejorar de forma significativa. La novedad viene de Python 3.14, que introdujo como opción experimental un nuevo tipo de intérprete basado en llamadas recursivas de cola, también conocido como tail-call interpreter. Sin entrar en los detalles más áridos, la idea es que este nuevo modo de ejecutar el código aprovecha mejor cómo funcionan los procesadores modernos a bajo nivel, reduciendo la fricción entre lo que Python quiere hacer y lo que la CPU realmente ejecuta. El resultado práctico es una mejora de rendimiento de entre un 5% y un 15% dependiendo del tipo de tarea que estés corriendo. No es magia: es compilación inteligente.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rro4hz.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Por fin, HDMI 2.1 llega de verdad a Linux con tarjetas AMD: adiós al cuello de botella. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3151152_por-fin-hdmi-2-1-llega-de-verdad-a-linux-con-tarjetas-amd-adios-al-cuello-de-botella</link>
       <guid>https://www.kernelcast.es/noticias/3151152_por-fin-hdmi-2-1-llega-de-verdad-a-linux-con-tarjetas-amd-adios-al-cuello-de-botella</guid>
-      <pubDate>Tue, 05 May 2026 08:07:38 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:10 +0000</pubDate>
       <description>Si tienes una tarjeta AMD Radeon y usas Linux, probablemente ya te has topado con esta situación: conectas el PC al televisor por HDMI, la pantalla anuncia que es compatible con 4K a 120 Hz y, sin embargo, el sistema no puede dártelo. No es que tu hardware falle. Es que hasta ahora el software simplemente no podía llegar ahí. Eso está empezando a cambiar. El problema no era técnico en su origen, sino legal. El organismo que gestiona el estándar HDMI, el HDMI Forum, llevaba años impidiendo que su versión 2.1 se implementara de forma completa en controladores de código abierto. Para entrar en el kernel de Linux, el código tiene que ser público y auditable por cualquiera. Eso chocaba de frente con las exigencias de confidencialidad del foro, que no quería que ciertos detalles del estándar quedaran expuestos. AMD lo intentó durante mucho tiempo. En febrero de 2024, el HDMI Forum llegó a rechazar formalmente una propuesta de AMD para liberar un driver con soporte completo de HDMI 2.1 en Linux. El resultado práctico era cruel: aunque tuvieras una Radeon de última generación y un televisor de alta gama, la conexión HDMI en Linux se quedaba con el ancho de banda de HDMI 2.0. Para disfrutar de 4K a 120 Hz con HDR o de 8K real, tenías dos opciones: usar DisplayPort o cambiar a Windows.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-q1xpit.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>LibreOffice 26.2.3: la suite gratuita que ya abre tus archivos de Word y Excel mejor que nunca. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3149881_libreoffice-26-2-3-la-suite-gratuita-que-ya-abre-tus-archivos-de-word-y-excel-mejor-que-nunca</link>
       <guid>https://www.kernelcast.es/noticias/3149881_libreoffice-26-2-3-la-suite-gratuita-que-ya-abre-tus-archivos-de-word-y-excel-mejor-que-nunca</guid>
-      <pubDate>Tue, 05 May 2026 08:07:39 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:11 +0000</pubDate>
       <description>Si alguna vez te has planteado dejar de pagar por Microsoft Office pero no sabías qué alternativa usar, esta noticia te interesa. LibreOffice acaba de lanzar su versión 26.2.3, una actualización que refuerza precisamente lo que más preocupa a quienes dan el salto desde el ecosistema de Microsoft: que sus documentos se abran bien, se vean bien y funcionen bien. LibreOffice no es un proyecto nuevo ni experimental. Lleva años siendo la alternativa de referencia para quienes quieren una suite ofimática completa, gratuita y de código abierto. Incluye equivalentes directos a Word (Writer), Excel (Calc) y PowerPoint (Impress), además de otras herramientas para bases de datos y dibujo vectorial. Y todo sin pagar una suscripción mensual. The Document Foundation, la organización sin ánimo de lucro que hay detrás del proyecto, acaba de publicar esta versión 26.2.3, que es la tercera actualización de mantenimiento de la rama 26.2, iniciada en febrero de este año. No se trata de una versión con grandes funciones nuevas, sino de una entrega centrada en hacer que todo funcione mejor, y eso en el mundo del software es algo que se agradece tanto o más que las novedades llamativas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-7xjg4a.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Ubuntu Pro en 26.04 LTS: la seguridad avanzada de Linux ahora es más fácil de activar que nunca. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3148204_ubuntu-pro-en-26-04-lts-la-seguridad-avanzada-de-linux-ahora-es-mas-facil-de-activar-que-nunca</link>
       <guid>https://www.kernelcast.es/noticias/3148204_ubuntu-pro-en-26-04-lts-la-seguridad-avanzada-de-linux-ahora-es-mas-facil-de-activar-que-nunca</guid>
-      <pubDate>Tue, 05 May 2026 08:07:40 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:13 +0000</pubDate>
       <description>Mantener tu sistema Linux actualizado y seguro ya no es cosa solo de administradores de servidores o expertos en terminal. Con Ubuntu 26.04 LTS, Canonical ha dado un paso importante para que cualquier usuario pueda activar Ubuntu Pro en pocos minutos, desde una interfaz visual y sin complicaciones. Y lo mejor: si lo usas en casa, es completamente gratuito.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-8f6gmq.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Wine 11.8: la actualización silenciosa que hace correr Windows mejor que nunca en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3148195_wine-11-8-la-actualizacion-silenciosa-que-hace-correr-windows-mejor-que-nunca-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3148195_wine-11-8-la-actualizacion-silenciosa-que-hace-correr-windows-mejor-que-nunca-en-linux</guid>
-      <pubDate>Tue, 05 May 2026 08:07:41 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:14 +0000</pubDate>
       <description>Si usas Linux pero de vez en cuando necesitas abrir una aplicación de Windows, probablemente ya conoces Wine. Y si no lo conoces, estás a punto de descubrir una de las herramientas más ingeniosas del mundo del software libre. La versión 11.8 acaba de llegar, y aunque no viene con fuegos artificiales, trae mejoras que en la práctica marcan una diferencia real. Antes de entrar en materia, un poco de contexto. Wine no es un emulador al uso. No simula un ordenador entero ni levanta una máquina virtual pesada que devore tu RAM. Lo que hace es traducir, en tiempo real, las instrucciones que una aplicación de Windows envía al sistema operativo, para que Linux las entienda y las ejecute. Es como tener un intérprete simultáneo entre dos personas que hablan idiomas distintos. Esto lo convierte en una solución ligera y elegante para ejecutar software Windows en Linux o en sistemas Unix sin tener que mantener una instalación paralela de Windows. Para muchas personas, eso es oro puro: imagina poder abrir esa herramienta de trabajo que solo existe para Windows, o lanzar un videojuego antiguo, sin salir de tu entorno habitual.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-536moj.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>EndeavourOS Titan Neo ya está aquí: la distro que lo pone fácil sin renunciar a lo mejor de Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3146783_endeavouros-titan-neo-ya-esta-aqui-la-distro-que-lo-pone-facil-sin-renunciar-a-lo-mejor-de-linux</link>
       <guid>https://www.kernelcast.es/noticias/3146783_endeavouros-titan-neo-ya-esta-aqui-la-distro-que-lo-pone-facil-sin-renunciar-a-lo-mejor-de-linux</guid>
-      <pubDate>Tue, 05 May 2026 08:07:42 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:15 +0000</pubDate>
       <description>Si alguna vez has oído hablar de Linux pero te ha dado pereza la parte de configurarlo todo desde cero, EndeavourOS es exactamente el tipo de proyecto que rompe ese miedo. Y acaba de lanzar su última versión, Titan Neo, con novedades que merecen atención aunque no seas un experto en sistemas operativos. Antes de entrar en los detalles de esta versión, conviene poner el contexto en su sitio. EndeavourOS es una distribución de Linux, es decir, una versión del sistema operativo que viene con todo lo necesario para empezar a usarlo sin tener que construirlo desde cero. Se basa en Arch Linux, que tiene fama de ser potente y actualizado al minuto, pero también de requerir bastante conocimiento previo para instalarlo y mantenerlo. EndeavourOS resuelve eso: te da todo el músculo de Arch, pero con una instalación más accesible y un entorno visual cuidado. La versión que nos ocupa, Titan Neo, no es un lanzamiento mayor con todo reinventado. Es una actualización significativa de Titan, que salió en marzo de este año, y trae cambios concretos que mejoran la experiencia diaria de quien usa este sistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-v9g2s6.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>GitHub se está cayendo a pedazos y los desarrolladores están hartos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3146781_github-se-esta-cayendo-a-pedazos-y-los-desarrolladores-estan-hartos</link>
       <guid>https://www.kernelcast.es/noticias/3146781_github-se-esta-cayendo-a-pedazos-y-los-desarrolladores-estan-hartos</guid>
-      <pubDate>Tue, 05 May 2026 08:07:44 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:16 +0000</pubDate>
       <description>Durante años, GitHub fue el lugar donde vivía internet por dentro. El sitio donde los programadores guardaban su trabajo, colaboraban con otros y construían cosas increíbles juntos. Pero algo ha cambiado, y no en la dirección correcta. Cada vez más voces conocidas están diciendo adiós, y los motivos son tan concretos como preocupantes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-uxk8pz.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>D7VK 1.8: la herramienta que resucita tus juegos clásicos en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3145280_d7vk-1-8-la-herramienta-que-resucita-tus-juegos-clasicos-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3145280_d7vk-1-8-la-herramienta-que-resucita-tus-juegos-clasicos-en-linux</guid>
-      <pubDate>Tue, 05 May 2026 08:07:45 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:17 +0000</pubDate>
       <description>Imagina poder volver a jugar a los títulos que marcaron tu infancia sin sufrir pantallas rotas, personajes deformados ni menús que simplemente no aparecen. Eso es exactamente lo que acaba de hacer posible D7VK 1.8, una actualización que convierte décadas de incompatibilidades en historia pasada. Antes de entrar en materia, conviene que sepas de qué hablamos. D7VK es una capa de compatibilidad que traduce las instrucciones gráficas antiguas de DirectX 7, el estándar que usaban la mayoría de los juegos de finales de los noventa y principios de los dos mil, al lenguaje moderno Vulkan, que es el que entienden las tarjetas gráficas actuales. En otras palabras, hace de intérprete entre el pasado y el presente. El problema de fondo es que aquellos juegos fueron diseñados para un hardware muy específico que ya no existe, y que tenía formas de hacer las cosas bastante peculiares. Cuando intentas ejecutarlos en un sistema moderno, especialmente en Linux, el resultado suele ser una mezcla de geometría corrupta, colores incorrectos, menús invisibles y cierres inesperados. D7VK lleva tiempo intentando resolver eso, y con esta versión 1.8 da un salto importante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-8arq4u.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Kdenlive 26.04: el editor de vídeo libre que no para de crecer. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3145274_kdenlive-26-04-el-editor-de-video-libre-que-no-para-de-crecer</link>
       <guid>https://www.kernelcast.es/noticias/3145274_kdenlive-26-04-el-editor-de-video-libre-que-no-para-de-crecer</guid>
-      <pubDate>Tue, 05 May 2026 08:07:46 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:18 +0000</pubDate>
       <description>Si editas vídeo en Linux, o simplemente te importa el software libre, tienes razones de sobra para prestar atención a lo que acaba de llegar. El equipo de Kdenlive acaba de publicar su primera versión importante de 2026, y viene cargada de novedades que hacen el programa más cómodo, más potente y más fácil de usar para todo tipo de creadores. La versión 26.04.0 no es una actualización menor de mantenimiento. Es el resultado de un ciclo de desarrollo centrado en tres pilares: estabilidad, interfaz y usabilidad. Y, según el propio equipo, es la primera vez en la historia del proyecto en la que tantos colaboradores distintos han aportado código. La comunidad está creciendo, y se nota.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-mvfbph.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>Las gafas de Apple que te escuchan, te ven y obedecen tus gestos llegarán en 2027. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3143382_las-gafas-de-apple-que-te-escuchan-te-ven-y-obedecen-tus-gestos-llegaran-en-2027</link>
       <guid>https://www.kernelcast.es/noticias/3143382_las-gafas-de-apple-que-te-escuchan-te-ven-y-obedecen-tus-gestos-llegaran-en-2027</guid>
-      <pubDate>Tue, 05 May 2026 08:07:47 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:20 +0000</pubDate>
       <description>Imagina caminar por la calle, señalar algo con la mano y pedirle a Siri que te explique lo que estás mirando, sin sacar el móvil del bolsillo ni tocar ningún botón. Eso es exactamente lo que Apple está construyendo. Y según los últimos informes, el proyecto avanza más deprisa de lo que muchos esperaban. Las próximas gafas inteligentes de Apple se perfilan como uno de los productos más ambiciosos de la compañía en años, y los detalles técnicos que van filtrándose dibujan un dispositivo que, aunque sencillo en apariencia, esconde una filosofía de uso bastante diferente a todo lo que Apple ha lanzado hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-nc8yom.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Rust no es sinónimo de seguridad: Ubuntu frena su migración tras descubrir 113 fallos en su reemplazo de herramientas GNU. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3143377_rust-no-es-sinonimo-de-seguridad-ubuntu-frena-su-migracion-tras-descubrir-113-fallos-en-su-reemplazo-de-herramientas-gnu</link>
       <guid>https://www.kernelcast.es/noticias/3143377_rust-no-es-sinonimo-de-seguridad-ubuntu-frena-su-migracion-tras-descubrir-113-fallos-en-su-reemplazo-de-herramientas-gnu</guid>
-      <pubDate>Tue, 05 May 2026 08:07:48 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:21 +0000</pubDate>
       <description>Si usas Linux, probablemente ni te hayas fijado en ellas, pero hay un conjunto de pequeñas herramientas que mueven los engranajes de tu sistema cada vez que copias un archivo, cambias permisos o eliminas una carpeta. Canonical, la empresa detrás de Ubuntu, quería modernizarlas por completo. El resultado de ese intento ha sido una auditoria de seguridad que ha sacudido a la comunidad. El plan era ambicioso: sustituir las veteranas GNU Coreutils por una versión reescrita en Rust, el lenguaje de programación que promete eliminar errores de memoria y ofrecer un código más robusto por diseño. El proyecto se llama uutils coreutils, y parecía una apuesta ganadora. Hasta que llegó la auditoría.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-0dp2o3.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Fedora Linux 44 ya está aquí: todo lo que cambia en la nueva versión del sistema operativo libre más emocionante. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3141748_fedora-linux-44-ya-esta-aqui-todo-lo-que-cambia-en-la-nueva-version-del-sistema-operativo-libre-mas-emocionante</link>
       <guid>https://www.kernelcast.es/noticias/3141748_fedora-linux-44-ya-esta-aqui-todo-lo-que-cambia-en-la-nueva-version-del-sistema-operativo-libre-mas-emocionante</guid>
-      <pubDate>Tue, 05 May 2026 08:07:49 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:22 +0000</pubDate>
       <description>Si nunca has oído hablar de Fedora Linux, piensa en él como uno de esos sistemas operativos alternativos a Windows o macOS que cada año sorprende con ideas que luego adopta el resto del mundo tecnológico. Acaba de llegar su versión 44, y aunque desde fuera pueda parecer "otra actualización más", hay cambios que merecen que le eches un vistazo aunque no seas un experto en informática. La edición más popular de Fedora, la llamada Workstation, viene ahora con GNOME 50. GNOME es el entorno de escritorio, es decir, todo lo que ves en pantalla cuando enciendes el ordenador: el menú, las ventanas, los iconos, la barra de tareas. Esta versión cincuenta —que ya solo el número dice algo sobre lo madura que está la plataforma— trae mejoras en accesibilidad, en la gestión del color de pantalla y en el escritorio remoto, algo muy útil si alguna vez necesitas conectarte a tu equipo desde otro lugar. Además, muchas de las aplicaciones que vienen instaladas por defecto han recibido actualizaciones: el visor de documentos, el administrador de archivos y el calendario, entre otras. No son cambios que te vayan a dejar sin palabras, pero sí hacen que el día a día sea más fluido y menos frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-dljeu4.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Tue, 05 May 2026 08:07:50 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:23 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Tue, 05 May 2026 08:07:51 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:25 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Tue, 05 May 2026 08:07:52 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:26 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Tue, 05 May 2026 08:07:53 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:27 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Tue, 05 May 2026 08:07:54 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:28 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Tue, 05 May 2026 08:07:55 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:29 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Tue, 05 May 2026 08:07:56 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:30 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Tue, 05 May 2026 08:07:57 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:32 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Tue, 05 May 2026 08:07:58 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:33 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Tue, 05 May 2026 08:07:59 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:34 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title> ¡Ojo Archers! La última actualización de linux-firmware necesita una ayudita manual. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</link>
       <guid>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</guid>
-      <pubDate>Tue, 05 May 2026 08:08:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:35 +0000</pubDate>
       <description>¿Has intentado actualizar tu Arch y de repente te has topado con un mensaje de error relacionado con linux-firmware? Tranquilo, no es culpa tuya ni del universo. Esta vez, simplemente necesitas dar un pequeño paso extra para que todo vuelva a fluir como de costumbre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-22-2025-13-46-58-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo hacer que GRUB detecte Windows en distribuciones basadas en Arch / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</link>
       <guid>https://www.kernelcast.es/blog/2551140_como-hacer-que-grub-detecte-windows-en-distribuciones-basadas-en-arch</guid>
-      <pubDate>Tue, 05 May 2026 08:08:01 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:45:36 +0000</pubDate>
       <description>Cuando tienes más de un sistema operativo instalado y GRUB no los detecta automáticamente, puedessolucionarlo siguiendo estos pasos. Este proceso es útil para sistemas basados en Arch Linux o derivados.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-08-2025-09-33-49-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>

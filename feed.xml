@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Thu, 21 May 2026 07:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:22:14 +0000</lastBuildDate>
     <item>
       <title>Hoja de cálculo en negro y presentaciones con más vida: así llega ONLYOFFICE 9.4.0. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3181542_hoja-de-calculo-en-negro-y-presentaciones-con-mas-vida-asi-llega-onlyoffice-9-4-0</link>
       <guid>https://www.kernelcast.es/noticias/3181542_hoja-de-calculo-en-negro-y-presentaciones-con-mas-vida-asi-llega-onlyoffice-9-4-0</guid>
-      <pubDate>Thu, 21 May 2026 07:50:36 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:15 +0000</pubDate>
       <description>Si alguna vez has trabajado durante horas con una hoja de cálculo blanca, bien sabes lo que es esa sensación de que los ojos te van a estallar. ONLYOFFICE acaba de lanzar su versión 9.4.0 y, aunque no viene cargada de revoluciones, trae justo el tipo de mejoras que uno agradece en el día a día: las que hacen que trabajar sea un poco menos molesto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/7f0e198c-c97a-4b80-8340-214bc72176c0-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Thunderbird 151 llega con novedades que te van a facilitar la vida si gestionas correo a diario. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3179782_thunderbird-151-llega-con-novedades-que-te-van-a-facilitar-la-vida-si-gestionas-correo-a-diario</link>
       <guid>https://www.kernelcast.es/noticias/3179782_thunderbird-151-llega-con-novedades-que-te-van-a-facilitar-la-vida-si-gestionas-correo-a-diario</guid>
-      <pubDate>Thu, 21 May 2026 07:50:37 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:16 +0000</pubDate>
       <description>Si usas Thunderbird como cliente de correo, hay buenas noticias esta semana. Mozilla acaba de lanzar la versión 151 con mejoras que van desde la configuración de cuentas hasta la corrección de errores que llevaban tiempo molestando a muchos usuarios. No es una actualización revolucionaria, pero sí de esas que notas en el día a día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-dkv5xn.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Mesa 26.1.1: la actualización silenciosa que mantiene tu gráfica funcionando sin dramas. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3179777_mesa-26-1-1-la-actualizacion-silenciosa-que-mantiene-tu-grafica-funcionando-sin-dramas</link>
       <guid>https://www.kernelcast.es/noticias/3179777_mesa-26-1-1-la-actualizacion-silenciosa-que-mantiene-tu-grafica-funcionando-sin-dramas</guid>
-      <pubDate>Thu, 21 May 2026 07:50:38 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:17 +0000</pubDate>
       <description>Hay actualizaciones que añaden funciones nuevas y llaman la atención. Y hay actualizaciones como esta, que hacen algo igual de importante pero mucho menos vistoso: evitar que tu escritorio se congele, que el vídeo se rompa a mitad de reproducción o que una aplicación caiga sin avisar. Mesa 26.1.1 es exactamente eso, y si usas Linux con gráficas de AMD, Intel, NVIDIA o hardware ARM, te interesa saber qué trae.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-2oz0o7.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>KDE cumple casi 30 años escribiendo historia… línea a línea. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3179775_kde-cumple-casi-30-anos-escribiendo-historia-linea-a-linea</link>
       <guid>https://www.kernelcast.es/noticias/3179775_kde-cumple-casi-30-anos-escribiendo-historia-linea-a-linea</guid>
-      <pubDate>Thu, 21 May 2026 07:50:39 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:18 +0000</pubDate>
       <description>Si alguna vez has usado Linux con el entorno KDE Plasma, sabes lo pulido y completo que se siente. Pero pocas veces te paras a pensar cuánto trabajo hay detrás de esa experiencia. Un análisis reciente pone cifras a algo que antes solo podías intuir: casi tres décadas de desarrollo acumulado en más de 55 millones de líneas de código. Cornelius Schumacher, colaborador del proyecto KDE, publicó hace unos días un análisis estadístico del archivo Git completo del proyecto. El resultado es tan llamativo como revelador. Si sumas todo el código que se ha escrito, modificado o eliminado a lo largo de la historia de KDE, llegas a la cifra de 55.041.902 líneas. Para ponerlo en perspectiva: el código activo hoy en los repositorios principales ronda los 8,17 millones de líneas. Es decir, por cada línea que ves en la versión actual, hay aproximadamente siete que se escribieron, se revisaron, se reescribieron o simplemente se descartaron en algún momento del camino. El análisis se centra en el núcleo duro del proyecto: KDE Frameworks, KDE Plasma y KDE Gear. No incluye proyectos secundarios ni repositorios externos, así que la cifra real podría ser todavía mayor si se contabilizara todo el ecosistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-ptc5c9.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Linux da un paso histórico: Nvidia Reflex y AMD Anti-Lag ahora funcionan en cualquier GPU. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3177915_linux-da-un-paso-historico-nvidia-reflex-y-amd-anti-lag-ahora-funcionan-en-cualquier-gpu</link>
       <guid>https://www.kernelcast.es/noticias/3177915_linux-da-un-paso-historico-nvidia-reflex-y-amd-anti-lag-ahora-funcionan-en-cualquier-gpu</guid>
-      <pubDate>Thu, 21 May 2026 07:50:40 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:19 +0000</pubDate>
       <description>Hasta ahora, si querías reducir la latencia al máximo en tus partidas, tenías que elegir bando: o eras equipo Nvidia o eras equipo AMD. Esa exclusividad artificial acaba de romperse en Linux, y lo ha hecho un desarrollador trabajando solo, por pura frustración. Cuando juegas a un shooter competitivo, cada milisegundo importa. El tiempo que transcurre entre que pulsas el ratón y que la acción aparece en pantalla se llama latencia de entrada, y reducirla al mínimo puede marcar la diferencia entre ganar o perder un duelo. Para atacar ese problema, Nvidia creó Reflex y AMD desarrolló Anti-Lag 2. Dos tecnologías distintas, con el mismo objetivo: que el juego responda más rápido a tus acciones. El problema es que cada una funcionaba únicamente con las tarjetas de su fabricante. Si tenías una GPU de AMD, podías olvidarte de Reflex. Si tenías Nvidia, Anti-Lag 2 no era para ti. Y si usabas los gráficos integrados de Intel, directamente no existías para ninguno de los dos. En Windows esta situación se ha dado por asumida durante años. En Linux, alguien decidió que no tenía por qué ser así.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-v1abpq.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Linus Torvalds harto de la IA: cuando los buscadores de errores se convierten en el problema. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3177430_linus-torvalds-harto-de-la-ia-cuando-los-buscadores-de-errores-se-convierten-en-el-problema</link>
       <guid>https://www.kernelcast.es/noticias/3177430_linus-torvalds-harto-de-la-ia-cuando-los-buscadores-de-errores-se-convierten-en-el-problema</guid>
-      <pubDate>Thu, 21 May 2026 07:50:41 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:20 +0000</pubDate>
       <description>Si hay alguien que no tiene pelos en la lengua cuando algo le molesta en el mundo del software, ese es Linus Torvalds. El creador del kernel de Linux acaba de lanzar una advertencia que mezcla frustración y sentido común a partes iguales: la inteligencia artificial está inundando la lista de correo de seguridad de Linux con informes duplicados hasta el punto de volverla casi imposible de gestionar. Y lo más irónico es que las herramientas que se usan para encontrar fallos son las mismas, así que todo el mundo acaba reportando exactamente lo mismo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-ew3eem.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Linux 7.1-rc4 ya está aquí: correcciones, seguridad y una guía para usar la IA con cabeza / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3174673_linux-7-1-rc4-ya-esta-aqui-correcciones-seguridad-y-una-guia-para-usar-la-ia-con-cabeza</link>
       <guid>https://www.kernelcast.es/noticias/3174673_linux-7-1-rc4-ya-esta-aqui-correcciones-seguridad-y-una-guia-para-usar-la-ia-con-cabeza</guid>
-      <pubDate>Thu, 21 May 2026 07:50:42 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:21 +0000</pubDate>
       <description>Si sigues de cerca el desarrollo del kernel de Linux, esta semana ha sido especialmente movida. Linus Torvalds acaba de publicar Linux 7.1-rc4, la cuarta candidata a lanzamiento de lo que será la próxima versión estable del kernel, y trae consigo un buen puñado de novedades que van desde ajustes de hardware hasta documentación oficial sobre inteligencia artificial. Sí, has leído bien: el kernel de Linux ahora también habla de IA.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-7afahc.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Juega mejor en Linux: Proton-CachyOS ahora activa OptiScaler con una sola variable. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3173419_juega-mejor-en-linux-proton-cachyos-ahora-activa-optiscaler-con-una-sola-variable</link>
       <guid>https://www.kernelcast.es/noticias/3173419_juega-mejor-en-linux-proton-cachyos-ahora-activa-optiscaler-con-una-sola-variable</guid>
-      <pubDate>Thu, 21 May 2026 07:50:43 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:22 +0000</pubDate>
       <description>Si llevas tiempo jugando en Linux, sabes que la experiencia ha mejorado brutalmente en los últimos años. Pero siempre queda ese margen extra: ¿y si pudieras elegir exactamente qué tecnología de mejora de imagen usa tu juego, sin tocar ningún archivo manualmente? Eso es justo lo que acaba de hacer posible la última actualización de Proton-CachyOS.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-0m4ffw.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Bazaar, la tienda de apps Flatpak que quizás no sabías que necesitabas. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3173418_bazaar-la-tienda-de-apps-flatpak-que-quizas-no-sabias-que-necesitabas</link>
       <guid>https://www.kernelcast.es/noticias/3173418_bazaar-la-tienda-de-apps-flatpak-que-quizas-no-sabias-que-necesitabas</guid>
-      <pubDate>Thu, 21 May 2026 07:50:44 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:23 +0000</pubDate>
       <description>Si usas Linux y eres de los que instalan casi todo mediante Flatpak, probablemente ya conozcas Flathub. Pero hay una forma nueva y bastante elegante de interactuar con ese ecosistema: se llama Bazaar, y merece que le eches un vistazo. Bazaar es una aplicación diseñada específicamente para descubrir, instalar y gestionar paquetes Flatpak, con un diseño moderno inspirado en el entorno GNOME. No es simplemente otro frontend genérico para Flathub; tiene personalidad propia y algunas funciones que la distinguen del resto. Y si te preguntas qué significa "bazaar", es precisamente eso: un mercado, un lugar donde encontrar cosas. Un nombre que le sienta como un guante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-mpc82c.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>BudsLink: la app que convierte tus AirPods, Galaxy Buds o Nothing en ciudadanos de primera clase en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3172048_budslink-la-app-que-convierte-tus-airpods-galaxy-buds-o-nothing-en-ciudadanos-de-primera-clase-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3172048_budslink-la-app-que-convierte-tus-airpods-galaxy-buds-o-nothing-en-ciudadanos-de-primera-clase-en-linux</guid>
-      <pubDate>Thu, 21 May 2026 07:50:45 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:24 +0000</pubDate>
       <description>Durante años, los usuarios de Linux que también usan auriculares inalámbricos premium han vivido con la misma resignación silenciosa: sí, el audio funciona, pero ahí se acaba la historia. Nada de ver el nivel de batería del estuche, nada de controlar la cancelación de ruido desde el sistema, nada de los extras que en macOS o Windows son tan naturales como el aire. BudsLink llega para romper esa dinámica, y lo hace con una propuesta sorprendentemente sólida.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9yrrwy.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Plasma 6.7 beta ya está aquí: KDE pule su escritorio y lo prepara para el salto. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3172025_plasma-6-7-beta-ya-esta-aqui-kde-pule-su-escritorio-y-lo-prepara-para-el-salto</link>
       <guid>https://www.kernelcast.es/noticias/3172025_plasma-6-7-beta-ya-esta-aqui-kde-pule-su-escritorio-y-lo-prepara-para-el-salto</guid>
-      <pubDate>Thu, 21 May 2026 07:50:46 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:25 +0000</pubDate>
       <description>Si usas Linux con KDE Plasma, esta semana tiene buenas noticias para ti. El equipo de KDE acaba de lanzar la beta pública de Plasma 6.7, y aunque la versión definitiva aún tardará un par de meses, lo que hay ya sobre la mesa merece un vistazo tranquilo y detallado. No estamos ante una revolución de interfaz ni ante un cambio radical de paradigma. Esto es algo distinto y, en muchos sentidos, más valioso: una versión que demuestra que el proyecto sigue madurando con intención, puliendo lo que ya funciona y añadiendo justo lo que faltaba.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-y4l2y5.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Shelly 2.3: el gestor de paquetes que hace más humano Arch Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3172020_shelly-2-3-el-gestor-de-paquetes-que-hace-mas-humano-arch-linux</link>
       <guid>https://www.kernelcast.es/noticias/3172020_shelly-2-3-el-gestor-de-paquetes-que-hace-mas-humano-arch-linux</guid>
-      <pubDate>Thu, 21 May 2026 07:50:46 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:26 +0000</pubDate>
       <description>Si alguna vez has intentado usar Arch Linux y te has sentido perdido entre comandos de terminal y documentación críptica, hay buenas noticias. Shelly, el gestor de paquetes con interfaz gráfica pensado para hacer más accesible esta distribución, acaba de lanzar su versión 2.3 con mejoras que van más allá de lo cosmético. Arch Linux tiene una reputación bien ganada: es potente, personalizable y muy respetada entre usuarios avanzados. Pero también es conocida por su curva de aprendizaje pronunciada. Pacman, su gestor de paquetes nativo, funciona desde la terminal y requiere que el usuario sepa qué está haciendo en cada momento. Eso no es un problema para quienes llevan años con Linux, pero sí puede ser una barrera enorme para alguien que llega con curiosidad y ganas de explorar. Shelly nació precisamente para romper esa barrera. Su desarrolladora, Caroline Snyder, diseñó esta herramienta de código abierto como una alternativa visual y amigable a Pacman, con soporte para los repositorios más importantes del ecosistema Arch: el AUR (Arch User Repository), Flathub y hasta AppImages. Y ahora, con la versión 2.3, da un salto importante en rendimiento, usabilidad e internacionalización.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-8hvgsn.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Thu, 21 May 2026 07:50:47 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:26 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Thu, 21 May 2026 07:50:48 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:27 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Thu, 21 May 2026 07:50:49 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:28 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Thu, 21 May 2026 07:50:50 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:29 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Thu, 21 May 2026 07:50:51 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:30 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Thu, 21 May 2026 07:50:52 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:31 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Thu, 21 May 2026 07:50:53 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:32 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Thu, 21 May 2026 07:50:54 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:33 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Thu, 21 May 2026 07:50:55 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:34 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Thu, 21 May 2026 07:50:56 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:35 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Thu, 21 May 2026 07:50:57 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:36 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title> ¡Ojo Archers! La última actualización de linux-firmware necesita una ayudita manual. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</link>
       <guid>https://www.kernelcast.es/blog/2574494_ojo-archers-la-ultima-actualizacion-de-linux-firmware-necesita-una-ayudita-manual</guid>
-      <pubDate>Thu, 21 May 2026 07:50:58 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 11:22:37 +0000</pubDate>
       <description>¿Has intentado actualizar tu Arch y de repente te has topado con un mensaje de error relacionado con linux-firmware? Tranquilo, no es culpa tuya ni del universo. Esta vez, simplemente necesitas dar un pequeño paso extra para que todo vuelva a fluir como de costumbre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sun-jun-22-2025-13-46-58-gmt-0200-hora-de-verano-de-europa-central-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>

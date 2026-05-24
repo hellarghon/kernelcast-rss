@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Sun, 24 May 2026 18:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:03:52 +0000</lastBuildDate>
     <item>
       <title>Shelly 2.3.1: el gestor de paquetes de Arch Linux que se pone serio con las notificaciones. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3187341_shelly-2-3-1-el-gestor-de-paquetes-de-arch-linux-que-se-pone-serio-con-las-notificaciones</link>
       <guid>https://www.kernelcast.es/noticias/3187341_shelly-2-3-1-el-gestor-de-paquetes-de-arch-linux-que-se-pone-serio-con-las-notificaciones</guid>
-      <pubDate>Sun, 24 May 2026 18:04:44 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:53 +0000</pubDate>
       <description>Si alguna vez has usado Arch Linux, sabes que la gestión de paquetes es una de las partes más delicadas del sistema. Ahora, Shelly da un paso más hacia convertirse en la herramienta definitiva para hacerlo de forma visual y cómoda. Su versión 2.3.1 llega cargada de mejoras que van mucho más allá de los típicos parches de mantenimiento. Antes de entrar en materia, conviene que sepas qué es exactamente Shelly. Se trata de un gestor de paquetes gráfico de código abierto pensado para distribuciones basadas en Arch Linux. Eso significa que en lugar de escribir comandos en una terminal para instalar, actualizar o eliminar software, tienes una interfaz visual que hace todo eso por ti, de forma más intuitiva.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/00caa707-ba5f-4de7-8c4f-76f817d50fea-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>KDE Plasma sigue evolucionando: soporte para Intel Xe y una avalancha de correcciones antes del gran salto a 6.7. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3187045_kde-plasma-sigue-evolucionando-soporte-para-intel-xe-y-una-avalancha-de-correcciones-antes-del-gran-salto-a-6-7</link>
       <guid>https://www.kernelcast.es/noticias/3187045_kde-plasma-sigue-evolucionando-soporte-para-intel-xe-y-una-avalancha-de-correcciones-antes-del-gran-salto-a-6-7</guid>
-      <pubDate>Sun, 24 May 2026 18:04:45 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:54 +0000</pubDate>
       <description>El escritorio Linux más popular del momento no descansa. Mientras los desarrolladores de KDE ultiman los detalles de Plasma 6.7, que llegará a mediados de junio, ya están sembrando el terreno de lo que vendrá después con Plasma 6.8. Esta semana ha sido especialmente movida, con novedades que afectan tanto a usuarios de hardware Intel como a cualquiera que use Plasma en su día a día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/cb5ffa7a-4baf-4a08-acf5-4e2838dc2365-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Firefox 152 llega en beta cargado de novedades que van a cambiar tu forma de navegar. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3187039_firefox-152-llega-en-beta-cargado-de-novedades-que-van-a-cambiar-tu-forma-de-navegar</link>
       <guid>https://www.kernelcast.es/noticias/3187039_firefox-152-llega-en-beta-cargado-de-novedades-que-van-a-cambiar-tu-forma-de-navegar</guid>
-      <pubDate>Sun, 24 May 2026 18:04:46 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:55 +0000</pubDate>
       <description>Mozilla no para. Mientras Firefox 151 aún está calentando motores en los equipos de millones de usuarios, la versión 152 ya está disponible en beta pública para que los más curiosos le echen un vistazo. Y hay razones para prestarle atención: los cambios que trae no son simples retoques cosméticos. Si alguna vez has entrado en la configuración de Firefox y has tardado más de lo que quisieras en encontrar lo que buscabas, esta versión es para ti. Firefox 152 reorganiza por completo la sección de ajustes del navegador, algo que llevaba tiempo pidiendo a gritos una puesta al día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/50f1c107-f3a1-453d-8cdf-94c247687541-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Linux 7.1 pone orden en la gestión de energía de AMD e Intel. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3187036_linux-7-1-pone-orden-en-la-gestion-de-energia-de-amd-e-intel</link>
       <guid>https://www.kernelcast.es/noticias/3187036_linux-7-1-pone-orden-en-la-gestion-de-energia-de-amd-e-intel</guid>
-      <pubDate>Sun, 24 May 2026 18:04:47 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:56 +0000</pubDate>
       <description>Si tienes un portátil con procesador AMD Ryzen o un equipo con las últimas CPU de Intel, lo que ocurrió esta semana en el desarrollo del kernel de Linux te afecta directamente. La rama 7.1 acaba de incorporar una serie de correcciones importantes relacionadas con cómo el sistema gestiona el consumo energético, y aunque el tema suena técnico, las consecuencias son muy concretas: mejor rendimiento, menos calor y una batería que dura lo que debería.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/fd017005-6aca-45c9-9686-3be5d0b49184-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>KDE Plasma 6.7 ya está en el horno: esto es todo lo que están puliendo antes del gran lanzamiento. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3186333_kde-plasma-6-7-ya-esta-en-el-horno-esto-es-todo-lo-que-estan-puliendo-antes-del-gran-lanzamiento</link>
       <guid>https://www.kernelcast.es/noticias/3186333_kde-plasma-6-7-ya-esta-en-el-horno-esto-es-todo-lo-que-estan-puliendo-antes-del-gran-lanzamiento</guid>
-      <pubDate>Sun, 24 May 2026 18:04:48 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:57 +0000</pubDate>
       <description>El 16 de junio se acerca y el equipo de KDE no está de brazos cruzados. La edición de esta semana del boletín "This Week in Plasma" llega cargada de correcciones, mejoras de interfaz y una sorpresa agradable de la comunidad que los usuarios de Intel van a agradecer. Plasma 6.7 se está cocinando a fuego lento, y los detalles que están ajustando en estos días últimos dicen mucho sobre cómo trabaja este proyecto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/ceddacd8-5335-4054-b224-19325c604443-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>La ley que está obligando a millones de europeos a elegir su navegador... y Firefox está ganando. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3186325_la-ley-que-esta-obligando-a-millones-de-europeos-a-elegir-su-navegador-y-firefox-esta-ganando</link>
       <guid>https://www.kernelcast.es/noticias/3186325_la-ley-que-esta-obligando-a-millones-de-europeos-a-elegir-su-navegador-y-firefox-esta-ganando</guid>
-      <pubDate>Sun, 24 May 2026 18:04:49 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:58 +0000</pubDate>
       <description>Puede que nunca hayas pensado demasiado en qué navegador usas. Lo más probable es que uses el que venía instalado de fábrica en tu teléfono. Pues bien, Europa ha decidido que eso ya no puede ser la norma, y los números que está dejando esa decisión son sorprendentes. Firefox acaba de anunciar que más de seis millones de personas en la Unión Europea lo han elegido activamente gracias a las nuevas pantallas de selección de navegador. Seis millones. Y eso ha pasado en muy poco tiempo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a4792524-a740-49fe-88c5-ae280f1f2c84-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>PinTheft: la nueva vulnerabilidad que puede convertir a cualquier usuario de Linux en root. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3186320_pintheft-la-nueva-vulnerabilidad-que-puede-convertir-a-cualquier-usuario-de-linux-en-root</link>
       <guid>https://www.kernelcast.es/noticias/3186320_pintheft-la-nueva-vulnerabilidad-que-puede-convertir-a-cualquier-usuario-de-linux-en-root</guid>
-      <pubDate>Sun, 24 May 2026 18:04:50 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:03:59 +0000</pubDate>
       <description>Si usas Arch Linux, esto te interesa. Ha aparecido una nueva vulnerabilidad en el kernel de Linux que ya tiene un exploit funcional publicado, lo que significa que no es solo teoría: cualquier persona con los conocimientos técnicos necesarios podría aprovecharla ahora mismo. Su nombre es PinTheft, y está generando una preocupación real entre administradores de sistemas y expertos en seguridad.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d1d212a6-a693-4f06-9c93-2e440c4ddaf2-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Fedora le dice adiós a Deepin: así cayó un escritorio Linux por abandono y fallos de seguridad. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3183672_fedora-le-dice-adios-a-deepin-asi-cayo-un-escritorio-linux-por-abandono-y-fallos-de-seguridad</link>
       <guid>https://www.kernelcast.es/noticias/3183672_fedora-le-dice-adios-a-deepin-asi-cayo-un-escritorio-linux-por-abandono-y-fallos-de-seguridad</guid>
-      <pubDate>Sun, 24 May 2026 18:04:51 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:00 +0000</pubDate>
       <description>Si usas Linux y te gustan los entornos de escritorio alternativos, seguramente has oído hablar de Deepin. Con su diseño elegante y su apariencia casi macOS, fue durante años uno de los escritorios más llamativos del ecosistema. Pero en Fedora, una de las distribuciones más importantes del mundo Linux, ese romance ha llegado oficialmente a su fin. Y la historia de cómo sucedió es más interesante de lo que parece.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/e989d6ea-3642-4e35-9fcc-6aa6e2a10653-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>La NPU de AMD en Linux da un paso importante: menos memoria desperdiciada, más inteligencia bajo demanda. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3183103_la-npu-de-amd-en-linux-da-un-paso-importante-menos-memoria-desperdiciada-mas-inteligencia-bajo-demanda</link>
       <guid>https://www.kernelcast.es/noticias/3183103_la-npu-de-amd-en-linux-da-un-paso-importante-menos-memoria-desperdiciada-mas-inteligencia-bajo-demanda</guid>
-      <pubDate>Sun, 24 May 2026 18:04:52 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:00 +0000</pubDate>
       <description>Puede que no sea el titular más espectacular de la semana, pero lo que está ocurriendo en las profundidades del kernel de Linux con el soporte para las NPU de AMD es, en realidad, una buena noticia para cualquiera que use o piense usar un procesador Ryzen AI en su equipo Linux. Los ingenieros de AMD siguen trabajando, y esta vez el avance afecta a cómo se gestiona la memoria en la unidad de procesamiento neuronal.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a2ebc77e-3f0a-4860-b093-deb538930c17-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3183702_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/noticias/3183702_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Sun, 24 May 2026 18:04:53 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:01 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Pachtop: el monitor de recursos que quiere modernizar la forma en que ves tu sistema. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3183101_pachtop-el-monitor-de-recursos-que-quiere-modernizar-la-forma-en-que-ves-tu-sistema</link>
       <guid>https://www.kernelcast.es/noticias/3183101_pachtop-el-monitor-de-recursos-que-quiere-modernizar-la-forma-en-que-ves-tu-sistema</guid>
-      <pubDate>Sun, 24 May 2026 18:04:54 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:02 +0000</pubDate>
       <description>Si alguna vez has sentido que los monitores de recursos de tu escritorio se quedaron atrapados en el pasado, es porque probablemente llevas razón. Las herramientas que tenemos para vigilar la CPU, la memoria o la red en Linux son funcionales, sí, pero en muchos casos su diseño no ha envejecido especialmente bien. Pachtop llega para cambiar eso, y aunque todavía está en pañales, lo que ya muestra merece atención.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/78cd1aff-7b63-415b-b16b-e90f98bf2651-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Hoja de cálculo en negro y presentaciones con más vida: así llega ONLYOFFICE 9.4.0. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3181542_hoja-de-calculo-en-negro-y-presentaciones-con-mas-vida-asi-llega-onlyoffice-9-4-0</link>
       <guid>https://www.kernelcast.es/noticias/3181542_hoja-de-calculo-en-negro-y-presentaciones-con-mas-vida-asi-llega-onlyoffice-9-4-0</guid>
-      <pubDate>Sun, 24 May 2026 18:04:55 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:03 +0000</pubDate>
       <description>Si alguna vez has trabajado durante horas con una hoja de cálculo blanca, bien sabes lo que es esa sensación de que los ojos te van a estallar. ONLYOFFICE acaba de lanzar su versión 9.4.0 y, aunque no viene cargada de revoluciones, trae justo el tipo de mejoras que uno agradece en el día a día: las que hacen que trabajar sea un poco menos molesto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/7f0e198c-c97a-4b80-8340-214bc72176c0-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Sun, 24 May 2026 18:04:56 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:04 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Sun, 24 May 2026 18:04:57 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:05 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Sun, 24 May 2026 18:04:58 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:06 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Sun, 24 May 2026 18:04:59 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:07 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Sun, 24 May 2026 18:05:00 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:08 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Sun, 24 May 2026 18:05:01 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:09 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Sun, 24 May 2026 18:05:02 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:10 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Sun, 24 May 2026 18:05:03 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:11 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Sun, 24 May 2026 18:05:04 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:12 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Sun, 24 May 2026 18:05:04 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:12 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Sun, 24 May 2026 18:05:05 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:13 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Sun, 24 May 2026 18:05:06 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 20:04:14 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>

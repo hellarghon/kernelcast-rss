@@ -1,10 +1,8 @@
 name: Generar RSS KernelCast
-
 on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,22 +10,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
       - name: Instalar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Instalar dependencias
         run: pip install -r requirements.txt
-
       - name: Ejecutar scraper
         run: python scraper.py
-
       - name: Publicar cambios
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add feed.xml || true
-          git diff --staged --quiet && git commit --allow-empty -m "Actualizar RSS $(date -u +%Y-%m-%dT%H:%M:%SZ)" || git commit -m "Actualizar RSS $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git add feed.xml
+          git diff --staged --quiet || git commit -m "Actualizar RSS $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push

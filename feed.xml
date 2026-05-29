@@ -5,12 +5,20 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Fri, 29 May 2026 11:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:25:17 +0000</lastBuildDate>
+    <item>
+      <title>Intel quiere una plaza en tu bolsillo: así son los nuevos chips Arc G-Series para PCs de juego portátiles. / Noticias | kernelcast</title>
+      <link>https://www.kernelcast.es/noticias/3194157_intel-quiere-una-plaza-en-tu-bolsillo-asi-son-los-nuevos-chips-arc-g-series-para-pcs-de-juego-portatiles</link>
+      <guid>https://www.kernelcast.es/noticias/3194157_intel-quiere-una-plaza-en-tu-bolsillo-asi-son-los-nuevos-chips-arc-g-series-para-pcs-de-juego-portatiles</guid>
+      <pubDate>Fri, 29 May 2026 15:25:17 +0000</pubDate>
+      <description>El mercado de las consolas PC de mano lleva años creciendo sin que Intel dijera gran cosa al respecto. Eso acaba de cambiar. La compañía ha presentado oficialmente sus procesadores Arc G-Series, diseñados específicamente para la próxima generación de dispositivos portátiles de juego, y lo que trae sobre la mesa merece atención. Los nuevos procesadores se llaman Intel Arc G3 e Intel Arc G3 Extreme, y se construyen sobre la plataforma Core Ultra Serie 3, conocida internamente con el nombre en clave Panther Lake. Lo más llamativo a nivel gráfico es que incorporan hasta la GPU Arc B390, basada en la arquitectura Xe3, la más reciente de Intel. No es un chip reciclado de otra línea de producto: Intel ha trabajado durante años en algo pensado expresamente para este formato. La fabricación también es un dato relevante. Estos chips se producen con el nodo de proceso Intel 18A, el más avanzado que la compañía ha desarrollado y fabricado en suelo estadounidense. En términos prácticos, eso significa más transistores en menos espacio, lo que se traduce en mayor eficiencia energética. Y en un dispositivo portátil, la eficiencia lo es casi todo: de ella depende cuánto tiempo puedes jugar sin enchufarte a la corriente. La configuración de núcleos es interesante: 2 núcleos de alto rendimiento (P-Cores), 8 núcleos de eficiencia (E-Cores) y 4 núcleos de ultra-baja potencia (LP E-Cores). Una estructura escalonada pensada para que el chip escale según lo que necesites en cada momento, ya sea renderizando una escena exigente o simplemente navegando por un menú.</description>
+      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/8766e698-edb9-41bc-ace5-fd7fb0e9b3ce-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
+    </item>
     <item>
       <title>KDE Plasma 6.7 llega en beta con su sistema de temas más ambicioso hasta la fecha. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3194151_kde-plasma-6-7-llega-en-beta-con-su-sistema-de-temas-mas-ambicioso-hasta-la-fecha</link>
       <guid>https://www.kernelcast.es/noticias/3194151_kde-plasma-6-7-llega-en-beta-con-su-sistema-de-temas-mas-ambicioso-hasta-la-fecha</guid>
-      <pubDate>Fri, 29 May 2026 11:27:46 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:18 +0000</pubDate>
       <description>Si usas Linux con escritorio KDE, tienes motivos para estar atento. La comunidad KDE acaba de lanzar la primera beta de Plasma 6.7, y aunque los números de versión a veces no dicen mucho, esta vez hay algo concreto y relevante detrás: el debut público de Union, un nuevo sistema de tematización que puede cambiar bastante la forma en que se ve y se comporta tu escritorio. Cuando hablamos del aspecto visual de un escritorio Linux, entrar en los detalles técnicos puede volverse aburrido rápidamente. Pero Union merece una explicación sencilla porque toca algo que cualquier usuario nota: la coherencia visual entre aplicaciones. En Plasma, como en otros entornos de escritorio, siempre ha existido una tensión entre las aplicaciones nativas de KDE y aquellas basadas en tecnologías distintas. El resultado suele ser un escritorio donde unas ventanas se ven de una manera y otras de otra, rompiendo la sensación de conjunto. Union aspira a resolver exactamente eso. Este nuevo sistema de tematización está diseñado para que las aplicaciones basadas en QML —la tecnología detrás de muchas herramientas modernas del ecosistema KDE— tengan un aspecto consistente sin importar desde dónde se lancen. La idea no es imponer un rediseño drástico, sino conseguir que las aplicaciones se vean prácticamente igual con Union activado que sin él, aunque con pequeñas mejoras visuales intencionales aquí y allá. Es un trabajo de precisión más que de revolución. Y eso, en diseño de interfaces, suele ser lo más difícil de conseguir.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/cd786a78-5e8b-4008-b698-80a0aeebc765-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +26,7 @@
       <title>AppGrid 1.8: el lanzador de aplicaciones que le da un soplo de aire fresco a KDE Plasma. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3192802_appgrid-1-8-el-lanzador-de-aplicaciones-que-le-da-un-soplo-de-aire-fresco-a-kde-plasma</link>
       <guid>https://www.kernelcast.es/noticias/3192802_appgrid-1-8-el-lanzador-de-aplicaciones-que-le-da-un-soplo-de-aire-fresco-a-kde-plasma</guid>
-      <pubDate>Fri, 29 May 2026 11:27:47 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:19 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has sentido que el menú de aplicaciones predeterminado se queda corto, esto te interesa. AppGrid acaba de lanzar su versión 1.8 y trae un buen puñado de novedades que hacen que gestionar tus aplicaciones sea más rápido, más cómodo y bastante más moderno. AppGrid no es nuevo, pero con cada versión se consolida como una alternativa seria a los lanzadores que vienen de serie con KDE Plasma, como Kickoff o Kicker. La diferencia principal está en la filosofía: donde los menús tradicionales apuestan por una estructura jerárquica de carpetas y submenús, AppGrid piensa más en términos de tienda de aplicaciones moderna, con búsqueda inteligente, categorías bien organizadas y una navegación que responde sin hacerte esperar. La versión 1.8, desarrollada por Jason Scurtu, no es una actualización menor de mantenimiento. Es una versión que añade funciones que llevan tiempo en la lista de deseos de muchos usuarios de Linux, y las implementa de una forma que encaja bien con el ritmo de trabajo diario.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/77e1fc6c-eff7-4395-86d2-ea5f8aa33088-high-ksegg8.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +34,7 @@
       <title>Mesa 26.0.8: el último parche de una era antes de pasar página. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3192805_mesa-26-0-8-el-ultimo-parche-de-una-era-antes-de-pasar-pagina</link>
       <guid>https://www.kernelcast.es/noticias/3192805_mesa-26-0-8-el-ultimo-parche-de-una-era-antes-de-pasar-pagina</guid>
-      <pubDate>Fri, 29 May 2026 11:27:48 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:20 +0000</pubDate>
       <description>Si tu ordenador tiene una tarjeta gráfica y corre Linux, hay una pieza de software que trabaja en silencio cada vez que abres un juego o mueves una ventana. Se llama Mesa, y acaba de cerrar un capítulo con el lanzamiento de su versión 26.0.8, la última de la serie estable del primer trimestre de 2026. Mesa es la implementación de código abierto de las APIs gráficas más importantes de Linux, incluyendo OpenGL y Vulkan. Dicho de forma más sencilla: es el software que hace de traductor entre tus aplicaciones y el hardware de tu tarjeta gráfica. Sin Mesa, los juegos, los efectos del escritorio y muchas aplicaciones gráficas simplemente no funcionarían. Cada cierto tiempo, el proyecto Mesa lanza una serie estable, una rama del código que recibe mantenimiento y correcciones durante unos meses antes de ceder el relevo a la siguiente. La serie 26.0 ha sido esa rama durante el primer trimestre de 2026, y con esta versión 26.0.8 el responsable de lanzamientos Eric Engestrom ha dado por cerrada oficialmente esa etapa. No es una despedida dramática. Es el ciclo natural del proyecto: una rama madura, recibe sus últimos retoques y deja paso a algo más actualizado. En este caso, Mesa 26.1 ya está disponible como la nueva serie estable, y quien quiera vivir en el filo del desarrollo puede aventurarse con Mesa 26.2, la rama en desarrollo activo con las últimas novedades.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/2cc113dc-640a-4bea-b301-5992d10661a3-high-awcqie.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +42,7 @@
       <title>Krita 5.3.2: la actualización que los artistas digitales llevaban meses esperando. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3192801_krita-5-3-2-la-actualizacion-que-los-artistas-digitales-llevaban-meses-esperando</link>
       <guid>https://www.kernelcast.es/noticias/3192801_krita-5-3-2-la-actualizacion-que-los-artistas-digitales-llevaban-meses-esperando</guid>
-      <pubDate>Fri, 29 May 2026 11:27:49 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:21 +0000</pubDate>
       <description>Si usas Krita para ilustración digital, diseño o animación, tienes una buena noticia: la versión 5.3.2 acaba de llegar con un buen puñado de correcciones que atacan directamente los puntos más frustrantes del día a día. No es una actualización cosmética. Es de esas que notas desde el primer minuto. Cualquiera que haya trabajado con capas de texto en Krita sabe lo desesperante que puede ser. Creabas una capa de texto nueva y, en lugar de quedar seleccionada y lista para editar, tenías que hacer clic de nuevo solo para empezar a escribir. Un pequeño detalle que, cuando estás en plena faena contra una fecha límite, acaba con tu paciencia. En 5.3.2 ese comportamiento está corregido. Ahora las capas de texto recién creadas se seleccionan automáticamente, tal y como cabría esperar de cualquier herramienta moderna. Parece algo básico, y lo es, pero llevar meses sin eso duele.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1c5cd353-871f-4064-b5be-26db2ad30d64-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +50,7 @@
       <title>Un cable USB4 como red de datos entre dos ordenadores: así funciona el nuevo protocolo de Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3191340_un-cable-usb4-como-red-de-datos-entre-dos-ordenadores-asi-funciona-el-nuevo-protocolo-de-linux</link>
       <guid>https://www.kernelcast.es/noticias/3191340_un-cable-usb4-como-red-de-datos-entre-dos-ordenadores-asi-funciona-el-nuevo-protocolo-de-linux</guid>
-      <pubDate>Fri, 29 May 2026 11:27:50 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:22 +0000</pubDate>
       <description>Conectar dos ordenadores con un cable y transferir datos a toda velocidad sin configurar ninguna red. Suena a algo que debería llevar décadas siendo habitual, pero la realidad es que nunca ha sido tan sencillo como parece. Un nuevo controlador en desarrollo para el kernel de Linux podría cambiar eso de forma elegante y sin complicaciones.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1dd3519d-19e0-47d0-a8d4-1851d85bd366-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +58,7 @@
       <title>NVIDIA actualiza su controlador para Linux con mejoras en Vulkan, Wayland y soporte HDR real. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3191338_nvidia-actualiza-su-controlador-para-linux-con-mejoras-en-vulkan-wayland-y-soporte-hdr-real</link>
       <guid>https://www.kernelcast.es/noticias/3191338_nvidia-actualiza-su-controlador-para-linux-con-mejoras-en-vulkan-wayland-y-soporte-hdr-real</guid>
-      <pubDate>Fri, 29 May 2026 11:27:52 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:23 +0000</pubDate>
       <description>Si tienes una tarjeta gráfica de NVIDIA y usas Linux, tienes motivos para estar contento esta semana. La compañía acaba de lanzar la serie 610 de su controlador gráfico para Linux, FreeBSD y Solaris, y viene cargada de novedades que van mucho más allá de los típicos parches de seguridad. Hay cambios que afectan directamente a cómo tu sistema gestiona los gráficos, el color y la compatibilidad con el entorno de escritorio moderno.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/340f159c-4a15-42e4-bc3b-cde91f74f588-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +66,7 @@
       <title>Rhino Linux 2026.1 resucita la convergencia que Ubuntu abandonó y le da una segunda oportunidad al escritorio del futuro. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3189805_rhino-linux-2026-1-resucita-la-convergencia-que-ubuntu-abandono-y-le-da-una-segunda-oportunidad-al-escritorio-del-futuro</link>
       <guid>https://www.kernelcast.es/noticias/3189805_rhino-linux-2026-1-resucita-la-convergencia-que-ubuntu-abandono-y-le-da-una-segunda-oportunidad-al-escritorio-del-futuro</guid>
-      <pubDate>Fri, 29 May 2026 11:27:53 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:24 +0000</pubDate>
       <description>Hubo un momento en que Canonical soñó con un sistema operativo que funcionara igual en tu teléfono y en tu ordenador. Ese sueño murió pronto, pero alguien decidió retomarlo. Rhino Linux 2026.1 acaba de llegar con una apuesta que mezcla nostalgia tecnológica y visión de futuro: traer de vuelta Lomiri, la interfaz que nació para móviles, al escritorio Linux moderno.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/e7f35db1-d19c-402f-b4a8-d1b5cc5ddee0-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +74,7 @@
       <title>MX Linux 25.2 llega con Linux Kernel 7.0 y un instalador renovado que lo cambia todo. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3189803_mx-linux-25-2-llega-con-linux-kernel-7-0-y-un-instalador-renovado-que-lo-cambia-todo</link>
       <guid>https://www.kernelcast.es/noticias/3189803_mx-linux-25-2-llega-con-linux-kernel-7-0-y-un-instalador-renovado-que-lo-cambia-todo</guid>
-      <pubDate>Fri, 29 May 2026 11:27:54 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:25 +0000</pubDate>
       <description>Si eres de los que siguen el mundo Linux con cierto entusiasmo, esta semana hay una noticia que merece tu atención. El equipo de MX Linux acaba de lanzar la versión 25.2 de su distribución, bautizada como "Infinity", y aunque a primera vista puede parecer una actualización rutinaria, trae cambios que van mucho más allá de lo cosmético.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/18099616-6422-4198-bcde-042df36a409c-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +82,7 @@
       <title>Europa quiere que el software libre sea la primera opción del sector público: ¿puede lograrlo esta vez?. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3188399_europa-quiere-que-el-software-libre-sea-la-primera-opcion-del-sector-publico-puede-lograrlo-esta-vez</link>
       <guid>https://www.kernelcast.es/noticias/3188399_europa-quiere-que-el-software-libre-sea-la-primera-opcion-del-sector-publico-puede-lograrlo-esta-vez</guid>
-      <pubDate>Fri, 29 May 2026 11:27:55 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:26 +0000</pubDate>
       <description>Imagina que cada vez que una administración pública en Europa necesita comprar software, su primera pregunta obligatoria sea: ¿existe ya una alternativa de código abierto que funcione? Eso es exactamente lo que un grupo de empresas tecnológicas europeas le está pidiendo a la Comisión Europea, y la iniciativa tiene más peso del que parece a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/210d7535-bc05-455c-a3b6-c4c736fd4448-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +90,7 @@
       <title>Linux Mint 23 se prepara para el salto definitivo: capturas de pantalla renovadas, mejor gestión de archivos y seguridad Wi-Fi actualizada. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3188397_linux-mint-23-se-prepara-para-el-salto-definitivo-capturas-de-pantalla-renovadas-mejor-gestion-de-archivos-y-seguridad-wi-fi-actualizada</link>
       <guid>https://www.kernelcast.es/noticias/3188397_linux-mint-23-se-prepara-para-el-salto-definitivo-capturas-de-pantalla-renovadas-mejor-gestion-de-archivos-y-seguridad-wi-fi-actualizada</guid>
-      <pubDate>Fri, 29 May 2026 11:27:56 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:27 +0000</pubDate>
       <description>Si sigues el mundo de Linux desde hace tiempo, ya sabes que Linux Mint es una de esas distribuciones que no necesita presentación. Lleva años siendo la puerta de entrada favorita para quienes dan el salto desde Windows, y con cada nueva versión termina convenciendo a más gente. Ahora, con el desarrollo de Linux Mint 23 en marcha, empieza a perfilarse como una actualización importante que va mucho más allá de los retoques habituales.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/923c4288-5ff8-4757-bc26-8c55d0957c86-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,23 +98,15 @@
       <title>Shelly 2.3.1: el gestor de paquetes de Arch Linux que se pone serio con las notificaciones. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3187341_shelly-2-3-1-el-gestor-de-paquetes-de-arch-linux-que-se-pone-serio-con-las-notificaciones</link>
       <guid>https://www.kernelcast.es/noticias/3187341_shelly-2-3-1-el-gestor-de-paquetes-de-arch-linux-que-se-pone-serio-con-las-notificaciones</guid>
-      <pubDate>Fri, 29 May 2026 11:27:57 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:28 +0000</pubDate>
       <description>Si alguna vez has usado Arch Linux, sabes que la gestión de paquetes es una de las partes más delicadas del sistema. Ahora, Shelly da un paso más hacia convertirse en la herramienta definitiva para hacerlo de forma visual y cómoda. Su versión 2.3.1 llega cargada de mejoras que van mucho más allá de los típicos parches de mantenimiento. Antes de entrar en materia, conviene que sepas qué es exactamente Shelly. Se trata de un gestor de paquetes gráfico de código abierto pensado para distribuciones basadas en Arch Linux. Eso significa que en lugar de escribir comandos en una terminal para instalar, actualizar o eliminar software, tienes una interfaz visual que hace todo eso por ti, de forma más intuitiva.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/00caa707-ba5f-4de7-8c4f-76f817d50fea-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
-    </item>
-    <item>
-      <title>KDE Plasma sigue evolucionando: soporte para Intel Xe y una avalancha de correcciones antes del gran salto a 6.7. / Noticias | kernelcast</title>
-      <link>https://www.kernelcast.es/noticias/3187045_kde-plasma-sigue-evolucionando-soporte-para-intel-xe-y-una-avalancha-de-correcciones-antes-del-gran-salto-a-6-7</link>
-      <guid>https://www.kernelcast.es/noticias/3187045_kde-plasma-sigue-evolucionando-soporte-para-intel-xe-y-una-avalancha-de-correcciones-antes-del-gran-salto-a-6-7</guid>
-      <pubDate>Fri, 29 May 2026 11:27:58 +0000</pubDate>
-      <description>El escritorio Linux más popular del momento no descansa. Mientras los desarrolladores de KDE ultiman los detalles de Plasma 6.7, que llegará a mediados de junio, ya están sembrando el terreno de lo que vendrá después con Plasma 6.8. Esta semana ha sido especialmente movida, con novedades que afectan tanto a usuarios de hardware Intel como a cualquiera que use Plasma en su día a día.</description>
-      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/cb5ffa7a-4baf-4a08-acf5-4e2838dc2365-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
     <item>
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Fri, 29 May 2026 11:27:59 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:29 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Fri, 29 May 2026 11:28:01 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:30 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Fri, 29 May 2026 11:28:02 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:31 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Fri, 29 May 2026 11:28:03 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:32 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Fri, 29 May 2026 11:28:04 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:33 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Fri, 29 May 2026 11:28:05 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:34 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Fri, 29 May 2026 11:28:06 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:35 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Fri, 29 May 2026 11:28:07 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:36 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Fri, 29 May 2026 11:28:08 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:37 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Fri, 29 May 2026 11:28:09 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:38 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Fri, 29 May 2026 11:28:11 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:39 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Btop: el monitor de sistema en terminal que supera (y con estilo) a Top. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</link>
       <guid>https://www.kernelcast.es/blog/2576689_btop-el-monitor-de-sistema-en-terminal-que-supera-y-con-estilo-a-top</guid>
-      <pubDate>Fri, 29 May 2026 11:28:12 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 15:25:40 +0000</pubDate>
       <description>Cuando pensamos en monitorear el sistema desde la terminal en Linux, el clásico top suele ser la primera opción. Funciona, claro. Pero seamos sinceros: es espartano, crudo, y algo incómodo de leer. Afortunadamente, el ecosistema Linux está lleno de sorpresas… y Btop es una de esas que enamoran a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-mon-jun-23-2025-04-32-51-gmt-0200-hora-de-verano-de-europa-central-standard.png" medium="image" />
     </item>

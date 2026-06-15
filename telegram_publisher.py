@@ -6,7 +6,7 @@ import requests
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-FEED_URL = "https://raw.githubusercontent.com/hellarghon/kernelcast-rss/refs/heads/main/feed.xml"
+FEED_FILE = "feed.xml"
 STATE_FILE = "telegram_published.json"
 
 
@@ -38,7 +38,7 @@ def send_to_telegram(title, link, description):
 
 
 def main():
-    feed = feedparser.parse(FEED_URL)
+    feed = feedparser.parse(FEED_FILE)
     published = load_published()
     published_set = set(published)
     new_published = list(published)

@@ -1,7 +1,6 @@
 import os
 import json
 import re
-import time
 import feedparser
 import requests
 
@@ -43,21 +42,19 @@ def main():
     published = load_published()
     published_set = set(published)
     new_published = list(published)
-    entries_to_send = []
 
+    entries_to_send = []
     for entry in feed.entries:
         link = entry.get("link", "")
         if not link or link in published_set:
             continue
-        pub = entry.get("published_parsed")
-        if pub:
-            age_hours = (time.time() - time.mktime(pub)) / 3600
-            if age_hours > 6:
-                continue
         entries_to_send.append(entry)
 
     # Publicar solo el artículo más reciente
     entries_to_send = entries_to_send[:1]
+
+    if not entries_to_send:
+        print("No hay episodios nuevos para publicar.")
 
     for entry in entries_to_send:
         title = entry.get("title", "Sin título")

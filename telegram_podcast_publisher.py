@@ -10,16 +10,17 @@ PODCAST_RSS_URL = "https://anchor.fm/s/f9df9bd0/podcast/rss"
 STATE_FILE = "telegram_podcast_published.json"
 
 
-def load_published():
+def load_last_published():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r") as f:
-            return json.load(f)
-    return []
+            data = json.load(f)
+            return data.get("last_published_link")
+    return None
 
 
-def save_published(published):
+def save_last_published(link):
     with open(STATE_FILE, "w") as f:
-        json.dump(published, f, indent=2)
+        json.dump({"last_published_link": link}, f, indent=2)
 
 
 def send_to_telegram(title, link, description):
@@ -39,39 +40,31 @@ def send_to_telegram(title, link, description):
 
 def main():
     feed = feedparser.parse(PODCAST_RSS_URL)
-    published = load_published()
-    published_set = set(published)
-    new_published = list(published)
+    if not feed.entries:
+        print("Feed vacío o no disponible.")
+        return
 
-    entries_to_send = []
-    for entry in feed.entries:
-        link = entry.get("link", "")
-        if not link or link in published_set:
-            continue
-        entries_to_send.append(entry)
+    latest = feed.entries[0]
+    link = latest.get("link", "")
+    last_published = load_last_published()
 
-    entries_to_send = entries_to_send[:1]
-
-    if not entries_to_send:
+    if not link or link == last_published:
         print("No hay episodios de podcast nuevos para publicar.")
+        return
 
-    for entry in entries_to_send:
-        title = entry.get("title", "Sin título")
-        link = entry.get("link", "")
-        description = entry.get("summary", "")
-        description = re.sub(r"<[^>]+>", "", description)
-        if len(description) > 300:
-            description = description[:300].rsplit(" ", 1)[0] + "…"
+    title = latest.get("title", "Sin título")
+    description = latest.get("summary", "")
+    description = re.sub(r"<[^>]+>", "", description)
+    if len(description) > 300:
+        description = description[:300].rsplit(" ", 1)[0] + "…"
 
-        print(f"Publicando episodio: {title}")
-        ok = send_to_telegram(title, link, description)
-        if ok:
-            new_published.append(link)
-            print(f"  ✓ Publicado correctamente")
-        else:
-            print(f"  ✗ Error al publicar")
-
-    save_published(new_published)
+    print(f"Publicando episodio: {title}")
+    ok = send_to_telegram(title, link, description)
+    if ok:
+        save_last_published(link)
+        print("  ✓ Publicado correctamente")
+    else:
+        print("  ✗ Error al publicar")
 
 
 if __name__ == "__main__":

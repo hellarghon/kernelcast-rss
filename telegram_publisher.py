@@ -6,8 +6,8 @@ import requests
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-FEED_FILE = "feed.xml"
-STATE_FILE = "telegram_published.json"
+PODCAST_RSS_URL = "https://anchor.fm/s/f9df9bd0/podcast/rss"
+STATE_FILE = "telegram_podcast_published.json"
 
 
 def load_published():
@@ -24,7 +24,7 @@ def save_published(published):
 
 def send_to_telegram(title, link, description):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    text = f"<b>{title}</b>\n\n{description}\n\n🔗 <a href='{link}'>Leer en KernelCast</a>"
+    text = f"<b>🎙️ Nuevo episodio: {title}</b>\n\n{description}\n\n🎧 <a href='{link}'>Escúchalo aquí</a>"
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
         "text": text,
@@ -38,7 +38,7 @@ def send_to_telegram(title, link, description):
 
 
 def main():
-    feed = feedparser.parse(FEED_FILE)
+    feed = feedparser.parse(PODCAST_RSS_URL)
     published = load_published()
     published_set = set(published)
     new_published = list(published)
@@ -50,11 +50,10 @@ def main():
             continue
         entries_to_send.append(entry)
 
-    # Publicar solo el artículo más reciente
     entries_to_send = entries_to_send[:1]
 
     if not entries_to_send:
-        print("No hay episodios nuevos para publicar.")
+        print("No hay episodios de podcast nuevos para publicar.")
 
     for entry in entries_to_send:
         title = entry.get("title", "Sin título")
@@ -64,7 +63,7 @@ def main():
         if len(description) > 300:
             description = description[:300].rsplit(" ", 1)[0] + "…"
 
-        print(f"Publicando: {title}")
+        print(f"Publicando episodio: {title}")
         ok = send_to_telegram(title, link, description)
         if ok:
             new_published.append(link)

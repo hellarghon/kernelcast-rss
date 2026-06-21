@@ -1,10 +1,15 @@
 name: Publish to Telegram
 on:
+  workflow_run:
+    workflows: ["Generar RSS KernelCast"]
+    types:
+      - completed
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
   publish:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repositorio

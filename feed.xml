@@ -5,12 +5,20 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:05:17 +0000</lastBuildDate>
+    <item>
+      <title> AMD FSR Upscaling 4.1 llega a Radeon RX 7000: qué cambia para Linux. / Noticias | kernelcast</title>
+      <link>https://www.kernelcast.es/noticias/3238840_amd-fsr-upscaling-4-1-llega-a-radeon-rx-7000-que-cambia-para-linux</link>
+      <guid>https://www.kernelcast.es/noticias/3238840_amd-fsr-upscaling-4-1-llega-a-radeon-rx-7000-que-cambia-para-linux</guid>
+      <pubDate>Mon, 22 Jun 2026 18:05:18 +0000</pubDate>
+      <description>AMD ha dado un paso que muchos jugadores en Linux llevaban esperando desde que FSR 4 apareció en escena: la versión 4.1 de su tecnología de escalado con aprendizaje automático ya está disponible oficialmente para las GPU de la serie Radeon RX 7000, es decir, para toda la arquitectura RDNA 3. El anuncio llegó algo antes de lo previsto, ya que la compañía había indicado en un comunicado anterior que la llegada de FSR 4.1 a estas tarjetas estaba prevista para julio. La anticipación es una buena señal, pero lo realmente interesante está en lo que esto implica para el ecosistema de software libre.</description>
+      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/83299787-72ca-4454-889b-aa9b30f96588-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
+    </item>
     <item>
       <title>Audacity 4 Beta 2: qué hay de nuevo en el editor de audio libre. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3237958_audacity-4-beta-2-que-hay-de-nuevo-en-el-editor-de-audio-libre</link>
       <guid>https://www.kernelcast.es/noticias/3237958_audacity-4-beta-2-que-hay-de-nuevo-en-el-editor-de-audio-libre</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:19 +0000</pubDate>
       <description>El editor de audio libre más popular del mundo acaba de dar su paso más ambicioso en años. Audacity 4 Beta 2, lanzado el 11 de junio de 2026, es la primera beta pública de esta nueva versión mayor, y llega cargado de cambios que afectan desde la interfaz hasta el núcleo del flujo de trabajo de edición. Si usas Audacity para podcasts, grabaciones de voz o producción de audio en Linux, esto te interesa directamente.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a26ba3a8-9eda-4e2f-aa36-0b845fae1e49-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +26,7 @@
       <title>systemd 261: así refuerza la nube y la seguridad TPM en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3236877_systemd-261-asi-refuerza-la-nube-y-la-seguridad-tpm-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3236877_systemd-261-asi-refuerza-la-nube-y-la-seguridad-tpm-en-linux</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:01 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:20 +0000</pubDate>
       <description>Si administras servidores Linux o trabajas en entornos cloud, hay una pieza de software que probablemente das por sentada hasta que algo falla: systemd. La nueva versión, systemd 261, acaba de publicarse tres meses después de su predecesora, y aunque buena parte de sus novedades pasan desapercibidas para quien usa Linux en un portátil personal, marca un paso importante en cómo este sistema de inicio se ha convertido en una pieza central para gestionar infraestructura, seguridad y automatización en servidores y plataformas en la nube.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/8ab3829b-10c1-41f6-8e95-ec3a6934907a-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +34,7 @@
       <title>OBS Studio 32.2.0 Beta 1: así arregla las pantallas negras. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3236876_obs-studio-32-2-0-beta-1-asi-arregla-las-pantallas-negras</link>
       <guid>https://www.kernelcast.es/noticias/3236876_obs-studio-32-2-0-beta-1-asi-arregla-las-pantallas-negras</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:02 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:21 +0000</pubDate>
       <description>Si alguna vez has visto cómo tu captura se queda completamente en negro justo después de actualizar el controlador de tu tarjeta gráfica, sabrás lo frustrante que puede llegar a ser mientras grabas o transmites en directo. OBS Studio 32.2.0 Beta 1 ha llegado esta semana precisamente para atajar ese tipo de problemas, junto con varios ajustes que llevaban tiempo pidiendo a gritos una revisión. La actualización no se limita a pequeños retoques visuales: toca el menú de añadir fuentes, mejora la compatibilidad con macOS en equipos Apple Silicon, refuerza la estabilidad en Windows y añade soporte real de SDR sobre HDR, todo en una misma tanda de cambios.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/b1bb18d3-7bcc-4223-a2dd-2f0dede959a6-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +42,7 @@
       <title>Shelly 2.4 llega con más seguridad para Arch Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3236873_shelly-2-4-llega-con-mas-seguridad-para-arch-linux</link>
       <guid>https://www.kernelcast.es/noticias/3236873_shelly-2-4-llega-con-mas-seguridad-para-arch-linux</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:03 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:22 +0000</pubDate>
       <description>Si usas Arch Linux y ya conoces Shelly, el gestor de paquetes gráfico que se adoptó hace poco como opción por defecto en CachyOS, hay novedades que te interesan. Zoey Bauer, la desarrolladora del proyecto, acaba de lanzar Shelly 2.4, una actualización que sigue puliendo esta alternativa gratuita y de código abierto a Pacman, pensada especialmente para quienes llegan nuevos a Arch Linux y buscan algo más amigable que la terminal pura. Esta versión no se limita a pequeños retoques: trae mejoras visibles en la línea de comandos, refuerza el soporte de formatos como Flatpak y AppImage, y suma varias capas de seguridad pensadas para protegerte de paquetes maliciosos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/9f1adffa-36d2-4b60-b3c2-d8a785a4ad94-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +50,7 @@
       <title>Yay v13: así blinda Arch Linux frente al malware del AUR. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3236871_yay-v13-asi-blinda-arch-linux-frente-al-malware-del-aur</link>
       <guid>https://www.kernelcast.es/noticias/3236871_yay-v13-asi-blinda-arch-linux-frente-al-malware-del-aur</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:04 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:23 +0000</pubDate>
       <description>Si usas Arch Linux y te apoyas en el AUR para instalar software, seguramente recuerdes la mala racha que vivió el repositorio hace poco, cuando más de 1.500 paquetes resultaron comprometidos en tres oleadas distintas de ataques antes de que los desarrolladores pudieran ponerle freno. Ahora, yay, el ayudante AUR más popular para Arch Linux, acaba de lanzar su versión 13, y lo hace con la mirada puesta directamente en ese problema. No se trata de un parche cosmético, sino de dos funciones pensadas para que tú, como usuario, puedas detectar antes un paquete arriesgado y, si quieres ir más allá, automatizar tu propio proceso de revisión.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1fd7635c-1fdc-43f7-9b75-4ed9a105f313-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +58,7 @@
       <title>Plasma 6.8 y KDE Frameworks 6.28: todas las novedades. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3236313_plasma-6-8-y-kde-frameworks-6-28-todas-las-novedades</link>
       <guid>https://www.kernelcast.es/noticias/3236313_plasma-6-8-y-kde-frameworks-6-28-todas-las-novedades</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:04 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:24 +0000</pubDate>
       <description>KDE sigue puliendo Plasma a un ritmo constante, y la combinación de Plasma 6.8 junto con KDE Frameworks 6.28 trae un puñado de cambios que, sin ser revolucionarios, mejoran de forma tangible el día a día de quien usa este entorno de escritorio. No se trata de una reinvención, sino de ese tipo de actualización que suaviza asperezas, corrige comportamientos extraños y añade pequeños detalles que se agradecen en cuanto te topas con ellos. Si usas Linux con Plasma como escritorio, estas son las novedades que merece la pena conocer.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/32918fe6-6a5c-4156-a984-d7ffc47e35b3-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +66,7 @@
       <title>Firefox 151: Mozilla parchea 31 fallos de seguridad graves. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3232466_firefox-151-mozilla-parchea-31-fallos-de-seguridad-graves</link>
       <guid>https://www.kernelcast.es/noticias/3232466_firefox-151-mozilla-parchea-31-fallos-de-seguridad-graves</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:05 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:25 +0000</pubDate>
       <description>Si usas Firefox como tu navegador principal, hay una actualización que no deberías dejar pasar. Mozilla publicó el 19 de mayo de 2026 el boletín de seguridad correspondiente a Firefox 151, calificado con impacto alto, y unas semanas después llegó un parche adicional para reforzar dos fallos más detectados tras el lanzamiento. En total, son más de treinta correcciones las que se han aplicado en poco más de un mes, algo que conviene tomarse en serio si pasas buena parte del día con el navegador abierto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/e9b5ffb5-50b2-4184-bfab-7763382bcb3d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +74,7 @@
       <title>Linux 7.2 estrena soporte HDMI 2.1 en AMDGPU: qué cambia. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3231094_linux-7-2-estrena-soporte-hdmi-2-1-en-amdgpu-que-cambia</link>
       <guid>https://www.kernelcast.es/noticias/3231094_linux-7-2-estrena-soporte-hdmi-2-1-en-amdgpu-que-cambia</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:06 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:26 +0000</pubDate>
       <description>Cuando se habla de mejoras en el kernel de Linux, los titulares suelen ir a parar a funcionalidades de alto nivel, pero algunas de las novedades más relevantes para el usuario de escritorio se cuecen en un lugar menos visible: los controladores gráficos. En Linux 7.2, la fusión del subsistema DRM trae consigo algo que la comunidad llevaba tiempo esperando: el soporte inicial de HDMI 2.1 FRL para el controlador AMDGPU, el driver de código abierto para las tarjetas gráficas AMD Radeon. No es la implementación completa, pero es el primer paso real hacia resoluciones más altas y tasas de refresco mayores a través de HDMI en Linux. El término FRL, que responde a Fixed Rate Link, es el mecanismo de transmisión que utiliza HDMI 2.1 para mover grandes cantidades de datos entre la tarjeta gráfica y el monitor. Sin soporte adecuado de FRL en el driver, las pantallas modernas que trabajan a 4K a 144 Hz o resoluciones superiores no pueden aprovechar todo su potencial en Linux. Con esta fusión, ese camino empieza a despejarse.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/9d89e25a-2fea-4586-a057-c9e052619e9d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +82,7 @@
       <title>NVIDIA Game Ready Driver 610.62: qué cambia en 2026 / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3231090_nvidia-game-ready-driver-610-62-que-cambia-en-2026</link>
       <guid>https://www.kernelcast.es/noticias/3231090_nvidia-game-ready-driver-610-62-que-cambia-en-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:07 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:27 +0000</pubDate>
       <description>El mundo de los drivers de tarjeta gráfica puede parecer un territorio reservado a gamers entusiastas, pero lo cierto es que cada actualización que lanza NVIDIA tiene consecuencias que van mucho más allá de los fotogramas por segundo. La versión 610.62 del Game Ready Driver, publicada en junio de 2026, llega con un paquete de correcciones y novedades que merece un análisis calmado, especialmente si usas Windows con hardware NVIDIA en cualquier contexto de trabajo o entretenimiento. No estamos ante una actualización revolucionaria, pero sí ante una de esas versiones que hacen el trabajo silencioso que más se agradece: estabilizar lo que estaba roto y preparar el terreno para lo que viene. Vamos a ver qué hay dentro y qué significa para ti.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/90f1bf25-7f3f-4f99-8bea-b504720a2dfe-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +90,7 @@
       <title>Malware en el AUR, de Arch Linux tira del enchufe. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3229500_malware-en-el-aur-de-arch-linux-tira-del-enchufe</link>
       <guid>https://www.kernelcast.es/noticias/3229500_malware-en-el-aur-de-arch-linux-tira-del-enchufe</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:08 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:28 +0000</pubDate>
       <description>El AUR de Arch Linux ha sido el escenario de uno de los incidentes de seguridad más llamativos que ha vivido la comunidad de software libre en los últimos tiempos. A mediados de junio de 2026, una campaña de malware logró comprometer más de 1.500 paquetes del Repositorio de Usuarios de Arch en cuestión de días, obligando al equipo de desarrollo a tomar medidas de contención urgentes, incluida la suspensión temporal del registro de nuevas cuentas. Si usas Arch Linux o alguna distribución basada en él como Manjaro o EndeavourOS, esto te afecta directamente.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/21dd0a52-ee72-4efd-a1f0-c7586119204d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,23 +98,15 @@
       <title>KDE Plasma 6.7: escritorios virtuales por monitor y el regreso de Oxygen. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3229496_kde-plasma-6-7-escritorios-virtuales-por-monitor-y-el-regreso-de-oxygen</link>
       <guid>https://www.kernelcast.es/noticias/3229496_kde-plasma-6-7-escritorios-virtuales-por-monitor-y-el-regreso-de-oxygen</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:09 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:29 +0000</pubDate>
       <description>KDE Plasma 6.7 ya está aquí, y aunque a primera vista podría parecer una actualización menor, trae consigo algunas de las funciones más esperadas por la comunidad de software libre en los últimos años. Esta nueva versión del entorno de escritorio más personalizable de Linux llega con cambios que van desde mejoras profundas en la productividad hasta guiños a la nostalgia, pasando por optimizaciones técnicas que se notarán en el uso diario. Si usas KDE Plasma, tienes razones más que suficientes para actualizar.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/b4ec22af-d409-4de9-8188-8de31edae943-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
-    </item>
-    <item>
-      <title>Firefox 152: todas las novedades del navegador de Mozilla en 2026. / Noticias | kernelcast</title>
-      <link>https://www.kernelcast.es/noticias/3227935_firefox-152-todas-las-novedades-del-navegador-de-mozilla-en-2026</link>
-      <guid>https://www.kernelcast.es/noticias/3227935_firefox-152-todas-las-novedades-del-navegador-de-mozilla-en-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:10 +0000</pubDate>
-      <description>Mozilla acaba de lanzar Firefox 152, una actualización que llega cargada de mejoras tanto para usuarios de escritorio como para quienes navegan desde dispositivos móviles. Esta nueva versión del navegador de Mozilla no es una simple corrección de errores: introduce funciones que llevan tiempo siendo demandadas por la comunidad, moderniza la interfaz de configuración y añade soporte experimental para tecnologías que podrían cambiar la forma en que navegamos. Si usas Firefox en Linux, Windows, macOS o Android, hay novedades relevantes para ti.</description>
-      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/e07d00ae-3965-4208-b317-ac7b20b413d3-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
     <item>
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:11 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:30 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:12 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:31 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:13 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:32 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:14 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:33 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:15 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:34 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:16 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:35 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:17 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:36 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:18 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:37 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:19 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:38 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:20 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:39 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:21 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:40 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Mon, 22 Jun 2026 13:22:22 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:05:41 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>

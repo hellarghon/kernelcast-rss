@@ -55,6 +55,9 @@ def main():
     title = latest.get("title", "Sin título")
     description = latest.get("summary", "")
     description = re.sub(r"<[^>]+>", "", description)
+    match = re.search(r"[#]|https?://", description)
+    if match:
+        description = description[:match.start()].strip()
     if len(description) > 300:
         description = description[:300].rsplit(" ", 1)[0] + "…"
 

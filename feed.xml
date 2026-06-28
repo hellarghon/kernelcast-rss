@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Sun, 28 Jun 2026 18:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:16:49 +0000</lastBuildDate>
     <item>
       <title> KDE Plasma 6.7.2 y 6.8: correcciones de KWin y novedades clave. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3246514_kde-plasma-6-7-2-y-6-8-correcciones-de-kwin-y-novedades-clave</link>
       <guid>https://www.kernelcast.es/noticias/3246514_kde-plasma-6-7-2-y-6-8-correcciones-de-kwin-y-novedades-clave</guid>
-      <pubDate>Sun, 28 Jun 2026 18:45:54 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:50 +0000</pubDate>
       <description>El escritorio KDE Plasma sigue su ciclo de actualizaciones con novedades que merecen atención. Apenas unos días después del lanzamiento de Plasma 6.7.1, ya están tomando forma los cambios previstos para Plasma 6.7.2, la siguiente actualización de mantenimiento que llegará en julio. Al mismo tiempo, el desarrollo de Plasma 6.8 avanza con mejoras propias que apuntan a una experiencia más estable y refinada, especialmente para quienes trabajan con configuraciones de hardware específicas. No se trata de grandes redesigns visuales, sino de ese trabajo de fondo que marca la diferencia entre un escritorio que simplemente funciona y uno en el que puedes confiar.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/75603871-6253-4595-a270-8ddb378c0a90-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Ubuntu 26.10 Snapshot 2: el desarrollo de Stonking Stingray avanza. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3246513_ubuntu-26-10-snapshot-2-el-desarrollo-de-stonking-stingray-avanza</link>
       <guid>https://www.kernelcast.es/noticias/3246513_ubuntu-26-10-snapshot-2-el-desarrollo-de-stonking-stingray-avanza</guid>
-      <pubDate>Sun, 28 Jun 2026 18:45:55 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:52 +0000</pubDate>
       <description>El ciclo de desarrollo de Ubuntu no descansa, y la segunda imagen mensual de prueba de Ubuntu 26.10 es la mejor prueba de ello. Bajo el nombre en clave Stonking Stingray, Canonical acaba de publicar el Snapshot 2 de lo que será la próxima versión no LTS de su distribución insignia, prevista para octubre de 2026. No es una versión para instalar en tu ordenador principal ni para el uso cotidiano, pero sí es una señal clara de que la maquinaria interna de Canonical funciona con precisión y que el calendario de desarrollo se está cumpliendo sin sobresaltos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/31334eeb-19b9-4eb1-9818-ae7abf3f4122-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>AMD impulsa cuatro de las diez supercomputadoras más rápidas del mundo. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3245390_amd-impulsa-cuatro-de-las-diez-supercomputadoras-mas-rapidas-del-mundo</link>
       <guid>https://www.kernelcast.es/noticias/3245390_amd-impulsa-cuatro-de-las-diez-supercomputadoras-mas-rapidas-del-mundo</guid>
-      <pubDate>Sun, 28 Jun 2026 18:45:56 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:53 +0000</pubDate>
       <description>Si hay una medida del peso real de una empresa en el mundo de la computación de alto rendimiento, es cuántos de los sistemas más potentes del planeta llevan su tecnología dentro. Y en la edición de junio de 2026 del ranking TOP500, AMD ha dejado una marca difícil de ignorar: cuatro de las diez supercomputadoras más rápidas del mundo funcionan con sus procesadores y GPUs. No es un dato aislado. Es la consolidación de una tendencia que lleva varios años construyéndose y que ahora tiene cifras concretas que la respaldan.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/750b1483-3e5f-4b4a-942c-066a4531bbd2-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Lo mejor de GNOME esta semana: apps nuevas y extensiones útiles. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3245387_lo-mejor-de-gnome-esta-semana-apps-nuevas-y-extensiones-utiles</link>
       <guid>https://www.kernelcast.es/noticias/3245387_lo-mejor-de-gnome-esta-semana-apps-nuevas-y-extensiones-utiles</guid>
-      <pubDate>Sun, 28 Jun 2026 18:45:57 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:54 +0000</pubDate>
       <description>El ecosistema GNOME no para. Semana tras semana, desarrolladores independientes, estudiantes y contribuidores de todo el mundo van añadiendo piezas a un puzzle que ya es enorme, y la edición número 255 del boletín semanal de GNOME, correspondiente a la última semana de junio de 2026, es un buen ejemplo de esa actividad constante. Editores de código, clientes Git, extensiones de shell y herramientas de productividad: hay material suficiente para entender qué está pasando en el entorno de escritorio libre más extendido en Linux.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/29537ed7-0e09-455a-92b6-f1ddd0fab861-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Shotcut 26.6: editor de vídeo open source con Vulkan y soporte HDR en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3245385_shotcut-26-6-editor-de-video-open-source-con-vulkan-y-soporte-hdr-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3245385_shotcut-26-6-editor-de-video-open-source-con-vulkan-y-soporte-hdr-en-linux</guid>
-      <pubDate>Sun, 28 Jun 2026 18:45:58 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:55 +0000</pubDate>
       <description>Shotcut lleva años siendo una de esas referencias silenciosas en el ecosistema del software libre: un editor de vídeo multiplataforma, gratuito y de código abierto que avanza versión a versión sin hacer demasiado ruido. Con el lanzamiento de Shotcut 26.6, ese perfil discreto contrasta con un conjunto de novedades que merece atención, especialmente si editas vídeo en Linux. Desde el soporte inicial para plugins OpenFX hasta la llegada de Vulkan como opción de renderizado en sistemas GNU/Linux, esta versión marca una dirección técnica clara hacia la que los desarrolladores llevan tiempo apuntando.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/ce5122e1-af9b-4d66-abeb-892c42958f74-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Fooyin 0.11: radio por Internet y visualización en el reproductor Qt. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3243952_fooyin-0-11-radio-por-internet-y-visualizacion-en-el-reproductor-qt</link>
       <guid>https://www.kernelcast.es/noticias/3243952_fooyin-0-11-radio-por-internet-y-visualizacion-en-el-reproductor-qt</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:00 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:56 +0000</pubDate>
       <description>Si llevas tiempo buscando un reproductor de música para Linux que vaya más allá de lo básico sin convertirse en una aplicación pesada e inflexible, Fooyin lleva un tiempo construyendo una propuesta interesante. Con su versión 0.11, este reproductor basado en Qt da un salto cualitativo al incorporar soporte para radio por Internet, nuevas opciones de visualización y una gestión de listas de reproducción considerablemente mejorada. No es una actualización menor: es la que consolida a Fooyin como una opción a tener en cuenta si valoras la personalización y el rendimiento en tu escritorio Linux.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a914b02e-8e8e-4ce1-95b3-5635ccc8a73e-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Melia: el cliente de correo para Linux que pone la privacidad por delante en 2026. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3243950_melia-el-cliente-de-correo-para-linux-que-pone-la-privacidad-por-delante-en-2026</link>
       <guid>https://www.kernelcast.es/noticias/3243950_melia-el-cliente-de-correo-para-linux-que-pone-la-privacidad-por-delante-en-2026</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:01 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:57 +0000</pubDate>
       <description>Encontrar un cliente de correo electrónico que funcione de verdad en Linux y que, además, no comprometa tu privacidad, es una tarea más complicada de lo que debería. La mayoría de opciones disponibles son ports de aplicaciones diseñadas para otros sistemas, soluciones multiplataforma que priorizan la compatibilidad sobre la experiencia nativa, o directamente te empujan hacia el correo web. Melia llega con una propuesta diferente: es un cliente de correo construido exclusivamente para Linux, con la privacidad como principio de diseño desde el primer momento, no como característica añadida a posteriori.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/258b8cc7-dbfc-42e4-aaff-34a8e262978f-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Monitoreo de hardware en Linux 7.2: nuevos sensores y controladores. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3242372_monitoreo-de-hardware-en-linux-7-2-nuevos-sensores-y-controladores</link>
       <guid>https://www.kernelcast.es/noticias/3242372_monitoreo-de-hardware-en-linux-7-2-nuevos-sensores-y-controladores</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:02 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:58 +0000</pubDate>
       <description>Si alguna vez has querido saber exactamente a qué temperatura trabaja tu procesador, qué voltaje está recibiendo tu placa base o si los ventiladores de tu equipo giran a la velocidad adecuada, Linux 7.2 trae buenas noticias. Esta versión del kernel incorpora un número notable de novedades en el subsistema de monitoreo de hardware, conocido como HWMON, con soporte para nuevos dispositivos y controladores que amplían la lista de equipos compatibles con estas funciones de supervisión del sistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d31df992-9c27-4319-ac80-12d2ad82481f-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Podman en 2026: qué es, cómo instalarlo en Linux y por qué diferencia de Docker. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3242370_podman-en-2026-que-es-como-instalarlo-en-linux-y-por-que-diferencia-de-docker</link>
       <guid>https://www.kernelcast.es/noticias/3242370_podman-en-2026-que-es-como-instalarlo-en-linux-y-por-que-diferencia-de-docker</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:03 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:16:59 +0000</pubDate>
       <description>Si llevas tiempo trabajando con contenedores en Linux, es probable que el nombre Podman haya aparecido en tu radar más de una vez. En 2026, esta herramienta de gestión de contenedores ha madurado hasta el punto de convertirse en una alternativa real y bien establecida a Docker, con una propuesta técnica diferente y algunas ventajas que merece la pena entender antes de decidir cuál usas en tu sistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/76e094ae-76e4-46a8-bdf7-e097ad627680-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>COSMIC 1.1: el escritorio en Rust de System76 da un gran salto en 2026. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3241129_cosmic-1-1-el-escritorio-en-rust-de-system76-da-un-gran-salto-en-2026</link>
       <guid>https://www.kernelcast.es/noticias/3241129_cosmic-1-1-el-escritorio-en-rust-de-system76-da-un-gran-salto-en-2026</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:04 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:01 +0000</pubDate>
       <description>Si llevas tiempo siguiendo el desarrollo del entorno de escritorio COSMIC, el proyecto de System76 escrito completamente en Rust, esta semana tienes motivos para actualizar. El equipo acaba de publicar COSMIC 1.1, una nueva versión estable que incorpora componentes inéditos, amplía la compatibilidad con protocolos de Wayland y consolida la experiencia general con una buena dosis de correcciones. No es un salto revolucionario, pero sí demuestra que el proyecto avanza con cadencia y criterio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/e68fd9b0-c6b0-400f-885c-12523b6c4436-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>KDE Plasma 6.7.1: correcciones en Kickoff, Discover y KWin (2026). / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3240242_kde-plasma-6-7-1-correcciones-en-kickoff-discover-y-kwin-2026</link>
       <guid>https://www.kernelcast.es/noticias/3240242_kde-plasma-6-7-1-correcciones-en-kickoff-discover-y-kwin-2026</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:05 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:02 +0000</pubDate>
       <description>Cuando KDE lanza una actualización de mantenimiento, la promesa no es sorprenderte con novedades, sino asegurarse de que lo que ya tienes funcione mejor. Eso es exactamente lo que ocurre con KDE Plasma 6.7.1, disponible desde el 23 de junio de 2026, una versión que no añade funciones pero que corrige errores detectados en la práctica real desde que llegó Plasma 6.7. Si usas este escritorio a diario, probablemente ya hayas notado alguno de los problemas que esta actualización viene a resolver.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/b3b41fb3-4302-46af-9022-4f5b0c6a9456-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>KDE Frameworks 6.27.0: todas las novedades de la actualización mensual. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3239586_kde-frameworks-6-27-0-todas-las-novedades-de-la-actualizacion-mensual</link>
       <guid>https://www.kernelcast.es/noticias/3239586_kde-frameworks-6-27-0-todas-las-novedades-de-la-actualizacion-mensual</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:07 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:03 +0000</pubDate>
       <description>KDE Frameworks es la columna vertebral invisible sobre la que se construye gran parte del ecosistema de aplicaciones KDE Plasma. Cada mes, el equipo de KDE publica una nueva versión de esta colección de más de ochenta bibliotecas que proporcionan funcionalidades compartidas a programas como Dolphin, Kate, Okular o el propio escritorio Plasma. La versión 6.27.0 acaba de llegar, y aunque no introduce cambios que reescriban las reglas del juego, acumula un volumen notable de correcciones, mejoras de rendimiento y ajustes de calidad que afectan a componentes muy distintos. Entender qué trae esta actualización te ayuda a saber por qué tu sistema KDE mejora aunque no lo notes a primera vista.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/2db36394-23fd-4e9c-8a73-7948458c968c-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:08 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:04 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:09 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:05 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:10 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:06 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:11 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:07 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:12 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:09 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:14 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:10 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:15 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:11 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:16 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:12 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:17 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:13 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:18 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:14 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:19 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:15 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>¿Por qué CachyOS? Una experiencia Arch que realmente sorprende. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</link>
       <guid>https://www.kernelcast.es/blog/2592071_por-que-cachyos-una-experiencia-arch-que-realmente-sorprende</guid>
-      <pubDate>Sun, 28 Jun 2026 18:46:20 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:17:16 +0000</pubDate>
       <description>Cuando uno empieza a moverse por el universo de las distribuciones basadas en Arch, rápidamente se da cuenta de que hay de todo: desde proyectos minimalistas que te obligan a construir tu sistema desde cero, hasta propuestas más pulidas que buscan hacer accesible toda la potencia de Arch sin tener que vivir en la consola las 24 horas del día.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-thu-jul-03-2025-04-49-44-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>

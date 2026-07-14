@@ -5,12 +5,20 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:23:43 +0000</lastBuildDate>
+    <item>
+      <title>Linux mejora la gestión de swap con varios discos: así funciona. / Noticias | kernelcast</title>
+      <link>https://www.kernelcast.es/noticias/3275738_linux-mejora-la-gestion-de-swap-con-varios-discos-asi-funciona</link>
+      <guid>https://www.kernelcast.es/noticias/3275738_linux-mejora-la-gestion-de-swap-con-varios-discos-asi-funciona</guid>
+      <pubDate>Tue, 14 Jul 2026 08:23:44 +0000</pubDate>
+      <description>Si alguna vez has configurado un servidor Linux con más de un disco dedicado a swap, seguramente sabes que el sistema no siempre reparte la carga de la forma más eficiente. Un nuevo conjunto de parches presentado para el kernel de Linux busca precisamente resolver ese problema, mejorando cómo el sistema distribuye la entrada y salida de datos cuando hay múltiples dispositivos de intercambio en juego. No es una función que vaya a notar la mayoría de usuarios de escritorio, pero para quienes administran infraestructuras Linux más complejas, este cambio puede marcar una diferencia real en rendimiento y previsibilidad. La propuesta viene de un ingeniero de Tencent, Kairu Song, que lleva tiempo trabajando en reorganizar la forma en que el kernel gestiona el swap cuando hay más de un dispositivo disponible. La serie se ha enviado como RFC, es decir, como una solicitud de comentarios a la comunidad antes de integrarse formalmente, lo que indica que todavía está en fase de discusión y revisión técnica.</description>
+      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/ad30af33-2a9c-4fd3-bfb1-3ff5fcace6a9-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
+    </item>
     <item>
       <title>PipeWire 1.6.8 llega con mejoras en JACK MIDI y filtro SOFA. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3274215_pipewire-1-6-8-llega-con-mejoras-en-jack-midi-y-filtro-sofa</link>
       <guid>https://www.kernelcast.es/noticias/3274215_pipewire-1-6-8-llega-con-mejoras-en-jack-midi-y-filtro-sofa</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:01 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:45 +0000</pubDate>
       <description>PipeWire 1.6.8 ya está disponible como la octava actualización de mantenimiento de la serie 1.6, y si usas Linux para trabajar con audio o vídeo, esta versión trae varias correcciones que conviene conocer. Se trata del software encargado de gestionar los flujos multimedia en los sistemas Linux modernos, y esta nueva entrega llega apenas tres semanas después de la versión 1.6.7, centrada de nuevo en resolver errores concretos detectados por la comunidad y en pulir el comportamiento del servidor en distintos escenarios de uso.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/0e352e97-999b-4de1-97d4-ddb6aa2e04df-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +26,7 @@
       <title>Debian 13.6 llega con 124 correcciones y 120 parches de seguridad. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3274210_debian-13-6-llega-con-124-correcciones-y-120-parches-de-seguridad</link>
       <guid>https://www.kernelcast.es/noticias/3274210_debian-13-6-llega-con-124-correcciones-y-120-parches-de-seguridad</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:02 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:46 +0000</pubDate>
       <description>Debian 13.6 ya está disponible como la sexta actualización de mantenimiento de la rama estable Trixie, y si usas esta distribución o estás pensando en instalarla, esta versión te interesa especialmente. Como ocurre con todas las versiones puntuales de Debian, no se trata de una actualización que traiga funciones nuevas, sino de un paquete que reúne todas las correcciones de errores y los parches de seguridad publicados desde el lanzamiento anterior, pensado tanto para quienes ya usan el sistema como para quienes van a instalarlo desde cero.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/6ad6d522-97cb-48b0-a2f6-ab0da87d938e-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +34,7 @@
       <title>Plasma 6.8: así avanzan las nuevas funciones de KDE. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3272752_plasma-6-8-asi-avanzan-las-nuevas-funciones-de-kde</link>
       <guid>https://www.kernelcast.es/noticias/3272752_plasma-6-8-asi-avanzan-las-nuevas-funciones-de-kde</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:03 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:47 +0000</pubDate>
       <description>Si sigues de cerca el desarrollo de KDE, sabrás que el equipo no se toma descansos largos entre versiones, y este verano no es la excepción. Plasma 6.8 sigue tomando forma semana a semana, y el boletín Esta Semana en Plasma acaba de repasar los últimos avances que llegarán al escritorio, con mejoras que van desde la grabación de pantalla hasta el monitor de recursos del sistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/cbbf45dc-46f7-448e-b2cf-260d7ca28786-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +42,7 @@
       <title>OBS Studio 32.2 RC1: así es la actualización. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3272750_obs-studio-32-2-rc1-asi-es-la-actualizacion</link>
       <guid>https://www.kernelcast.es/noticias/3272750_obs-studio-32-2-rc1-asi-es-la-actualizacion</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:04 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:48 +0000</pubDate>
       <description>Si grabas pantalla, haces streaming o simplemente sigues de cerca las herramientas de código abierto para creación de contenido, hay una actualización que merece tu atención. OBS Studio 32.2 acaba de entrar en su fase de release candidate, y trae consigo cambios que van desde un rediseño de la interfaz hasta soporte nativo para flujos HDR, pasando por ajustes importantes en Windows y macOS que conviene conocer antes de actualizar.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/eddf33c8-87e1-4646-9e02-7bd2aaffa419-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +50,7 @@
       <title>Claude Desktop llega a Linux en beta: así puedes instalarlo. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3272102_claude-desktop-llega-a-linux-en-beta-asi-puedes-instalarlo</link>
       <guid>https://www.kernelcast.es/noticias/3272102_claude-desktop-llega-a-linux-en-beta-asi-puedes-instalarlo</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:05 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:49 +0000</pubDate>
       <description>Si usas Linux como sistema principal, sabes lo habitual que es esperar meses o años a que una aplicación de escritorio popular llegue finalmente a tu plataforma. Anthropic acaba de dar ese paso con Claude Desktop, la aplicación de escritorio de su asistente de inteligencia artificial, que ya está disponible para Linux en fase beta. La app llega con la misma experiencia que ya existía en macOS y Windows, así que si venías usando Claude en otros sistemas, aquí no vas a sentirte en un entorno recortado ni con menos funciones de las esperadas, salvo un par de excepciones puntuales que iremos viendo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/9fdee934-ea0a-43ea-ba13-7e7455cc780c-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +58,7 @@
       <title>KBackup en Linux: copias de seguridad incrementales sin complicaciones. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3272099_kbackup-en-linux-copias-de-seguridad-incrementales-sin-complicaciones</link>
       <guid>https://www.kernelcast.es/noticias/3272099_kbackup-en-linux-copias-de-seguridad-incrementales-sin-complicaciones</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:07 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:50 +0000</pubDate>
       <description>Si alguna vez has perdido archivos importantes por no tener una copia de seguridad al día, sabes que la gestión de backups en Linux suele obligarte a elegir entre dos extremos: herramientas de terminal potentes pero intimidantes, o aplicaciones gráficas tan simplificadas que se quedan cortas en funcionalidad real. KBackup se sitúa justo en el punto intermedio que muchos usuarios llevan tiempo buscando, con una interfaz visual accesible que esconde debajo un motor capaz de gestionar copias de seguridad incrementales, perfiles reutilizables y automatización completa por línea de comandos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a7ba7cb9-d812-475a-a158-b2373e094070-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +66,7 @@
       <title>Ubuntu ARM64 en 2026: Livepatch, Steam y Secure Boot ya funcionan. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3270886_ubuntu-arm64-en-2026-livepatch-steam-y-secure-boot-ya-funcionan</link>
       <guid>https://www.kernelcast.es/noticias/3270886_ubuntu-arm64-en-2026-livepatch-steam-y-secure-boot-ya-funcionan</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:08 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:51 +0000</pubDate>
       <description>Si sigues de cerca la evolución de Ubuntu en procesadores ARM64, este es uno de esos momentos en los que conviene detenerse a mirar el camino recorrido, porque lo que empezó como un proyecto orientado casi en exclusiva a servidores en la nube se ha convertido en un soporte que ya te permite trabajar, jugar y navegar con una experiencia prácticamente equivalente a la de un equipo x86_64 tradicional. El cambio no es solo una promesa de futuro: ya se está notando en el día a día de quien usa un portátil o un dispositivo con chip ARM.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/c747572b-2cfb-4607-937a-ab9b886f24d1-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +74,7 @@
       <title>Linux se prepara para el modo de seguridad USB-C en los ThinkPad. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3270880_linux-se-prepara-para-el-modo-de-seguridad-usb-c-en-los-thinkpad</link>
       <guid>https://www.kernelcast.es/noticias/3270880_linux-se-prepara-para-el-modo-de-seguridad-usb-c-en-los-thinkpad</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:09 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:52 +0000</pubDate>
       <description>Si usas un ThinkPad y sigues de cerca lo que ocurre bajo el capó de Linux, hay una noticia que te va a interesar: el kernel está incorporando soporte para el modo de seguridad USB-C, una función pensada para bloquear la transferencia de datos por estos puertos sin renunciar a la carga. No se trata de un simple ajuste cosmético, sino de una pieza de seguridad que hasta ahora vivía solo en el firmware y que por fin va a poder consultarse desde el propio sistema operativo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/33112e71-fc09-4a5d-934d-25529cfbc75c-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +82,7 @@
       <title>Januscape: la vulnerabilidad de Linux oculta durante 16 años. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3269872_januscape-la-vulnerabilidad-de-linux-oculta-durante-16-anos</link>
       <guid>https://www.kernelcast.es/noticias/3269872_januscape-la-vulnerabilidad-de-linux-oculta-durante-16-anos</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:10 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:53 +0000</pubDate>
       <description>Durante dieciséis años, el núcleo de Linux ha arrastrado un fallo capaz de romper una de las promesas más básicas de la computación en la nube: que tu máquina virtual está completamente aislada de las de tus vecinos. Esa promesa se ha visto comprometida por Januscape, una vulnerabilidad recién destapada en el subsistema KVM que permite a un atacante escapar de una máquina virtual y tomar el control del servidor que la aloja. El fallo se identifica oficialmente como CVE-2026-53359 y fue descubierto por el investigador de seguridad Hyunwoo Kim, conocido en redes como v4bel. Kim ya se había hecho un nombre semanas antes con otros dos hallazgos en el kernel de Linux, así que Januscape es su tercera revelación importante en apenas dos meses de trabajo constante sobre el código de virtualización.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/5eed92b0-1863-4779-abbd-f7bf8f91ca60-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +90,7 @@
       <title>BleachBit 6.0.2: así limpia ahora tu Chrome y tu caché DNS. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3268457_bleachbit-6-0-2-asi-limpia-ahora-tu-chrome-y-tu-cache-dns</link>
       <guid>https://www.kernelcast.es/noticias/3268457_bleachbit-6-0-2-asi-limpia-ahora-tu-chrome-y-tu-cache-dns</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:11 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:54 +0000</pubDate>
       <description>BleachBit 6.0.2 ya está disponible y llega como una actualización de mantenimiento dentro de la serie 6.0 de esta herramienta de limpieza de sistemas, gratuita, de código abierto y multiplataforma para GNU/Linux y Windows. Poco más de dos meses después de la versión 6.0, que introdujo un nuevo gestor de cookies y mejoras en la limpieza de navegadores, esta entrega se centra en ampliar la compatibilidad con aplicaciones modernas y en pulir detalles que facilitan el uso diario de la herramienta.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/2a30e942-362e-43e7-a3c0-89dd7d684007-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,23 +98,15 @@
       <title>Cinnamon 6.8: Wayland deja de ser experimental en Linux Mint. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3268395_cinnamon-6-8-wayland-deja-de-ser-experimental-en-linux-mint</link>
       <guid>https://www.kernelcast.es/noticias/3268395_cinnamon-6-8-wayland-deja-de-ser-experimental-en-linux-mint</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:12 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:55 +0000</pubDate>
       <description>Cinnamon 6.8 marca un antes y un después para los usuarios de Linux Mint: la sesión Wayland deja oficialmente su etiqueta de experimental. El anuncio de Clement Lefebvre, líder del proyecto, confirma que este cambio llegará como parte integral de la próxima Linux Mint 22 Virginia, y no se trata de un simple retoque cosmético, sino del resultado de un trabajo sostenido para ofrecer un escritorio Cinnamon moderno, estable y con mejor rendimiento gráfico.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/a99c14d7-8c2d-4630-9593-ea2fa42e27b5-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
-    </item>
-    <item>
-      <title>NVIDIA 610.43.03: driver Linux con soporte RTX 50 y Blackwell. / Noticias | kernelcast</title>
-      <link>https://www.kernelcast.es/noticias/3266005_nvidia-610-43-03-driver-linux-con-soporte-rtx-50-y-blackwell</link>
-      <guid>https://www.kernelcast.es/noticias/3266005_nvidia-610-43-03-driver-linux-con-soporte-rtx-50-y-blackwell</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:13 +0000</pubDate>
-      <description>NVIDIA ha publicado el controlador Linux 610.43.03 para sistemas x64, una actualización que consolida el soporte oficial de la serie RTX 50 y suma de forma completa la nueva familia de estaciones de trabajo RTX PRO Blackwell. El paquete llegó el martes 7 de julio de 2026, pesa 461,54 MB y está disponible como instalador .run directamente desde el archivo oficial de controladores de NVIDIA, sin necesidad de esperar a que llegue a los repositorios de tu distribución.</description>
-      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/df38ff24-6505-41f8-a6df-a65c3d9ba46e-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
     <item>
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:14 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:56 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:15 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:56 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:16 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:57 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:17 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:58 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:18 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:23:59 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:19 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:00 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:21 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:01 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:22 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:02 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:23 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:03 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:24 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:04 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:25 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:05 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Tue, 14 Jul 2026 05:58:26 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 08:24:06 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>

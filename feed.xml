@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:44:21 +0000</lastBuildDate>
     <item>
       <title>GNOME Boxes Nightly: la reescritura que llega con GNOME 51. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3316670_gnome-boxes-nightly-la-reescritura-que-llega-con-gnome-51</link>
       <guid>https://www.kernelcast.es/noticias/3316670_gnome-boxes-nightly-la-reescritura-que-llega-con-gnome-51</guid>
-      <pubDate>Sun, 09 Aug 2026 09:57:55 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:22 +0000</pubDate>
       <description>Si alguna vez has necesitado montar una máquina virtual en Linux sin complicarte con configuraciones avanzadas, seguramente ya conoces GNOME Boxes. Durante años esta herramienta se ha ganado un hueco como una de las opciones más sencillas para crear y ejecutar entornos virtuales, pensada para usuarios que no quieren lidiar con la complejidad de soluciones más técnicas. Ahora el equipo de desarrollo ha dado un paso que no se veía desde hace tiempo: una reescritura completa de la aplicación desde cero.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/c945cfb2-463f-42ab-ac21-3707fde60ed5-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>GNOME 50.4: qué trae la nueva actualización de mantenimiento. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3315984_gnome-50-4-que-trae-la-nueva-actualizacion-de-mantenimiento</link>
       <guid>https://www.kernelcast.es/noticias/3315984_gnome-50-4-que-trae-la-nueva-actualizacion-de-mantenimiento</guid>
-      <pubDate>Sun, 09 Aug 2026 09:57:56 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:23 +0000</pubDate>
       <description>El proyecto GNOME acaba de publicar GNOME 50.4, la cuarta actualización de mantenimiento de la serie GNOME 50, centrada en corregir errores en varias aplicaciones y componentes del núcleo del escritorio. Llega apenas un mes después de GNOME 50.3, que ya había traído mejoras de aceleración por hardware para escritorio remoto en GPUs de AMD, y confirma el ritmo mensual de parches que el proyecto mantiene desde el lanzamiento de esta rama.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/205a879c-5683-45c3-9ced-eaf3ba599efb-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Firefox 153.0.3: mejoras en Smart Window y correcciones. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3314376_firefox-153-0-3-mejoras-en-smart-window-y-correcciones</link>
       <guid>https://www.kernelcast.es/noticias/3314376_firefox-153-0-3-mejoras-en-smart-window-y-correcciones</guid>
-      <pubDate>Sun, 09 Aug 2026 09:57:57 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:24 +0000</pubDate>
       <description>Si usas Firefox como navegador principal, ya tienes disponible una nueva actualización que conviene instalar cuanto antes. Mozilla ha lanzado Firefox 153.0.3, la segunda actualización dentro del ciclo de la versión 153, con una tanda de correcciones de errores molestos y algunas mejoras en una de las funciones más recientes del navegador. Llega apenas una semana después de Firefox 153.0.1, lo que confirma el ritmo constante que Mozilla está manteniendo para pulir esta serie tras su lanzamiento inicial.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/33a480fe-c900-41f7-aa12-7846ef54f658-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>KDE Plasma 6.7.4: qué corrige esta actualización de agosto. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3314361_kde-plasma-6-7-4-que-corrige-esta-actualizacion-de-agosto</link>
       <guid>https://www.kernelcast.es/noticias/3314361_kde-plasma-6-7-4-que-corrige-esta-actualizacion-de-agosto</guid>
-      <pubDate>Sun, 09 Aug 2026 09:57:58 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:25 +0000</pubDate>
       <description>Si usas KDE Plasma en tu distribución Linux favorita, esta semana te toca actualizar. KDE ha publicado Plasma 6.7.4, la cuarta actualización de mantenimiento de la serie 6.7, con parches que llegan apenas tres semanas después de la versión anterior. No se trata de una actualización con grandes titulares, pero sí de esas que conviene instalar cuanto antes porque toca piezas sensibles del sistema: la gestión de gráficas AMD, el compositor Wayland y algunas herramientas que usas todos los días sin pensar en ellas. Plasma 6.7 llegó en junio de 2026 con un buen puñado de novedades y módulos nuevos para completar la experiencia de escritorio. Desde entonces, el equipo de KDE ha ido puliendo esa base con lanzamientos periódicos, y Plasma 6.7.4 suma tres semanas de traducciones y correcciones aportadas por la comunidad. La mayoría son ajustes pequeños, pero hay varios que merece la pena repasar con algo más de detalle.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1d007c83-cd27-4677-947a-fd753c375f65-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>FFmpeg 9.0 ya disponible: más Vulkan, AMF y WebP animado. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3311369_ffmpeg-9-0-ya-disponible-mas-vulkan-amf-y-webp-animado</link>
       <guid>https://www.kernelcast.es/noticias/3311369_ffmpeg-9-0-ya-disponible-mas-vulkan-amf-y-webp-animado</guid>
-      <pubDate>Sun, 09 Aug 2026 09:57:59 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:26 +0000</pubDate>
       <description>FFmpeg 9.0 acaba de llegar, y la nueva versión de esta biblioteca multimedia de código abierto trae consigo un paquete de mejoras que interesará tanto a quienes editan vídeo a diario como a quienes simplemente usan software que depende de ella sin saberlo, que son prácticamente todos los reproductores, conversores y plataformas de streaming que existen. Detrás de cada actualización de FFmpeg hay meses de trabajo de una comunidad que rara vez ocupa titulares fuera del ámbito técnico, pero cuyo impacto se nota en la fluidez con la que tu ordenador decodifica un vídeo o en la rapidez con la que una aplicación convierte un archivo de un formato a otro.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/5bae33e9-1460-4748-a87b-67939e2e136f-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>COSMIC 1.4.0 y 1.5.0: así mejora el escritorio de Pop!_OS. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3306848_cosmic-1-4-0-y-1-5-0-asi-mejora-el-escritorio-de-pop-os</link>
       <guid>https://www.kernelcast.es/noticias/3306848_cosmic-1-4-0-y-1-5-0-asi-mejora-el-escritorio-de-pop-os</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:01 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:27 +0000</pubDate>
       <description>Si sigues de cerca el desarrollo de COSMIC, el entorno de escritorio que System76 construye para Pop!_OS, las últimas semanas te habrán dejado con mucho que digerir. El equipo lanzó la versión 1.4.0 y, casi sin pausa, publicó la 1.5.0 justo detrás, una sucesión de actualizaciones que deja claro que el proyecto está entrando en una fase de pulido intenso. No se trata de novedades vistosas pensadas para una nota de prensa, sino de correcciones y ajustes que afectan directamente a cómo se siente usar COSMIC en el día a día, desde la fluidez del renderizado hasta el consumo de batería con la pantalla bloqueada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1a914e4e-888c-4853-a8bc-45eacf450d79-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>NVIDIA 610.57.04 para Linux: qué corrige y por qué es importante. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3306841_nvidia-610-57-04-para-linux-que-corrige-y-por-que-es-importante</link>
       <guid>https://www.kernelcast.es/noticias/3306841_nvidia-610-57-04-para-linux-que-corrige-y-por-que-es-importante</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:02 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:28 +0000</pubDate>
       <description>Si usas una tarjeta gráfica NVIDIA en tu equipo Linux, hay una actualización que conviene revisar cuanto antes. El controlador NVIDIA 610.57.04 para Linux ya está disponible y llega con una cantidad de correcciones que va más allá de lo habitual en una versión puntual dentro de la rama estable. Mientras que este tipo de lanzamientos suele limitarse a ajustes menores, esta entrega aborda desde problemas de estabilidad en el servidor gráfico hasta fallos muy concretos en decenas de videojuegos, pasando por mejoras en Vulkan y en el módulo del kernel. Si llevas tiempo lidiando con cierres inesperados o con gráficos que no terminan de comportarse como deberían, es un buen momento para prestar atención a esta nueva versión del controlador NVIDIA para Linux.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/f2eab629-614e-4b55-a333-aca11b82d65d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>GNOME 51 entra en congelación de funciones: qué cambia ahora. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3305145_gnome-51-entra-en-congelacion-de-funciones-que-cambia-ahora</link>
       <guid>https://www.kernelcast.es/noticias/3305145_gnome-51-entra-en-congelacion-de-funciones-que-cambia-ahora</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:03 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:29 +0000</pubDate>
       <description>Si sigues la actualidad de GNOME cada semana, ya sabes que esta entrega trae una noticia especialmente relevante para quienes esperan la próxima versión del entorno de escritorio. GNOME 51 ha entrado oficialmente en la fase de congelación de funciones, un momento clave en el ciclo de desarrollo que marca el final de los grandes cambios y el inicio del pulido rumbo al lanzamiento final. Junto a este hito, la ronda semanal de novedades incluye también avances interesantes en varias aplicaciones del ecosistema GTK y Libadwaita que probablemente ya conozcas o que te interese descubrir.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/20d266f3-8d16-4210-b041-b30e669820a2-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Fooyin 0.12: conversión de audio y visualizaciones nuevas. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3305141_fooyin-0-12-conversion-de-audio-y-visualizaciones-nuevas</link>
       <guid>https://www.kernelcast.es/noticias/3305141_fooyin-0-12-conversion-de-audio-y-visualizaciones-nuevas</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:04 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:30 +0000</pubDate>
       <description>Si sigues de cerca el mundo de los reproductores de música para Linux, es probable que ya conozcas Fooyin, el reproductor basado en Qt que ha ido ganando terreno gracias a su enfoque ligero y personalizable. Con el lanzamiento de Fooyin 0.12, el proyecto suma una de las funciones más solicitadas por su comunidad: la conversión de audio integrada, que te permite transformar tus pistas a distintos formatos habituales sin salir de la aplicación. Esta nueva versión también trae consigo un conjunto de visualizaciones renovadas y una lista larga de mejoras de rendimiento y estabilidad que merece la pena repasar con calma.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/6444d94f-56fe-43ce-8907-09190b8eca87-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>GNOME impulsa un proceso formal de RFC frente a la avalancha de extensiones generadas por IA. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3303998_gnome-impulsa-un-proceso-formal-de-rfc-frente-a-la-avalancha-de-extensiones-generadas-por-ia</link>
       <guid>https://www.kernelcast.es/noticias/3303998_gnome-impulsa-un-proceso-formal-de-rfc-frente-a-la-avalancha-de-extensiones-generadas-por-ia</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:05 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:31 +0000</pubDate>
       <description>Si sigues de cerca la actualidad de GNOME, sabrás que el proyecto no solo se dedica a pulir su interfaz de escritorio, también tiene que lidiar con los efectos secundarios de la explosión de herramientas de inteligencia artificial aplicadas al desarrollo de software. Esta semana, el equipo de GNOME ha dado pasos concretos en dos frentes relacionados entre sí: por un lado, avanza en la creación de un proceso formal de RFC (Request for Comments, o solicitud de comentarios) para mejorar cómo se toman las decisiones dentro del proyecto; por otro, sigue enfrentándose a una cola de revisión saturada de extensiones para GNOME Shell generadas mediante IA que, en muchos casos, llegan con problemas de calidad recurrentes. Ambos asuntos reflejan un mismo reto de fondo: cómo un proyecto de software libre tan grande como GNOME adapta sus procesos internos a un ecosistema de desarrollo que cambia más rápido de lo que puede absorber.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4ee96996-3935-40e5-a5bc-d343c236742f-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Nueva actualización de seguridad del kernel de Debian 13 Trixie corrige 68 fallos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3303990_nueva-actualizacion-de-seguridad-del-kernel-de-debian-13-trixie-corrige-68-fallos</link>
       <guid>https://www.kernelcast.es/noticias/3303990_nueva-actualizacion-de-seguridad-del-kernel-de-debian-13-trixie-corrige-68-fallos</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:06 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:32 +0000</pubDate>
       <description>Si usas Debian 13 "Trixie" como tu sistema operativo principal, hay una actualización que no deberías dejar pasar. El Proyecto Debian publicó el 31 de julio de 2026 un nuevo parche de seguridad para el kernel de su rama estable que corrige nada menos que 68 vulnerabilidades. Se trata de una actualización especialmente extensa si la comparamos con la anterior, publicada apenas diez días antes, que había solucionado 12 fallos relacionados con escalada de privilegios, denegación de servicio y fugas de información. Esta nueva tanda de parches llega sobre el kernel Linux 6.12 LTS, la base sobre la que se sostiene Trixie, y aunque la mayoría de los problemas corregidos son de alcance individual y afectan a controladores concretos, conviene entender qué hay detrás de esta actualización y por qué merece la pena aplicarla cuanto antes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/851a0a19-cf89-4a7d-b222-b470e18ed366-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Mozilla Firefox 153.0.1: la actualización que corrige fallos y bloqueos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3303986_mozilla-firefox-153-0-1-la-actualizacion-que-corrige-fallos-y-bloqueos</link>
       <guid>https://www.kernelcast.es/noticias/3303986_mozilla-firefox-153-0-1-la-actualizacion-que-corrige-fallos-y-bloqueos</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:08 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:33 +0000</pubDate>
       <description>Si usas Firefox como tu navegador principal en Linux, es probable que en los próximos días veas aparecer una notificación de actualización. Mozilla ha publicado Firefox 153.0.1, una versión de mantenimiento que llega apenas unos días después del lanzamiento de Firefox 153 y que se centra en resolver una serie de errores y bloqueos que afectaban a distintas partes del navegador. No se trata de una actualización con nuevas funciones vistosas, sino de ese tipo de parche silencioso que hace que la experiencia diaria sea un poco más estable, algo que cualquier persona que dependa del navegador para trabajar agradece.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/1266188a-7d29-480d-a22e-54b95718fafe-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:09 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:35 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:10 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:36 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:11 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:37 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:12 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:38 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:13 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:39 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:14 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:40 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:16 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:41 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:17 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:42 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:18 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:43 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:19 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:44 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>Bloqueo del fútbol: cuando la red se convierte en un campo de batalla. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</link>
       <guid>https://www.kernelcast.es/blog/2659884_bloqueo-del-futbol-cuando-la-red-se-convierte-en-un-campo-de-batalla</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:20 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:45 +0000</pubDate>
       <description>LaLiga y Telefónica lo han vuelto a hacer. Con el arranque de la temporada 2025/26, la maquinaria de los bloqueos de IP se ha puesto en marcha como si de un ejército se tratara. Y no exagero: el despliegue parece diseñado para infundir miedo, tanto en quienes piratean como en quienes ni siquiera tenían intención de hacerlo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-17-ago-2025-05_09_09-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</link>
       <guid>https://www.kernelcast.es/blog/2628464_manual-como-hacer-una-copia-de-seguridad-por-ssh-en-cachyos-usando-rsync</guid>
-      <pubDate>Sun, 09 Aug 2026 09:58:21 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 10:44:46 +0000</pubDate>
       <description>Manual: Cómo hacer una copia de seguridad por SSH en CachyOS usando rsync</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/backup-linux-830x467-3160026544-high.jpg" medium="image" />
     </item>

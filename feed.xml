@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:12:46 +0000</lastBuildDate>
     <item>
       <title>XanMod lanza kernel 6.18.49, 7.1.13 y 7.2.3 con parches de seguridad. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3350661_xanmod-lanza-kernel-6-18-49-7-1-13-y-7-2-3-con-parches-de-seguridad</link>
       <guid>https://www.kernelcast.es/noticias/3350661_xanmod-lanza-kernel-6-18-49-7-1-13-y-7-2-3-con-parches-de-seguridad</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:42 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:47 +0000</pubDate>
       <description>Si usas XanMod como tu kernel de cabecera en Debian, Ubuntu o alguno de sus derivados, hoy tienes trabajo pendiente en el gestor de paquetes. Alexandre Frade, mantenedor del proyecto, ha publicado de forma simultánea tres nuevas compilaciones del kernel XanMod que cubren toda la matriz de ramas del proyecto: la LTS 6.18.49, la Main 7.1.13 y la Edge 7.2.3. Las tres incorporan parches de seguridad procedentes de Linux upstream, entre ellos correcciones para fallos de uso después de la liberación en USB y vulnerabilidades en el subsistema de audio ALSA que podían explotarse con dispositivos maliciosos. Además llegan optimizaciones propias de XanMod basadas en LLVM, el procesamiento de colapso TCP de Cloudflare y el control de congestión BBRv3 de Google.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_e6ms4oe6ms4oe6ms-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Arch Linux estrena kernel 7.2 y Archinstall 4.4 en su nueva ISO. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3349055_arch-linux-estrena-kernel-7-2-y-archinstall-4-4-en-su-nueva-iso</link>
       <guid>https://www.kernelcast.es/noticias/3349055_arch-linux-estrena-kernel-7-2-y-archinstall-4-4-en-su-nueva-iso</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:43 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:48 +0000</pubDate>
       <description>Si sigues de cerca el mundo de GNU Linux ya sabrás que Arch Linux no publica versiones numeradas al uso, sino instantáneas mensuales de su ISO que recogen todo lo que ha ido cambiando en los repositorios oficiales. La instantánea Arch Linux 2026.09.01, publicada el primero de septiembre de 2026, es una de esas ediciones que merece que te pares un momento a mirarla con calma, porque combina dos piezas que afectan directamente a cómo se instala y cómo funciona el sistema una vez arrancado: el kernel Linux 7.2 y una nueva versión del instalador oficial, Archinstall 4.4. Si usas Arch Linux, estás pensando en probarlo por primera vez, o simplemente te interesa ver hacia dónde evoluciona una de las distribuciones más influyentes del panorama Linux, esta actualización te da varios motivos para prestar atención.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_3cpi9g3cpi9g3cpi-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Dolphin 26.08 y KIO: así mejora la velocidad y la memoria. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3346961_dolphin-26-08-y-kio-asi-mejora-la-velocidad-y-la-memoria</link>
       <guid>https://www.kernelcast.es/noticias/3346961_dolphin-26-08-y-kio-asi-mejora-la-velocidad-y-la-memoria</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:45 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:49 +0000</pubDate>
       <description>Si usas Dolphin, el gestor de archivos de KDE, es posible que no hayas notado nada distinto a simple vista en la versión 26.08, pero por debajo hay un trabajo de rendimiento considerable que merece la pena conocer. Dolphin en sí apenas toca los archivos directamente: delega esa tarea en KIO, la infraestructura de entrada y salida de KDE, así que las mejoras de esta versión son, en realidad, mejoras de KIO. Entre la versión 6.25, la que acompañó a Dolphin 26.04, y la 6.29, la que llega con Dolphin 26.08, ha habido cuatro lanzamientos del framework y cerca de trescientos cambios acumulados. El desarrollador Méven Car ha publicado las mediciones que muestran en qué se ha notado ese esfuerzo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_vvsrpevvsrpevvsr-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>OpenShot 4.0: corrección de color, grabación y soporte Qt 6. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3346954_openshot-4-0-correccion-de-color-grabacion-y-soporte-qt-6</link>
       <guid>https://www.kernelcast.es/noticias/3346954_openshot-4-0-correccion-de-color-grabacion-y-soporte-qt-6</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:46 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:51 +0000</pubDate>
       <description>Si sigues de cerca el mundo del software libre para edición de vídeo, sabrás que OpenShot 4.0 lleva tiempo cocinándose entre bastidores. Ahora ya está etiquetado para su lanzamiento, y trae consigo el cambio más profundo de su historia reciente: la migración completa a Qt 6, además de un conjunto de herramientas de corrección de color que por fin acercan a este editor gratuito a las prestaciones que hasta ahora solo encontrabas en programas de pago. Si trabajas con Linux, KDE o simplemente buscas una alternativa libre para montar tus vídeos, esta actualización merece que le prestes atención.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kculzzkculzzkcul-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Zen Browser 1.21.16b: la actualización que mejora su rendimiento. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3345357_zen-browser-1-21-16b-la-actualizacion-que-mejora-su-rendimiento</link>
       <guid>https://www.kernelcast.es/noticias/3345357_zen-browser-1-21-16b-la-actualizacion-que-mejora-su-rendimiento</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:47 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:52 +0000</pubDate>
       <description>Si usas Zen Browser y últimamente notabas que el ventilador de tu portátil se disparaba cada vez que cerrabas la aplicación, la nueva versión 1.21.16b viene precisamente a solucionar eso. Apoyada en Firefox 154.0.1, esta actualización del fork de Firefox de código abierto no trae funciones vistosas, sino un trabajo de fondo centrado en el rendimiento y en el cierre de vulnerabilidades de seguridad heredadas del navegador en el que se basa.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_c1oc4cc1oc4cc1oc-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Debian y la IA generativa: así queda la responsabilidad en 2026. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3344845_debian-y-la-ia-generativa-asi-queda-la-responsabilidad-en-2026</link>
       <guid>https://www.kernelcast.es/noticias/3344845_debian-y-la-ia-generativa-asi-queda-la-responsabilidad-en-2026</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:48 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:53 +0000</pubDate>
       <description>Debian acaba de tomar una decisión que marcará el rumbo del proyecto durante años: cómo encajar la inteligencia artificial generativa dentro de su forma de trabajar sin renunciar a los principios que lo han sostenido durante más de tres décadas. Tras una votación de dos semanas, los desarrolladores de Debian han optado por un enfoque intermedio que ni prohíbe ni da barra libre al uso de estas herramientas, sino que las permite bajo una condición innegociable: la responsabilidad de cualquier contribución sigue siendo siempre humana.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_ksruv7ksruv7ksru-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Chromium prueba Flatpak en Linux: qué significa este cambio. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3344843_chromium-prueba-flatpak-en-linux-que-significa-este-cambio</link>
       <guid>https://www.kernelcast.es/noticias/3344843_chromium-prueba-flatpak-en-linux-que-significa-este-cambio</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:49 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:54 +0000</pubDate>
       <description>Si usas Linux y sigues de cerca la evolución de Chromium, hay una noticia que merece tu atención: el navegador ha empezado a incorporar soporte experimental para el empaquetado Flatpak. No se trata todavía de una versión oficial que puedas descargar mañana mismo, sino de una pieza de infraestructura que los propios desarrolladores han incluido en el código fuente para facilitar pruebas internas. Aun así, este primer paso hacia Flatpak en Chromium abre una puerta interesante para el futuro del navegador en el ecosistema Linux.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_dusgjfdusgjfdusg-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Ubuntu 26.04.1 LTS ya disponible: qué trae y cuándo llega a 24.04. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3344335_ubuntu-26-04-1-lts-ya-disponible-que-trae-y-cuando-llega-a-24-04</link>
       <guid>https://www.kernelcast.es/noticias/3344335_ubuntu-26-04-1-lts-ya-disponible-que-trae-y-cuando-llega-a-24-04</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:50 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:55 +0000</pubDate>
       <description>Ubuntu 26.04.1 LTS ha llegado, y con él arranca el ciclo de mantenimiento habitual que Canonical reserva para sus versiones de soporte extendido. Conocida internamente como Resolute Raccoon, esta primera actualización de puntos de la rama 26.04 no trae funciones nuevas ni cambios visibles en el escritorio, pero sí algo que muchos usuarios agradecen: una imagen de instalación puesta al día con meses de parches de seguridad y correcciones acumuladas desde el lanzamiento original de abril. Si vas a instalar Ubuntu desde cero a partir de ahora, esto se traduce en menos descargas nada más terminar la instalación y un sistema algo más robusto desde el primer arranque.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_q0zra8q0zra8q0zr-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>HDMI 2.1 FRL llegará activado por defecto en Linux con AMDGPU. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3342454_hdmi-2-1-frl-llegara-activado-por-defecto-en-linux-con-amdgpu</link>
       <guid>https://www.kernelcast.es/noticias/3342454_hdmi-2-1-frl-llegara-activado-por-defecto-en-linux-con-amdgpu</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:51 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:56 +0000</pubDate>
       <description>Si tienes una tarjeta gráfica AMD Radeon y usas Linux, hay una buena noticia en camino relacionada con el soporte HDMI 2.1 en el controlador de código abierto AMDGPU. Durante años, esta función estuvo bloqueada por restricciones del HDMI Forum, pero desde mayo AMD ha ido publicando parches para ir habilitándola pieza a pieza. Ahora, el siguiente paso natural está en marcha: activar por defecto el soporte HDMI 2.1 FRL, la tecnología que permite resoluciones más altas y tasas de refresco superiores a través de este estándar de conexión.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_6lwalb6lwalb6lwa-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>Alemania invierte 508.640 € en Flatpak para reforzar su sandboxing. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3342453_alemania-invierte-508-640-en-flatpak-para-reforzar-su-sandboxing</link>
       <guid>https://www.kernelcast.es/noticias/3342453_alemania-invierte-508-640-en-flatpak-para-reforzar-su-sandboxing</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:53 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:57 +0000</pubDate>
       <description>Si sigues de cerca el mundo del software libre, seguramente ya conoces Flatpak, el sistema de distribución de aplicaciones que se ha convertido en un estándar de facto en buena parte del escritorio Linux. Ahora Flatpak recibe un impulso económico notable: la Agencia Tecnológica Soberana de Alemania, a través de su Fondo Tecnológico Soberano, ha destinado 508.640 euros al proyecto para los próximos dos años, con el objetivo de reforzar el sandboxing de aplicaciones y ampliar sus funcionalidades de seguridad.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_13y4ys13y4ys13y4-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Debian LTS julio 2026: 52 parches y el relevo de Debian 12. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3341068_debian-lts-julio-2026-52-parches-y-el-relevo-de-debian-12</link>
       <guid>https://www.kernelcast.es/noticias/3341068_debian-lts-julio-2026-52-parches-y-el-relevo-de-debian-12</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:54 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:58 +0000</pubDate>
       <description>Si sigues de cerca el mundo Linux sabrás que gran parte de la seguridad de tus sistemas depende de un trabajo silencioso que rara vez sale en los titulares: el soporte a largo plazo de Debian, conocido como Debian LTS. Este programa mantiene con vida versiones de Debian que ya han dejado de recibir soporte oficial, aplicando parches de seguridad durante años después de que la mayoría de usuarios haya migrado a versiones más recientes. El informe correspondiente a julio de 2026, publicado por el equipo financiado por Freexian, deja varios datos que conviene repasar si usas Debian en producción, en un servidor doméstico o simplemente te interesa cómo se sostiene el ecosistema del software libre.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_jzom75jzom75jzom-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>GeForce NOW sumará Steam Machine y Steam Controller este año. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3339698_geforce-now-sumara-steam-machine-y-steam-controller-este-ano</link>
       <guid>https://www.kernelcast.es/noticias/3339698_geforce-now-sumara-steam-machine-y-steam-controller-este-ano</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:55 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:12:59 +0000</pubDate>
       <description>Si juegas en streaming con GeForce NOW o sigues de cerca cómo evoluciona el ecosistema de Steam en Linux, hay novedades que merece la pena conocer. NVIDIA aprovechó la Gamescom 2026 para anunciar que GeForce NOW añadirá soporte directo para Steam Machine y Steam Controller, una decisión que amplía todavía más el abanico de dispositivos desde los que se puede acceder a su servicio de juego en la nube. La noticia llega acompañada de otro anuncio técnico relevante: DLSS 4.5 Ray Reconstruction ya está disponible para quienes juegan en equipos de escritorio con GPU GeForce RTX.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_mphitnmphitnmphi-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Winget, el gestor de paquetes que Windows llevaba años necesitando. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</link>
       <guid>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:00 +0000</pubDate>
       <description>Si vienes del mundo Linux sabrás que uno de los mayores placeres de este sistema operativo es poder instalar, actualizar o eliminar programas desde una terminal con un solo comando. Herramientas como apt, dnf o pacman llevan décadas haciendo que gestionar el software sea rápido, predecible y automatizable. Durante mucho tiempo, Windows se quedó atrás en este aspecto, obligándote a buscar instaladores en páginas web, hacer clic en botones de siguiente y lidiar con barras de herramientas no deseadas. Eso cambió con la llegada de winget, el gestor de paquetes oficial de Microsoft que finalmente acerca a Windows a esa filosofía que en Linux das por sentada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_4fsly84fsly84fsl-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Hardware en 2026: retrasos, subidas de precio y una crisis de memoria que lo cambia todo. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</link>
       <guid>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:57 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:01 +0000</pubDate>
       <description>Si sigues de cerca las noticias de hardware, esta semana no ha sido de las tranquilas. Entre filtraciones, declaraciones de fabricantes y anuncios oficiales, el panorama que se dibuja para los próximos dos años apunta a retrasos en las nuevas generaciones de tarjetas gráficas, subidas notables en el precio de la memoria RAM y movimientos estratégicos tanto en Intel como en AMD que van a condicionar tu próxima compra de PC o consola. Te contamos lo más relevante, contrastado con la información disponible hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kbzxggkbzxggkbzx-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:59 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:02 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:00 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:03 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:01 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:05 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:02 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:06 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:03 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:07 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:05 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:08 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:06 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:09 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:07 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:10 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:08 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:11 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Thu, 03 Sep 2026 11:36:09 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 15:13:12 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>

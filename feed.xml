@@ -5,12 +5,20 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:24:53 +0000</lastBuildDate>
+    <item>
+      <title>DDoS a Canonical: qué cayó y qué siguió en pie en Ubuntu. / Noticias | kernelcast</title>
+      <link>https://www.kernelcast.es/noticias/3401856_ddos-a-canonical-que-cayo-y-que-siguio-en-pie-en-ubuntu</link>
+      <guid>https://www.kernelcast.es/noticias/3401856_ddos-a-canonical-que-cayo-y-que-siguio-en-pie-en-ubuntu</guid>
+      <pubDate>Fri, 09 Oct 2026 07:24:54 +0000</pubDate>
+      <description>Si en las últimas horas has intentado abrir ubuntu.com, leer el blog de Canonical o entrar al portal de desarrolladores y la página se quedaba cargando, el problema no estaba en tu conexión. Un ataque DDoS a Canonical, una denegación de servicio distribuida en la que una multitud de equipos lanza peticiones a la vez hasta saturar los servidores, dejó caídos o intermitentes sus principales portales durante más de cuatro horas. Lo llamativo no es solo que ocurriera, sino qué se vio afectado y qué siguió funcionando con normalidad.</description>
+      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_k4qt9gk4qt9gk4qt-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
+    </item>
     <item>
       <title>KDE Gear 26.08.2: qué corrige la segunda ronda de arreglos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3400710_kde-gear-26-08-2-que-corrige-la-segunda-ronda-de-arreglos</link>
       <guid>https://www.kernelcast.es/noticias/3400710_kde-gear-26-08-2-que-corrige-la-segunda-ronda-de-arreglos</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:43 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:24:55 +0000</pubDate>
       <description>Hay versiones de software que no salen en ningún titular y, aun así, son las que más se agradecen cuando llevas semanas usando el equipo para trabajar de verdad. KDE Gear 26.08.2 es una de ellas. Llegó este jueves 8 de octubre de 2026 y no trae funciones nuevas, sino la segunda tanda de correcciones de errores y traducciones al día de la serie 26.08 de las aplicaciones de KDE. Sin fuegos artificiales, pero con un par de arreglos que conviene mirar con calma.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_6ps48x6ps48x6ps4-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +26,7 @@
       <title>Ubuntu 26.10 recorta GRUB con Secure Boot: qué deja de arrancar. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3400206_ubuntu-26-10-recorta-grub-con-secure-boot-que-deja-de-arrancar</link>
       <guid>https://www.kernelcast.es/noticias/3400206_ubuntu-26-10-recorta-grub-con-secure-boot-que-deja-de-arrancar</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:44 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:24:56 +0000</pubDate>
       <description>Hay cambios en una distribución que pasan sin pena ni gloria y otros que pueden dejarte mirando una pantalla negra tras reiniciar. El que Canonical ha metido en Ubuntu 26.10 se parece más a los segundos, aunque con una condición importante: afecta al arranque con Secure Boot activado. En ese escenario, la versión firmada de GRUB ya no sabe leer Btrfs, XFS ni ZFS, de modo que si tu directorio /boot vive en alguno de ellos, el gestor de arranque no encuentra el kernel y Ubuntu simplemente no arranca. Antes de que cunda el pánico conviene mirar con calma a quién afecta de verdad, porque la respuesta es bastante menos dramática que el titular.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_iry6c6iry6c6iry6-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +34,7 @@
       <title>Ubuntu 26.10: Rust coreutils, GRUB reducido y OpenSSL 4.0. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3398745_ubuntu-26-10-rust-coreutils-grub-reducido-y-openssl-4-0</link>
       <guid>https://www.kernelcast.es/noticias/3398745_ubuntu-26-10-rust-coreutils-grub-reducido-y-openssl-4-0</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:45 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:24:57 +0000</pubDate>
       <description>¿Qué pasa cuando la distribución más usada del mundo cambia por debajo los comandos con los que copias, mueves y borras archivos desde hace décadas? Con Ubuntu 26.10 "Stonking Stingray", prevista para el 15 de octubre y ya disponible en beta, la pregunta deja de ser teórica. Esta versión incluye el paso más visible de la apuesta de Canonical por Rust, pero también un arranque seguro más austero, un cifrado de disco ampliado y una renovación a fondo de la criptografía. Más que una versión de escaparate, es una versión de cimientos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_w0gdsdw0gdsdw0gd-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +42,7 @@
       <title>Snapdragon X2 en Linux: qué cambia con el soporte en el kernel. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3398739_snapdragon-x2-en-linux-que-cambia-con-el-soporte-en-el-kernel</link>
       <guid>https://www.kernelcast.es/noticias/3398739_snapdragon-x2-en-linux-que-cambia-con-el-soporte-en-el-kernel</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:46 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:24:58 +0000</pubDate>
       <description>Si alguna vez has intentado instalar Linux en un portátil con procesador ARM, sabes que lo difícil casi nunca es la distribución, sino todo lo que hay por debajo: el arranque, el controlador gráfico, la gestión de energía, los periféricos. Cada pieza que falta es una excusa para volver a Windows. Por eso la noticia de que Qualcomm ha empezado a llevar el soporte de sus chips Snapdragon X2 al kernel Linux es más relevante de lo que parece a primera vista: no habla de una distribución concreta, sino del cimiento sobre el que se apoyan todas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_1lzivb1lzivb1lzi-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +50,7 @@
       <title>Arch Linux 2026.10.01: Archinstall 4.5 es la novedad real. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3397088_arch-linux-2026-10-01-archinstall-4-5-es-la-novedad-real</link>
       <guid>https://www.kernelcast.es/noticias/3397088_arch-linux-2026-10-01-archinstall-4-5-es-la-novedad-real</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:47 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:00 +0000</pubDate>
       <description>Si ya tienes Arch Linux instalado y has visto que ha salido una ISO nueva, la respuesta corta es que no tienes que hacer nada especial. Arch Linux 2026.10.01 se publicó el 1 de octubre con Linux 7.2.7, systemd 262 y Archinstall 4.5, pero no es una versión nueva del sistema como lo son Ubuntu 26.04 o Fedora 44. Es una fotografía mensual de los repositorios, pensada para quien instala desde cero. Eso no quiere decir que sea una publicación menor. Esta imagen merece más atención de la habitual, y no tanto por el kernel como por el instalador que lleva dentro.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_rkyexbrkyexbrkye-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +58,7 @@
       <title>XanMod 7.2.9 y 6.18.55: qué aporta este kernel para tu escritorio. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3394341_xanmod-7-2-9-y-6-18-55-que-aporta-este-kernel-para-tu-escritorio</link>
       <guid>https://www.kernelcast.es/noticias/3394341_xanmod-7-2-9-y-6-18-55-que-aporta-este-kernel-para-tu-escritorio</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:48 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:01 +0000</pubDate>
       <description>Si tu kernel actual funciona sin dar guerra, ¿qué sentido tiene cambiarlo? Es la duda que despierta cualquier kernel XanMod y la que vuelve cada vez que el proyecto saca versiones nuevas, como acaba de hacer con la 7.2.9 para la rama principal, la 6.18.55 para la LTS y la 6.18.55-rt para tiempo real. Las tres se han reconstruido sobre el código estable más reciente de Linux, así que conviene mirar qué traen antes de decidir si te compensa el salto.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_tzbez6tzbez6tzbe-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +66,7 @@
       <title>AMD Ryzen AI Developer Platform salta a ROCm 10.0 y Linux 7.2. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3393136_amd-ryzen-ai-developer-platform-salta-a-rocm-10-0-y-linux-7-2</link>
       <guid>https://www.kernelcast.es/noticias/3393136_amd-ryzen-ai-developer-platform-salta-a-rocm-10-0-y-linux-7-2</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:49 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:02 +0000</pubDate>
       <description>¿Qué hay realmente dentro de un mini PC pensado para ejecutar inteligencia artificial en local cuando lo enciendes por primera vez? Cabría esperar un Ubuntu con algunos paquetes extra, pero en el caso del AMD Ryzen AI Halo la sorpresa fue otra: lo que viene preinstalado es una distribución propia de AMD, la AMD Ryzen AI Developer Platform. Esa distribución acaba de recibir su actualización de septiembre de 2026, que cambia el kernel de Linux 6.18 LTS a Linux 7.2 y estrena ROCm 10.0 como pila de computación.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kdp4xekdp4xekdp4-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +74,7 @@
       <title>LibreOffice 26.8.1: unos 40 arreglos para DOCX, XLSX y CSV / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3393129_libreoffice-26-8-1-unos-40-arreglos-para-docx-xlsx-y-csv</link>
       <guid>https://www.kernelcast.es/noticias/3393129_libreoffice-26-8-1-unos-40-arreglos-para-docx-xlsx-y-csv</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:50 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:03 +0000</pubDate>
       <description>Si usas LibreOffice y de vez en cuando te toca abrir el Word que te manda un cliente, el Excel de la gestoría o la presentación de alguien que nunca ha oído hablar de los formatos abiertos, ya sabes que la compatibilidad con Microsoft Office es la letra pequeña de la ofimática libre. Justo ahí apunta LibreOffice 26.8.1, la primera revisión de mantenimiento de la rama 26.8, que la comunidad del proyecto ha dado a conocer en octubre. Trae alrededor de cuarenta correcciones y ninguna función nueva. Lejos de ser una decepción, es lo que se espera de un .1.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_d952chd952chd952-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +82,7 @@
       <title>Archinstall 4.5 añade kernel en tiempo real y mejoras para ARM. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3388616_archinstall-4-5-anade-kernel-en-tiempo-real-y-mejoras-para-arm</link>
       <guid>https://www.kernelcast.es/noticias/3388616_archinstall-4-5-anade-kernel-en-tiempo-real-y-mejoras-para-arm</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:51 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:04 +0000</pubDate>
       <description>La ISO de Arch Linux de octubre está a la vuelta de la esquina y, como suele pasar, el instalador llega unos días antes con los deberes hechos. Archinstall 4.5 se publicó el 29 de septiembre y, aunque a simple vista parezca una versión de mantenimiento más, trae un par de novedades que cambian lo que puedes hacer desde el primer arranque: kernels en tiempo real listos para elegir en el menú, arranque EFI en equipos AArch64 y un cambio discreto en cómo se gestionan las sesiones de varios escritorios Wayland.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_y1byvty1byvty1by-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +90,7 @@
       <title>Flatpak 1.18.4 corrige seis fallos de seguridad: por qué importa. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3387804_flatpak-1-18-4-corrige-seis-fallos-de-seguridad-por-que-importa</link>
       <guid>https://www.kernelcast.es/noticias/3387804_flatpak-1-18-4-corrige-seis-fallos-de-seguridad-por-que-importa</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:52 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:05 +0000</pubDate>
       <description>Si usas Linux en el escritorio, lo más probable es que tengas alguna aplicación en Flatpak aunque nunca lo hayas decidido de forma consciente. Muchas distribuciones lo traen de serie, y tiendas como Discover o GNOME Software lo ofrecen como primera opción al buscar un programa. La promesa es atractiva: cada aplicación vive en su propia caja, aislada del resto del sistema, y solo toca aquello a lo que tú le das acceso. Flatpak 1.18.4, publicada el 28 de septiembre, llega precisamente para reforzar esa caja, porque se han encontrado seis vulnerabilidades que permitían a una aplicación maliciosa ir bastante más allá de lo que debería. Es la cuarta actualización de mantenimiento de la rama estable 1.18 y aparece apenas una semana después de la 1.18.3, lo que ya da una pista de la prisa que se han dado los desarrolladores. No trae funciones nuevas ni cambios que vayas a notar al abrir tus aplicaciones. Es una versión de parches, de esas que se instalan sin prestarles atención, pero esta vez merece la pena entender qué había detrás.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_t0us0nt0us0nt0us-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,23 +98,15 @@
       <title>Plasma 6.8 renueva Oxygen: colores de acento y nuevos cursores. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3386944_plasma-6-8-renueva-oxygen-colores-de-acento-y-nuevos-cursores</link>
       <guid>https://www.kernelcast.es/noticias/3386944_plasma-6-8-renueva-oxygen-colores-de-acento-y-nuevos-cursores</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:53 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:06 +0000</pubDate>
       <description>Si empezaste a usar KDE a finales de la década de 2000, seguramente recuerdes Oxygen: botones brillantes, ventanas envueltas en un halo azul y una estética que, para bien o para mal, definió toda una época del escritorio Linux. Con la llegada de Plasma 5, Breeze ocupó su lugar como aspecto por defecto y Oxygen pasó a un segundo plano. Ese segundo plano, sin embargo, se está moviendo. Con Plasma 6.8, el tema Oxygen de KDE recibe otra tanda de mejoras que lo acercan a las costumbres de un escritorio actual sin traicionar lo que lo hacía reconocible.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_f3lponf3lponf3lp-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
-    </item>
-    <item>
-      <title>Fastfetch 2.69: logos animados en la terminal y más Bluetooth. / Noticias | kernelcast</title>
-      <link>https://www.kernelcast.es/noticias/3384440_fastfetch-2-69-logos-animados-en-la-terminal-y-mas-bluetooth</link>
-      <guid>https://www.kernelcast.es/noticias/3384440_fastfetch-2-69-logos-animados-en-la-terminal-y-mas-bluetooth</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:54 +0000</pubDate>
-      <description>Hay un gesto que se repite en casi cualquier captura de escritorio Linux que circula por foros y redes: abres la terminal, lanzas Fastfetch y dejas que el logo de la distribución, acompañado de una columna ordenada de datos, cuente qué hay debajo del capó. Fastfetch se ha convertido en la alternativa de referencia desde que Neofetch dejó de mantenerse, y acaba de publicar su versión 2.69 con una novedad que entra por los ojos: logos animados en GIF y APNG. Sin embargo, la noticia tiene más fondo que el efecto visual, y también alguna condición que conviene conocer antes de llenar tu configuración de animaciones. La versión se publicó el 25 de septiembre en el repositorio oficial del proyecto. Su lista de cambios es bastante más larga de lo que sugieren los primeros resúmenes que han circulado. Hay trabajo en detección de hardware, Bluetooth y escritorios, pero también decisiones de mantenimiento que pueden afectarte si compilas el programa o usas scripts propios.</description>
-      <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_njn8w0njn8w0njn8-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
     <item>
       <title>Winget, el gestor de paquetes que Windows llevaba años necesitando. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</link>
       <guid>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:55 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:07 +0000</pubDate>
       <description>Si vienes del mundo Linux sabrás que uno de los mayores placeres de este sistema operativo es poder instalar, actualizar o eliminar programas desde una terminal con un solo comando. Herramientas como apt, dnf o pacman llevan décadas haciendo que gestionar el software sea rápido, predecible y automatizable. Durante mucho tiempo, Windows se quedó atrás en este aspecto, obligándote a buscar instaladores en páginas web, hacer clic en botones de siguiente y lidiar con barras de herramientas no deseadas. Eso cambió con la llegada de winget, el gestor de paquetes oficial de Microsoft que finalmente acerca a Windows a esa filosofía que en Linux das por sentada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_4fsly84fsly84fsl-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Hardware en 2026: retrasos, subidas de precio y una crisis de memoria que lo cambia todo. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</link>
       <guid>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:56 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:08 +0000</pubDate>
       <description>Si sigues de cerca las noticias de hardware, esta semana no ha sido de las tranquilas. Entre filtraciones, declaraciones de fabricantes y anuncios oficiales, el panorama que se dibuja para los próximos dos años apunta a retrasos en las nuevas generaciones de tarjetas gráficas, subidas notables en el precio de la memoria RAM y movimientos estratégicos tanto en Intel como en AMD que van a condicionar tu próxima compra de PC o consola. Te contamos lo más relevante, contrastado con la información disponible hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kbzxggkbzxggkbzx-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:57 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:09 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:58 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:10 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Fri, 09 Oct 2026 01:04:59 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:11 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:00 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:12 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:01 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:13 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:02 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:14 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:15 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:04 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:16 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:05 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:17 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Fri, 09 Oct 2026 01:05:06 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 07:25:18 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>

@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:58:04 +0000</lastBuildDate>
     <item>
       <title>GNOME OS Preview llega con GNOME 51.1 y menos sobresaltos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3413708_gnome-os-preview-llega-con-gnome-51-1-y-menos-sobresaltos</link>
       <guid>https://www.kernelcast.es/noticias/3413708_gnome-os-preview-llega-con-gnome-51-1-y-menos-sobresaltos</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:32 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:05 +0000</pubDate>
       <description>Si alguna vez te ha picado la curiosidad por GNOME OS y te ha frenado la idea de una imagen que se reconstruye cada noche, esta noticia va dirigida a ti. El proyecto ha presentado GNOME OS Preview, una nueva edición construida sobre la última versión estable del escritorio, que en el momento del anuncio es GNOME 51.1. No es todavía el sistema definitivo para todo el mundo, pero sí un paso intermedio pensado para quien quiere vivir de cerca las tecnologías de GNOME sin pagar el peaje de los cambios constantes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_omm4fbomm4fbomm4-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Shelly 3.1.7 estrena RLPM, un motor de paquetes en Zig para Arch. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3413703_shelly-3-1-7-estrena-rlpm-un-motor-de-paquetes-en-zig-para-arch</link>
       <guid>https://www.kernelcast.es/noticias/3413703_shelly-3-1-7-estrena-rlpm-un-motor-de-paquetes-en-zig-para-arch</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:34 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:06 +0000</pubDate>
       <description>Si llevas tiempo en Arch o en cualquiera de sus derivadas, sabes que casi todo lo que instala, actualiza o elimina paquetes acaba hablando con la misma biblioteca: libalpm, el corazón de pacman. Shelly, un gestor de paquetes para Arch Linux y distribuciones basadas en ella, acaba de publicar su versión 3.1.7 con una novedad que toca justo ese cimiento: un motor propio, escrito en Zig, capaz de hacer el trabajo sin pasar por libalpm.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_utnzgrutnzgrutnz-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>Framework triplica su apoyo económico a CachyOS: qué cambia. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3411692_framework-triplica-su-apoyo-economico-a-cachyos-que-cambia</link>
       <guid>https://www.kernelcast.es/noticias/3411692_framework-triplica-su-apoyo-economico-a-cachyos-que-cambia</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:35 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:07 +0000</pubDate>
       <description>Mantener una distribución Linux cuesta dinero, aunque casi nunca lo veas. Servidores que alojan paquetes, espejos que reparten las descargas por medio mundo, máquinas donde compilar y probar: todo eso tiene factura, y en un proyecto independiente la pagan la comunidad o quien decide patrocinarlo. Por eso la noticia de que Framework Computers ha triplicado sus donaciones mensuales a CachyOS, anunciada por el equipo del proyecto el 14 de octubre, merece algo más que un vistazo rápido. No es un titular de relumbrón, pero habla de cómo se sostiene en la práctica el software libre que usas a diario.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_7j8bdf7j8bdf7j8b-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Mesa 26.2.5: correcciones para RADV, ANV, Zink y Freedreno. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3411681_mesa-26-2-5-correcciones-para-radv-anv-zink-y-freedreno</link>
       <guid>https://www.kernelcast.es/noticias/3411681_mesa-26-2-5-correcciones-para-radv-anv-zink-y-freedreno</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:36 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:09 +0000</pubDate>
       <description>Si tu gráfica es una Radeon y llevas tiempo viendo parches negros en las sombras o texturas extrañas cuando activas el trazado de rayos, Mesa 26.2.5 te interesa más que la media de las versiones de mantenimiento. Es la quinta actualización menor de la serie estable Mesa 26.2, la pila de controladores gráficos de código abierto que casi todas las distribuciones Linux usan para hablar con la GPU, y llega con correcciones repartidas entre NVK, Freedreno, RADV, RadeonSI, Zink, ANV, PVR y PanVK. Conviene decirlo pronto: no trae funciones nuevas, es limpieza de errores. De esa que no sale en los titulares pero que decide si tu sesión de juego termina con un cuelgue o sin sobresaltos.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_8yuikw8yuikw8yui-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Thunderbird 158 llega con búsqueda más rápida y arreglos Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3409980_thunderbird-158-llega-con-busqueda-mas-rapida-y-arreglos-linux</link>
       <guid>https://www.kernelcast.es/noticias/3409980_thunderbird-158-llega-con-busqueda-mas-rapida-y-arreglos-linux</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:37 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:10 +0000</pubDate>
       <description>Si tu bandeja de entrada acumula miles de mensajes, sabes lo que es teclear en el buscador y quedarte mirando la pantalla mientras la lista decide si responde. Thunderbird 158.0, el cliente de correo de código abierto de Mozilla, nace precisamente para quitar esas pequeñas fricciones del día a día. Se ha publicado hoy, 14 de octubre, junto con Firefox 158.0 y la versión Enterprise, y está disponible para Linux, Windows y macOS. Conviene fijar expectativas desde el principio: no es una versión de grandes novedades visibles. Es de las que se aprecian por lo que dejan de fallar, y eso, en una herramienta con la que muchas personas trabajan ocho horas al día, tiene más valor del que aparenta.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_i2fa2vi2fa2vi2fa-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Plasma 6.8 llega con KDE en su 30 aniversario y sin sesión X11. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3409970_plasma-6-8-llega-con-kde-en-su-30-aniversario-y-sin-sesion-x11</link>
       <guid>https://www.kernelcast.es/noticias/3409970_plasma-6-8-llega-con-kde-en-su-30-aniversario-y-sin-sesion-x11</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:38 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:11 +0000</pubDate>
       <description>Plasma 6.8 se estrena hoy, 14 de octubre, y lo hace en una fecha con carga simbólica: KDE cumple treinta años. En una efeméride así lo habitual sería una versión de transición, cómoda y sin sobresaltos, pero esta no lo es del todo. Lo que más conversación va a generar no es una función vistosa sino una despedida: Plasma deja de ofrecer sesiones X11 y apuesta por Wayland como única vía.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_41n2fb41n2fb41n2-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>Ubuntu 27.04 Tenacious T-Rex: fecha de lanzamiento y calendario. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3407910_ubuntu-27-04-tenacious-t-rex-fecha-de-lanzamiento-y-calendario</link>
       <guid>https://www.kernelcast.es/noticias/3407910_ubuntu-27-04-tenacious-t-rex-fecha-de-lanzamiento-y-calendario</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:39 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:12 +0000</pubDate>
       <description>El 22 de abril de 2027 es el día que Canonical ha marcado en rojo para Ubuntu 27.04, la próxima versión importante de su distribución, a la que ya han bautizado como Tenacious T-Rex. Todavía falta más de medio año, el desarrollo ni siquiera ha arrancado y Canonical no ha dado ningún detalle técnico, pero el calendario oficial ya está publicado y deja ver bastante bien por dónde irá el ciclo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_lq04vllq04vllq04-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>Firefox 158 trae JPEG XL de serie y renueva el PDF en Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3407891_firefox-158-trae-jpeg-xl-de-serie-y-renueva-el-pdf-en-linux</link>
       <guid>https://www.kernelcast.es/noticias/3407891_firefox-158-trae-jpeg-xl-de-serie-y-renueva-el-pdf-en-linux</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:40 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:13 +0000</pubDate>
       <description>Si llevas años guardando fotos en JPEG y capturas en PNG, sabes que ninguno de los dos formatos envejece especialmente bien. Firefox 158, que acaba de publicar Mozilla, incorpora soporte nativo para JPEG XL, un formato pensado precisamente para jubilar esa pareja. La versión no se queda ahí: cambia la forma en que se generan los PDF en Linux, afina el desplazamiento y trae un puñado de ajustes de comodidad que conviene repasar con calma.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_rrjgtprrjgtprrjg-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>Liquorix 7.2-17: qué es este kernel y para quién tiene sentido. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3406211_liquorix-7-2-17-que-es-este-kernel-y-para-quien-tiene-sentido</link>
       <guid>https://www.kernelcast.es/noticias/3406211_liquorix-7-2-17-que-es-este-kernel-y-para-quien-tiene-sentido</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:41 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:14 +0000</pubDate>
       <description>Hay un momento que conoce cualquiera que juegue o trabaje con el escritorio muy exprimido: no es que el sistema vaya lento, es que a veces tarda un instante de más en responder, y ese instante se nota. Ahí entran los kernels pensados para la capacidad de respuesta, y Liquorix 7.2-17, etiquetado hoy por Steven Barrett sobre Linux 7.2.10, es una buena excusa para repasar qué ofrece y qué te cobra a cambio. Te adelanto que la versión en sí es casi un trámite. Lo interesante está en lo que arrastra consigo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_2kocc32kocc32koc-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>Qt 6.12 LTS: Hot Reload en QML, StyleKit y soporte para la CRA. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3406199_qt-6-12-lts-hot-reload-en-qml-stylekit-y-soporte-para-la-cra</link>
       <guid>https://www.kernelcast.es/noticias/3406199_qt-6-12-lts-hot-reload-en-qml-stylekit-y-soporte-para-la-cra</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:42 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:15 +0000</pubDate>
       <description>Cuando sale una versión nueva de Qt, quienes usan Linux en el escritorio lo notan tarde y de refilón: un panel que se comporta distinto, una aplicación que por fin se ve nítida en tu pantalla. Aun así, Qt 6.12 LTS merece que te pares un momento, porque no es una entrega más. The Qt Company la ha designado como versión de soporte a largo plazo, y eso condiciona lo que se construirá encima durante años. Si usas KDE Plasma o cualquier aplicación hecha con este framework, lo que se decide aquí acaba llegando a tu escritorio, aunque sea con retraso.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_q65ofhq65ofhq65o-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>GStreamer 1.28.8 pule el codificador AV1 de AMD y el vídeo HLS. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3404453_gstreamer-1-28-8-pule-el-codificador-av1-de-amd-y-el-video-hls</link>
       <guid>https://www.kernelcast.es/noticias/3404453_gstreamer-1-28-8-pule-el-codificador-av1-de-amd-y-el-video-hls</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:43 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:16 +0000</pubDate>
       <description>Si alguna vez has reproducido un vídeo en Linux, grabado la pantalla o abierto un stream en directo, es muy probable que GStreamer haya trabajado por ti sin que lo supieras. Es el motor multimedia que corre por debajo de media escritorio libre, y acaba de recibir GStreamer 1.28.8, la octava actualización de mantenimiento de la serie 1.28. No es una versión de las que llenan titulares, pero sí de las que hacen que lo que ya usas deje de fallar en los rincones raros.Llega un mes después de la 1.28.7, y su carácter es el que se espera de una revisión de este tipo: pocas novedades llamativas y un buen puñado de correcciones.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_wair0twair0twair-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>Concessio entra en GNOME Circle y otras novedades de la semana. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3403602_concessio-entra-en-gnome-circle-y-otras-novedades-de-la-semana</link>
       <guid>https://www.kernelcast.es/noticias/3403602_concessio-entra-en-gnome-circle-y-otras-novedades-de-la-semana</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:44 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:17 +0000</pubDate>
       <description>Si llevas tiempo usando Linux, seguro que has tecleado chmod más veces de las que recuerdas, y probablemente también has dudado delante de un número de tres cifras sin tener claro qué permisos concede realmente. Esa incomodidad es la que intenta resolver Concessio, una aplicación que acaba de publicar su versión 1.0.0 y que, según la nota semanal de GNOME correspondiente al periodo del 2 al 9 de octubre, ya forma parte de GNOME Circle, el grupo de aplicaciones que el proyecto reconoce por su calidad y su buena integración con el escritorio. Es la novedad más llamativa de una semana con bastante movimiento en el ecosistema.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_oyxk9zoyxk9zoyxk-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Winget, el gestor de paquetes que Windows llevaba años necesitando. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</link>
       <guid>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:45 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:18 +0000</pubDate>
       <description>Si vienes del mundo Linux sabrás que uno de los mayores placeres de este sistema operativo es poder instalar, actualizar o eliminar programas desde una terminal con un solo comando. Herramientas como apt, dnf o pacman llevan décadas haciendo que gestionar el software sea rápido, predecible y automatizable. Durante mucho tiempo, Windows se quedó atrás en este aspecto, obligándote a buscar instaladores en páginas web, hacer clic en botones de siguiente y lidiar con barras de herramientas no deseadas. Eso cambió con la llegada de winget, el gestor de paquetes oficial de Microsoft que finalmente acerca a Windows a esa filosofía que en Linux das por sentada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_4fsly84fsly84fsl-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Hardware en 2026: retrasos, subidas de precio y una crisis de memoria que lo cambia todo. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</link>
       <guid>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:46 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:19 +0000</pubDate>
       <description>Si sigues de cerca las noticias de hardware, esta semana no ha sido de las tranquilas. Entre filtraciones, declaraciones de fabricantes y anuncios oficiales, el panorama que se dibuja para los próximos dos años apunta a retrasos en las nuevas generaciones de tarjetas gráficas, subidas notables en el precio de la memoria RAM y movimientos estratégicos tanto en Intel como en AMD que van a condicionar tu próxima compra de PC o consola. Te contamos lo más relevante, contrastado con la información disponible hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kbzxggkbzxggkbzx-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:48 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:20 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:49 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:21 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:50 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:22 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:51 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:23 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:51 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:24 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:53 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:25 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:54 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:26 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:55 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:27 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:56 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:28 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Sat, 17 Oct 2026 20:51:57 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:58:29 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>

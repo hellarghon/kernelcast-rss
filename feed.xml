@@ -5,12 +5,12 @@
     <link>https://www.kernelcast.es</link>
     <description>Últimas noticias de KernelCast</description>
     <language>es</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:59:15 +0000</lastBuildDate>
     <item>
       <title>Plasma 6.8.2: qué corrige KDE en KWin, Wayland y multimonitor. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3427270_plasma-6-8-2-que-corrige-kde-en-kwin-wayland-y-multimonitor</link>
       <guid>https://www.kernelcast.es/noticias/3427270_plasma-6-8-2-que-corrige-kde-en-kwin-wayland-y-multimonitor</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:21 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:16 +0000</pubDate>
       <description>Si trabajas con dos o tres monitores en Plasma, quizá te suene esta escena: abres la sesión y los archivos y carpetas del escritorio han desaparecido de la pantalla principal. No se han borrado, simplemente no se ven. Es uno de esos fallos pequeños que no salen en ningún titular y que, aun así, te estropean la mañana. KDE Plasma 6.8.2, la segunda actualización de mantenimiento de la serie 6.8 y sucesora de Plasma 6.8.1, llega precisamente para arreglar cosas así. No esperes funciones espectaculares: es una colección de correcciones para regresiones y comportamientos extraños que fueron apareciendo con el uso real.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_292kpe292kpe292k-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -18,7 +18,7 @@
       <title>Linux 7.3: qué cambia en Btrfs, Ext4 y el aislamiento failfs. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3427265_linux-7-3-que-cambia-en-btrfs-ext4-y-el-aislamiento-failfs</link>
       <guid>https://www.kernelcast.es/noticias/3427265_linux-7-3-que-cambia-en-btrfs-ext4-y-el-aislamiento-failfs</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:23 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:17 +0000</pubDate>
       <description>Con el kernel Linux 7.3 pasa lo de siempre y, a la vez, algo distinto. Lo de siempre: te llegará con tu próxima actualización y el escritorio se verá exactamente igual. Lo distinto: bajo el capó hay decisiones que dicen bastante de hacia dónde va el sistema, desde qué sistemas de archivos se jubilan hasta cómo se encierra a un proceso para que no pueda tocar nada. Linus Torvalds lo anunció tras dos meses de desarrollo, con 20.260 parches de 3.171 desarrolladores, 807 de ellos colaborando por primera vez. Casi 15.000 archivos tocados, más de 940.000 líneas nuevas y cerca de 300.000 eliminadas, con un peso enorme de los controladores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_3bu4c93bu4c93bu4-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -26,7 +26,7 @@
       <title>WireGuard Easy 15.5: AmneziaWG 3.1 y API sin claves privadas. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3423272_wireguard-easy-15-5-amneziawg-3-1-y-api-sin-claves-privadas</link>
       <guid>https://www.kernelcast.es/noticias/3423272_wireguard-easy-15-5-amneziawg-3-1-y-api-sin-claves-privadas</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:24 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:19 +0000</pubDate>
       <description>Montar una VPN propia con WireGuard es sencillo sobre el papel: pocas líneas de configuración y un rendimiento que ha convencido a media comunidad. Lo incómodo llega cuando tienes que crear pares, repartir ficheros y acordarte de qué clave era de qué móvil. Ahí entra WireGuard Easy, la herramienta de código abierto que te ofrece una interfaz web para administrar tu servidor VPN. Acaba de publicar su versión 15.5, que mezcla novedades de protocolo, seguridad y ajustes pensados para quien lo tiene en producción.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_it2lxcit2lxcit2l-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -34,7 +34,7 @@
       <title>Transmission 4.1.4 llega con correcciones de seguridad y fallos. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3422289_transmission-4-1-4-llega-con-correcciones-de-seguridad-y-fallos</link>
       <guid>https://www.kernelcast.es/noticias/3422289_transmission-4-1-4-llega-con-correcciones-de-seguridad-y-fallos</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:25 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:20 +0000</pubDate>
       <description>Transmission es de esos programas que uno instala una vez y se olvida de que existen hasta que algo falla. Por eso las versiones de mantenimiento como Transmission 4.1.4 suelen pasar desapercibidas, y sin embargo merece la pena mirarlas con algo de calma. Esta cuarta actualización de la serie 4.1 del cliente BitTorrent de código abierto llega casi cuatro meses después de la 4.1.3. No trae funciones llamativas, pero sí un buen puñado de correcciones, algunas bastante más serias de lo que sugiere un número de versión que solo ha cambiado en el último dígito.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_k02qtmk02qtmk02q-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -42,7 +42,7 @@
       <title>Agama 25, el instalador de openSUSE, añade terminal web y salida. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3420968_agama-25-el-instalador-de-opensuse-anade-terminal-web-y-salida</link>
       <guid>https://www.kernelcast.es/noticias/3420968_agama-25-el-instalador-de-opensuse-anade-terminal-web-y-salida</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:26 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:21 +0000</pubDate>
       <description>Imagina que estás a mitad de una instalación de Linux, con el asistente abierto en el navegador, y de pronto necesitas comprobar un disco, mirar una interfaz de red o ejecutar un comando que el instalador no ofrece. Para eso suele hacer falta otra consola o un acceso aparte. Con Agama 25, el instalador web de openSUSE, esa escapada deja de ser necesaria, porque la versión incorpora un terminal que funciona dentro del propio navegador. Llega para Tumbleweed, Slowroll y MicroOS y, junto a otras mejoras, retrata bastante bien el momento en que se encuentra el relevo de YaST.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_p862vbp862vbp862-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -50,7 +50,7 @@
       <title>Shelly 3.1.9, gestor de paquetes de Arch, mejora el soporte AUR. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3420961_shelly-3-1-9-gestor-de-paquetes-de-arch-mejora-el-soporte-aur</link>
       <guid>https://www.kernelcast.es/noticias/3420961_shelly-3-1-9-gestor-de-paquetes-de-arch-mejora-el-soporte-aur</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:27 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:22 +0000</pubDate>
       <description>Quien usa Arch Linux con cierta frecuencia acaba conviviendo con el AUR, ese repositorio mantenido por la comunidad donde está casi todo lo que no encuentras en los repos oficiales. Y quien convive con el AUR conoce la escena: lanzas una actualización, una compilación se rompe a mitad de camino y te quedas con un mensaje que apenas te dice qué ha fallado ni por qué. Esa incomodidad es justo la que ataca Shelly 3.1.9, la nueva versión de mantenimiento de este gestor de paquetes para Arch y derivadas, con interfaz gráfica y de línea de comandos, que se plantea como alternativa moderna al administrador por defecto. No es una revolución, pero sí un buen puñado de arreglos con sentido.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_8aqbf8aqbf8aqbf8-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -58,7 +58,7 @@
       <title>AMD prepara un controlador de overclocking Ryzen para Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3419480_amd-prepara-un-controlador-de-overclocking-ryzen-para-linux</link>
       <guid>https://www.kernelcast.es/noticias/3419480_amd-prepara-un-controlador-de-overclocking-ryzen-para-linux</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:28 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:24 +0000</pubDate>
       <description>Si tienes un Ryzen y usas Linux, seguramente te ha pasado alguna vez que querías retocar los límites de consumo del procesador y la cosa se complicaba más de lo que debería: entrar a la BIOS, buscar el menú correcto, guardar, reiniciar y volver a probar. Ahora AMD plantea algo distinto, una interfaz oficial dentro del propio kernel. El ingeniero de AMD Shyam Sundar S K ha publicado en la lista de desarrollo de controladores de plataforma x86 una serie de parches para un controlador de overclocking de Ryzen en Linux que expone ajustes del firmware a través de sysfs, ese sistema de archivos virtual donde el kernel muestra los parámetros de los dispositivos como ficheros que puedes leer y escribir. Conviene decirlo desde el principio: son parches publicados para revisión, no algo que ya venga con tu kernel.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_5ogzix5ogzix5ogz-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -66,7 +66,7 @@
       <title>LibreOffice suma 9,4 millones de descargas en ocho semanas. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3419478_libreoffice-suma-9-4-millones-de-descargas-en-ocho-semanas</link>
       <guid>https://www.kernelcast.es/noticias/3419478_libreoffice-suma-9-4-millones-de-descargas-en-ocho-semanas</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:29 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:25 +0000</pubDate>
       <description>Si hace un par de meses te hubieran dicho que una suite ofimática de código abierto iba a mover más de un millón de descargas cada semana durante casi dos meses seguidos, probablemente habrías pensado en un pico pasajero, de esos que acompañan a cualquier lanzamiento importante. Pues no lo ha sido. Según los datos que acaba de publicar The Document Foundation, LibreOffice acumuló 9,4 millones de descargas entre el 24 de agosto y el 18 de octubre, las ocho semanas posteriores a la llegada de la versión 26.8. Y hay un detalle que cambia la lectura de todo: con diez semanas todavía por delante, las descargas de 2026 ya han superado el total de 2025 completo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_2wg1ah2wg1ah2wg1-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -74,7 +74,7 @@
       <title>OBS Studio 33 RC3: nuevo Chromium y plugins en cuenta atrás. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3418370_obs-studio-33-rc3-nuevo-chromium-y-plugins-en-cuenta-atras</link>
       <guid>https://www.kernelcast.es/noticias/3418370_obs-studio-33-rc3-nuevo-chromium-y-plugins-en-cuenta-atras</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:30 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:26 +0000</pubDate>
       <description>Si montas tus directos con OBS y has ido acumulando plugins de la comunidad para alertas, overlays o control de escenas, conviene que dejes de mirar las novedades vistosas y prestes atención a lo que viene bajo el capó. OBS Studio 33 está a punto de salir: el candidato RC3 apareció el 20 de octubre de 2026 y, aunque casi todo son correcciones de errores, arrastra dos cambios estructurales que acabarán afectándote aunque hoy no los veas en pantalla.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_23fg1923fg1923fg-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -82,7 +82,7 @@
       <title>Firefox 158.0.1 bloquea certificados de eMudhra y arregla Linux. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3417750_firefox-158-0-1-bloquea-certificados-de-emudhra-y-arregla-linux</link>
       <guid>https://www.kernelcast.es/noticias/3417750_firefox-158-0-1-bloquea-certificados-de-emudhra-y-arregla-linux</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:31 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:27 +0000</pubDate>
       <description>Una versión nueva de Firefox y, siete días después, otra de emergencia: cuando pasa eso conviene mirar con atención qué ha ocurrido. Mozilla ha publicado hoy Firefox 158.0.1, un parche que llega apenas una semana después de Firefox 158 y que bloquea unos certificados intermedios de la entidad eMudhra que han quedado comprometidos. La buena noticia es que, según la propia Mozilla, el usuario corriente que navega por webs normales no debería haber notado nada. La menos vistosa, pero igual de útil, es que la actualización arregla de paso un fallo muy molesto de Linux con varios monitores y cierra cuatro vulnerabilidades.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_jk0vphjk0vphjk0v-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -90,7 +90,7 @@
       <title>Kernel Linux 7.3: FailFS, scheduler y récord de colaboradores. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3416729_kernel-linux-7-3-failfs-scheduler-y-record-de-colaboradores</link>
       <guid>https://www.kernelcast.es/noticias/3416729_kernel-linux-7-3-failfs-scheduler-y-record-de-colaboradores</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:32 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:29 +0000</pubDate>
       <description>Linus Torvalds ha publicado Linux 7.3, y lo primero que llama la atención no es una función concreta sino el volumen: 18.765 commits no-merge, 3.021 desarrolladores y 807 colaboradores que participaban por primera vez. Según la fuente, las tres cifras son récords, lo que sitúa a este kernel entre los lanzamientos más grandes en actividad de desarrollo. Un commit no-merge es, para entendernos, un cambio real de código, sin contar los que solo sirven para unir ramas. Que un proyecto con tantos años encima siga atrayendo a cientos de personas nuevas en cada ciclo dice bastante de su salud. La última semana, curiosamente, fue de lo más tranquila: Torvalds la describió sin incidentes, con correcciones repartidas por distintos subsistemas y nada que destacar. Hasta bromeó con haber conseguido, por una vez, acordarse del día de la semana para que el lanzamiento no se retrasara por despiste. La ventana de integración de Linux 7.4 se abre ya, aunque avisa de que sus vacaciones familiares anuales pueden alterar un poco el calendario.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_lur2zllur2zllur2-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -98,7 +98,7 @@
       <title>GNOME 51.1 y 50.6: qué corrigen y por qué conviene actualizar. / Noticias | kernelcast</title>
       <link>https://www.kernelcast.es/noticias/3416720_gnome-51-1-y-50-6-que-corrigen-y-por-que-conviene-actualizar</link>
       <guid>https://www.kernelcast.es/noticias/3416720_gnome-51-1-y-50-6-que-corrigen-y-por-que-conviene-actualizar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:33 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:30 +0000</pubDate>
       <description>Hay actualizaciones que no salen en ningún titular llamativo y, sin embargo, son las que más se notan en el día a día: esa ventana que por fin se coloca donde toca, o el arrastrar y soltar que deja de fallar entre aplicaciones. GNOME 51.1 y GNOME 50.6 pertenecen a esa familia discreta. Son versiones de mantenimiento, sin funciones nuevas que presumir, pero con una lista de correcciones que merece una lectura tranquila, sobre todo si usas GNOME a diario y quieres saber qué te llegará con la próxima actualización de tu distribución.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_opaxm9opaxm9opax-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -106,7 +106,7 @@
       <title>Winget, el gestor de paquetes que Windows llevaba años necesitando. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</link>
       <guid>https://www.kernelcast.es/blog/3345499_winget-el-gestor-de-paquetes-que-windows-llevaba-anos-necesitando</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:35 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:31 +0000</pubDate>
       <description>Si vienes del mundo Linux sabrás que uno de los mayores placeres de este sistema operativo es poder instalar, actualizar o eliminar programas desde una terminal con un solo comando. Herramientas como apt, dnf o pacman llevan décadas haciendo que gestionar el software sea rápido, predecible y automatizable. Durante mucho tiempo, Windows se quedó atrás en este aspecto, obligándote a buscar instaladores en páginas web, hacer clic en botones de siguiente y lidiar con barras de herramientas no deseadas. Eso cambió con la llegada de winget, el gestor de paquetes oficial de Microsoft que finalmente acerca a Windows a esa filosofía que en Linux das por sentada.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_4fsly84fsly84fsl-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -114,7 +114,7 @@
       <title>Hardware en 2026: retrasos, subidas de precio y una crisis de memoria que lo cambia todo. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</link>
       <guid>https://www.kernelcast.es/blog/3344875_hardware-en-2026-retrasos-subidas-de-precio-y-una-crisis-de-memoria-que-lo-cambia-todo</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:35 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:32 +0000</pubDate>
       <description>Si sigues de cerca las noticias de hardware, esta semana no ha sido de las tranquilas. Entre filtraciones, declaraciones de fabricantes y anuncios oficiales, el panorama que se dibuja para los próximos dos años apunta a retrasos en las nuevas generaciones de tarjetas gráficas, subidas notables en el precio de la memoria RAM y movimientos estratégicos tanto en Intel como en AMD que van a condicionar tu próxima compra de PC o consola. Te contamos lo más relevante, contrastado con la información disponible hasta ahora.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/gemini_generated_image_kbzxggkbzxggkbzx-high.jpg?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -122,7 +122,7 @@
       <title>Software libre frente a software de pago, análisis honesto herramienta por herramienta. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</link>
       <guid>https://www.kernelcast.es/blog/3260827_software-libre-frente-a-software-de-pago-analisis-honesto-herramienta-por-herramienta</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:36 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:34 +0000</pubDate>
       <description>Cuando planteamos una comparativa como la que proponíamos en la infografía de KernelCast, la tentación más habitual es simplificar el mensaje a una idea única y repetida hasta la saciedad, el software libre es mejor y gratis, así que cámbiate ya. Ese discurso, aunque emocionalmente satisfactorio, no resiste un análisis riguroso y además hace un flaco favor a la causa del software libre, porque genera expectativas que luego se rompen en el uso real y terminan alimentando la desconfianza hacia estas herramientas. Por eso este artículo no va a repetir ese argumento fácil. Vamos a recorrer una por una las diez propuestas de la infografía, comparándolas con su equivalente privativo con la mayor honestidad posible, señalando dónde cada alternativa libre está a la altura, dónde todavía no llega, y en qué contextos concretos tiene sentido el cambio.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/d3652664-e507-4de7-9a40-5385d5c8e518-high-0aq8ug.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -130,7 +130,7 @@
       <title>Montar Google Drive en KDE Plasma sin depender de Google. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</link>
       <guid>https://www.kernelcast.es/blog/3212432_montar-google-drive-en-kde-plasma-sin-depender-de-google</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:38 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:35 +0000</pubDate>
       <description>Si usas KDE Plasma y alguna vez has intentado conectar Google Drive de forma nativa, probablemente hayas topado con KIO GDrive. Está integrado en Dolphin, suena bien en teoría, pero hay un problema: para que funcione sin restricciones, KDE necesita la aprobación de Google para su aplicación OAuth, y eso no es algo que el usuario pueda resolver por su cuenta. El resultado es que los tokens caducan cada siete días si la app está en modo de prueba, lo que convierte la experiencia en algo bastante frustrante.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/297d813c-7103-4840-b74e-c1c787a2e85d-high.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -138,7 +138,7 @@
       <title>El cártel de la memoria podría tener los días contados. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</link>
       <guid>https://www.kernelcast.es/blog/3183703_el-cartel-de-la-memoria-podria-tener-los-dias-contados</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:39 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:36 +0000</pubDate>
       <description>Durante décadas, el mercado de la memoria RAM ha funcionado como un oligopolio silencioso. Samsung, SK Hynix y Micron han controlado en torno al 70 por ciento de la producción mundial de DRAM sin que nadie les hiciera sombra. Pero en los últimos meses, ese equilibrio cómodo y lucrativo empieza a mostrar sus primeras grietas serias, y la presión llega desde un frente que muchos no esperaban: China.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/4cfdba1b-5ef5-40ba-8c7e-8250d3a8bc14-standard.png" medium="image" />
     </item>
@@ -146,7 +146,7 @@
       <title>Cómo instalar QSync de QNAP en Fedora. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</link>
       <guid>https://www.kernelcast.es/blog/3160696_como-instalar-qsync-de-qnap-en-fedora</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:40 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:37 +0000</pubDate>
       <description>QNAP ofrece su cliente de sincronización QSync únicamente en formato .deb, pensado para distribuciones basadas en Ubuntu o Debian. Si usas Fedora con KDE Plasma, la solución más habitual, convertir el paquete con alien, no funciona porque el .deb de QNAP incluye librerías propietarias que no existen en los repositorios de Fedora y que el gestor de paquetes no puede resolver. El camino correcto es otro: extraer el contenido del paquete manualmente y colocar los archivos donde corresponde. Este tutorial te explica cómo hacerlo de forma limpia y funcional.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-9ndnyt.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -154,7 +154,7 @@
       <title>Esto no es una victoria contra la piratería. Es una derrota para la neutralidad de Internet y la privacidad. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</link>
       <guid>https://www.kernelcast.es/blog/3013660_esto-no-es-una-victoria-contra-la-pirateria-es-una-derrota-para-la-neutralidad-de-internet-y-la-privacidad</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:41 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:38 +0000</pubDate>
       <description>Voy a ser claro desde el principio: lo que estamos viendo no es una gran hazaña contra la piratería. No es justicia poética. No es el “orden restaurado”. Es otra cosa. Es un precedente peligroso que erosiona principios básicos como la neutralidad de la red y el derecho a la privacidad. Y sí, debería preocuparte aunque no veas fútbol. Aunque lo detestes.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-high-rvym6e.png?enable-io=true&amp;enable=upscale&amp;fit=bounds&amp;width=1200" medium="image" />
     </item>
@@ -162,7 +162,7 @@
       <title>La RAM se dispara: por qué DDR4 y DDR5 seguirán caras en 2026 (y qué hacer ahora). / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</link>
       <guid>https://www.kernelcast.es/blog/2914800_la-ram-se-dispara-por-que-ddr4-y-ddr5-seguiran-caras-en-2026-y-que-hacer-ahora</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:42 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:40 +0000</pubDate>
       <description>El mercado de la memoria RAM lleva ya un tiempo dando avisos… y ahora mismo está claramente en una fase alcista. Tanto DDR4 como DDR5 han encadenado subidas muy fuertes entre 2024 y 2025, y todo apunta a que 2026 no va a ser el año del alivio inmediato. Lo que se espera, más bien, es una desaceleración del ritmo de subida. Es decir: precios aún altos, pero creciendo más despacio. Nada de bajadas rápidas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/chatgpt-image-4-ene-2026-17_04_29-standard.png" medium="image" />
     </item>
@@ -170,7 +170,7 @@
       <title>Un año entero hablando de tecnología, sin perder el pulso humano. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</link>
       <guid>https://www.kernelcast.es/blog/2899962_un-ano-entero-hablando-de-tecnologia-sin-perder-el-pulso-humano</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:43 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:41 +0000</pubDate>
       <description>2025 no ha sido un año tranquilo.En tecnología, casi nunca lo es. Pero este ha tenido algo especial: cambios constantes, debates incómodos, decisiones que han generado ilusión… y otras que han sembrado dudas.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/banner_kernelcast-high.png" medium="image" />
     </item>
@@ -178,7 +178,7 @@
       <title>Plex: por qué crear tu propia biblioteca de películas y series sigue siendo una gran idea. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</link>
       <guid>https://www.kernelcast.es/blog/2881173_plex-por-que-crear-tu-propia-biblioteca-de-peliculas-y-series-sigue-siendo-una-gran-idea</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:44 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:42 +0000</pubDate>
       <description>Plex lleva años siendo una de esas plataformas que, cuando la descubres bien, te preguntas cómo has podido vivir sin ella. No es un simple reproductor multimedia ni un servicio de streaming más. Plex es, en esencia, una forma elegante y muy potente de convertir tu colección de películas y series en tu propio centro multimedia personal, accesible desde casi cualquier dispositivo.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/plex-streaming-standard.jpg" medium="image" />
     </item>
@@ -186,7 +186,7 @@
       <title>La gran subida del precio de la RAM: qué está pasando realmente y qué podemos esperar. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</link>
       <guid>https://www.kernelcast.es/blog/2869488_la-gran-subida-del-precio-de-la-ram-que-esta-pasando-realmente-y-que-podemos-esperar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:45 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:43 +0000</pubDate>
       <description>Si has intentado actualizar tu PC en los últimos meses, probablemente hayas notado algo raro: la memoria RAM se ha puesto por las nubes. Lo que antes costaba cuatro duros ahora obliga a mirar dos veces el carrito antes de darle a comprar. Y no, no es tu imaginación. El precio de la RAM lleva medio año escalando sin freno, tanto en consumo como en servidores.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/image-standard-tostmt.png" medium="image" />
     </item>
@@ -194,7 +194,7 @@
       <title>Cómo instalar el driver Ethernet Motorcomm YT6801 en el Slimbook EVO con Arch Linux. / Blog | kernelcast</title>
       <link>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</link>
       <guid>https://www.kernelcast.es/blog/2740293_como-instalar-el-driver-ethernet-motorcomm-yt6801-en-el-slimbook-evo-con-arch-linux</guid>
-      <pubDate>Thu, 29 Oct 2026 00:14:46 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:59:44 +0000</pubDate>
       <description>Si tienes un Slimbook EVO y tu conexión por cable Ethernet no funciona en Arch Linux, lo más probable es que necesites instalar el driver del chip Motorcomm YT6801.Este modelo de controlador de red no viene soportado por defecto en el kernel de Linux, pero afortunadamente la comunidad de Arch mantiene un paquete DKMS en AUR que soluciona el problema: yt6801-dkms.</description>
       <media:content url="https://primary.jwwb.nl/public/v/j/e/temp-iiinooaskfamtvegrren/pasted-image-sat-oct-04-2025-08-41-56-gmt-0200-hora-de-verano-de-europa-central-high.png" medium="image" />
     </item>
